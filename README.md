@@ -56,7 +56,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **ICU**              | Total cases in intensive care units |
 | **ICU_Now**          | Currently in intensive care units |
 | **Negative**         | Negative tests |
-| **Pending**          | Pegative tests |
+| **Pending**          | Pending tests |
 | **Positive**         | Positive tests |
 | **Recovered**        | Recovered cases |
 | **Tested**           | Cases tested = Tests - Pending |
@@ -79,4 +79,4 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 
 To cite this dataset:
 
-> Badr, H. S., **2020**: _Unified COVID-19 Dataset_. Available on: `https://github.com/hsbadr/COVID-19`.
+> Badr, H. S., **2020**: Unified COVID-19 Dataset. _GitHub_, `https://github.com/hsbadr/COVID-19`.
