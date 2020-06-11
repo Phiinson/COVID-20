@@ -59,7 +59,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **Pending**          | Pegative tests |
 | **Positive**         | Positive tests |
 | **Recovered**        | Recovered cases |
-| **Tested**           | Cases tested |
+| **Tested**           | Cases tested = Tests - Pending |
 | **Tests**            | Total performed tests |
 | **Ventilator**       | Total cases receiving mechanical ventilation |
 | **Ventilator_Now**   | Currently receiving mechanical ventilation |
