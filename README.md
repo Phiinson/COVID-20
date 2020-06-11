@@ -23,14 +23,13 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **Day**            | Integer    | Day of data record |
 | **DoW**            | Charachter | Day of the week |
 | **Cases**          | Integer    | Number of cumulative cases |
-| **Cases_Max**      | Integer    | Maximum number of cumulative cases |
 | **Cases_New**      | Integer    | Number of new daily cases |
-| **Type**           | Charachter | [Type](#Case-Type)  of the reported cases |
-| **Source**         | Charachter | [Source](#Data-Source) of the data: CTP, JHU, NYT, DPC, RKI |
+| **Type**           | Charachter | Type of the reported cases |
+| **Source**         | Charachter | Source of the data: CTP, JHU, NYT, DPC, RKI |
 | **Level**          | Charachter | Geographic level: County, Jurisdiction, State, Province, Cruise Ship, Country |
 | **Longitude**      | Double     | Geographic coordinate (centroid), east–west |
 | **Latitude**       | Double     | Geographic coordinate (centroid), north–south |
-| **Population**     | Integer    | Population for each group and geographic unit |
+| **Population**     | Integer    | Population of each geographic unit |
 | **ISO3166_1_3N**   | Charachter | ISO 3166-1 numeric code, 3-digit, country/region |
 | **ISO3166_1_3C**   | Charachter | ISO 3166-1 alpha-3 code, 3-letter, country/region |
 | **ISO3166_1_2C**   | Charachter | ISO 3166-1 alpha-2 code, 3-letter, country/region |
