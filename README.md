@@ -32,7 +32,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **Population**     | Integer    | Population of each geographic unit |
 | **ISO3166_1_3N**   | Charachter | ISO 3166-1 numeric code, 3-digit, country/region |
 | **ISO3166_1_3C**   | Charachter | ISO 3166-1 alpha-3 code, 3-letter, country/region |
-| **ISO3166_1_2C**   | Charachter | ISO 3166-1 alpha-2 code, 3-letter, country/region |
+| **ISO3166_1_2C**   | Charachter | ISO 3166-1 alpha-2 code, 2-letter, country/region |
 | **ISO3166_2**      | Charachter | ISO 3166-2 code, province/state |
 | **ISO3166_2_UID**  | Charachter | ISO 3166-2 code, province/state, full/unique |
 | **NUTS**           | Charachter | Nomenclature of Territorial Units for Statistics (NUTS), Europe |
