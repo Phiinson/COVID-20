@@ -11,6 +11,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
   * Standardizing Country/Province/State/County codes
   * Standardizing dates and data types/formats
   * Cleaning the data and fixing confusing entries
+  * Integrating an augmented version from all sources (future releases)
   * Optimizing the data for machine learning applications
 
 ## Data Structure
