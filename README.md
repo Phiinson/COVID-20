@@ -1,5 +1,5 @@
 # Unified COVID-19 Dataset
-[![Copyright: © 2020 Johns Hopkins University (JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202020%20Johns%20Hopkins%20University%20%28JHU%29-blue.svg)](https://pages.jh.edu/~hbadr1)
+[![Copyright: © 2020 JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202020%20JHU-blue.svg)](https://pages.jh.edu/~hbadr1)
 [![Credits: NASA](https://img.shields.io/badge/Credits-NASA-blue.svg)](#Credits)
 [![Citation: Badr et. al 2020](https://img.shields.io/badge/Citation-Badr%20et%20al.%202020-blue.svg)](#Citation)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
