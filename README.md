@@ -1,5 +1,6 @@
 # Unified COVID-19 Dataset
-[![Copyright © 2020 Johns Hopkins University (JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202020%20Johns%20Hopkins%20University%20%28JHU%29-blue.svg)](https://pages.jh.edu/~hbadr1)
+[![Copyright: © 2020 Johns Hopkins University (JHU)](https://img.shields.io/badge/Copyright-%C2%A9%202020%20Johns%20Hopkins%20University%20%28JHU%29-blue.svg)](https://pages.jh.edu/~hbadr1)
+[![Credits: NASA](https://img.shields.io/badge/Credits-NASA-blue.svg)](#Credits)
 [![Citation: Badr et. al 2020](https://img.shields.io/badge/Citation-Badr%20et%20al.%202020-blue.svg)](#Citation)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub Commit](https://img.shields.io/github/last-commit/hsbadr/COVID-19)](https://github.com/hsbadr/COVID-19/commits/master)
@@ -75,6 +76,10 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **NYT** | [The New York Times](https://github.com/nytimes/covid-19-data) | County/State, United States |
 | **DPC** | [Italian Civil Protection Department](https://github.com/pcm-dpc/COVID-19) | NUTS3/NUTS2, Italy |
 | **RKI** | [Robert Koch-Institut, Germany](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) | NUTS3/NUTS2, Germany |
+
+## Credits
+
+This work is supported by NASA Health & Air Quality project `80NSSC18K0327`, under a COVID-19 supplement.
 
 ## Citation
 
