@@ -15,34 +15,42 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
   * Integrating an augmented version from all sources (future releases)
   * Optimizing the data for machine learning applications
 
-## Data Structure
+## Geographic ID
 
-|     Column         |    Type    |              Description             |
+<img src="https://pages.jh.edu/~hbadr1/files/COVID-19_ID.svg" title="Geographic ID for the Unified COVID-19 Dataset" alt="COVID-19 ID" style="display: block; margin: auto;" />
+
+## Lookup Table
+
+|     Column         |    Type    |              Description            |
 |:------------------:|:----------:|:------------------------------------|
-| **Date**           | Date       | Date of data record |
-| **Year**           | Integer    | Year of data record |
-| **Month**          | Integer    | Month of data record |
-| **Day**            | Integer    | Day of data record |
-| **DoW**            | Charachter | Day of the week |
-| **Cases**          | Integer    | Number of cumulative cases |
-| **Cases_New**      | Integer    | Number of new daily cases |
-| **Type**           | Charachter | Type of the reported cases |
-| **Source**         | Charachter | Source of the data: CTP, JHU, NYT, DPC, RKI |
-| **Level**          | Charachter | Geographic level: County, Jurisdiction, State, Province, Cruise Ship, Country |
+| **ID**             | Charachter | Geographic ID, unique identifier (described above) |
+| **NameID**         | Charachter | Full combined name of geographic unit, unique ID |
+| **Admin0**         | Charachter | Standard name of administrative level 0 (countries) |
+| **Admin1**         | Charachter | Standard name of administrative level 1 (provinces/states) |
+| **Admin2**         | Charachter | Standard name of administrative level 2 (subregions/counties) |
+| **Admin3**         | Charachter | Standard name of administrative level 3 (districts/ZIP code areas) |
+| **ISO1_3N**        | Charachter | ISO 3166-1 numeric code, 3-digit, administrative level 0 (countries) |
+| **ISO1_3C**        | Charachter | ISO 3166-1 alpha-3 code, 3-letter, administrative level 0 (countries) |
+| **ISO1_2C**        | Charachter | ISO 3166-1 alpha-2 code, 2-letter, administrative level 0 (countries) |
+| **ISO2**           | Charachter | ISO 3166-2 code, principal subdivisions (provinces/states) |
+| **ISO2_UID**       | Charachter | ISO 3166-2 code, principal subdivisions (provinces/states), full/unique |
 | **Longitude**      | Double     | Geographic coordinate (centroid), east–west |
 | **Latitude**       | Double     | Geographic coordinate (centroid), north–south |
 | **Population**     | Integer    | Population of each geographic unit |
-| **ISO3166_1_3N**   | Charachter | ISO 3166-1 numeric code, 3-digit, country/region |
-| **ISO3166_1_3C**   | Charachter | ISO 3166-1 alpha-3 code, 3-letter, country/region |
-| **ISO3166_1_2C**   | Charachter | ISO 3166-1 alpha-2 code, 2-letter, country/region |
-| **ISO3166_2**      | Charachter | ISO 3166-2 code, province/state |
-| **ISO3166_2_UID**  | Charachter | ISO 3166-2 code, province/state, full/unique |
-| **NUTS**           | Charachter | Nomenclature of Territorial Units for Statistics (NUTS), Europe |
-| **FIPS**           | Charachter | Federal Information Processing Standard Publication, United States |
-| **County**         | Charachter | Standard county name |
-| **Province_State** | Charachter | Standard province/state name |
-| **Country_Region** | Charachter | Standard country/region name |
-| **Full_Name**      | Charachter | Full combined name of geographic unit, unique ID |
+
+## Data Structure
+
+|     Column         |    Type    |              Description            |
+|:------------------:|:----------:|:------------------------------------|
+| **ID**             | Charachter | Geographic ID, unique identifier (described above) |
+| **Date**           | Date       | Date of data record |
+| **Cases**          | Integer    | Number of cumulative cases |
+| **Cases_New**      | Integer    | Number of new daily cases |
+| **Type**           | Charachter | Type of the reported cases |
+| **Age**            | Charachter | Age group of the reported cases |
+| **Sex**            | Charachter | Sex/gender of the reported cases |
+| **Source**         | Charachter | Source of the data: CTP, JHU, NYT, DPC, RKI |
+| **Level**          | Charachter | Geographic level: County, Jurisdiction, State, Province, Cruise Ship, Country |
 
 ## Case Types
 
@@ -65,7 +73,6 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **Tests**            | Total performed tests |
 | **Ventilator**       | Total cases receiving mechanical ventilation |
 | **Ventilator_Now**   | Currently receiving mechanical ventilation |
-
 
 ## Data Sources
 
