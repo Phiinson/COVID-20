@@ -34,6 +34,10 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **ISO1_2C**        | Charachter | ISO 3166-1 alpha-2 code, 2-letter, administrative level 0 (countries) |
 | **ISO2**           | Charachter | ISO 3166-2 code, principal subdivisions (provinces/states) |
 | **ISO2_UID**       | Charachter | ISO 3166-2 code, principal subdivisions (provinces/states), full/unique |
+| **FIPS**           | Charachter | Federal Information Processing Standard (FIPS, United States) |
+| **NUTS**           | Charachter | Nomenclature of Territorial Units for Statistics (NUTS, Europe) |
+| **AGS**            | Charachter | Official municipality key / Amtlicher Gemeindeschlüssel (AGS, German regions only) |
+| **ZTCA**           | Charachter | ZIP Code Tabulation Area (ZCTA) |
 | **Longitude**      | Double     | Geographic coordinate (centroid), east–west |
 | **Latitude**       | Double     | Geographic coordinate (centroid), north–south |
 | **Population**     | Integer    | Population of each geographic unit |
