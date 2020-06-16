@@ -17,7 +17,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 
 ## Geographic ID
 
-<img src="https://pages.jh.edu/~hbadr1/files/COVID-19_ID.svg" title="Geographic ID for the Unified COVID-19 Dataset" alt="COVID-19 ID" style="display: block; margin: auto;" />
+<img src="https://pages.jh.edu/~hbadr1/files/COVID-19_ID.svg#2" title="Geographic ID for the Unified COVID-19 Dataset" alt="COVID-19 ID" style="display: block; margin: auto;" />
 
 ## Lookup Table
 
