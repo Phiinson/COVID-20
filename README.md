@@ -6,14 +6,14 @@
 [![GitHub Commit](https://img.shields.io/github/last-commit/hsbadr/COVID-19)](https://github.com/hsbadr/COVID-19/commits/master)
 
 This is an all-in-one unified COVID-19 dataset to fulfil the following objectives:
-  * Merging data from all credible sources at all levels
-  * Unifying variable names, types, and categories
-  * Standardizing Country/Province/State/County names
-  * Standardizing Country/Province/State/County codes
-  * Standardizing dates and data types/formats
-  * Cleaning the data and fixing confusing entries
-  * Integrating an augmented version from all sources (future releases)
-  * Optimizing the data for machine learning applications
+  * Mapping all geographic units globally into a unique standardized ID.
+  * Standardizing administrative names and codes at all levels.
+  * Standardizing dates, data types, and formats.
+  * Unifying variable names, types, and categories.
+  * Merging data from all credible sources at all levels.
+  * Cleaning the data and fixing confusing entries.
+  * Integrating an augmented version from all sources (future releases).
+  * Optimizing the data for machine learning applications.
 
 ## Geographic ID
 
@@ -81,8 +81,8 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **JHU** | [The Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19) | Global & County/State, United States |
 | **CTP** | [The COVID Tracking Project](https://covidtracking.com) | State, United States |
 | **NYT** | [The New York Times](https://github.com/nytimes/covid-19-data) | County/State, United States |
-| **DPC** | [Italian Civil Protection Department](https://github.com/pcm-dpc/COVID-19) | NUTS3/NUTS2, Italy |
-| **RKI** | [Robert Koch-Institut, Germany](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) | NUTS3/NUTS2, Germany |
+| **DPC** | [Italian Civil Protection Department](https://github.com/pcm-dpc/COVID-19) | NUTS 0-3, Italy |
+| **RKI** | [Robert Koch-Institut, Germany](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) | NUTS 0-3, Germany |
 
 ## Credits
 
