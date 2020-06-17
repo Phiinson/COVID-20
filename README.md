@@ -24,6 +24,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 |     Column         |    Type    |              Description            |
 |:------------------:|:----------:|:------------------------------------|
 | **ID**             | Charachter | Geographic ID, unique identifier (described above) |
+| **Level**          | Charachter | Geographic level: Country, NUTS 0-3, Cruise Ship, Province, State, Jurisdiction, County, District |
 | **NameID**         | Charachter | Full combined name of geographic unit, unique ID |
 | **Admin0**         | Charachter | Standard name of administrative level 0 (countries) |
 | **Admin1**         | Charachter | Standard name of administrative level 1 (provinces/states) |
@@ -54,7 +55,6 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **Age**            | Charachter | Age group of the reported cases |
 | **Sex**            | Charachter | Sex/gender of the reported cases |
 | **Source**         | Charachter | Source of the data: CTP, JHU, NYT, DPC, RKI |
-| **Level**          | Charachter | Geographic level: County, Jurisdiction, State, Province, Cruise Ship, Country |
 
 ## Case Types
 
