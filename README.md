@@ -24,24 +24,23 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 |     Column         |    Type    |              Description            |
 |:------------------:|:----------:|:------------------------------------|
 | **ID**             | Charachter | Geographic ID, unique identifier (described above) |
-| **Level**          | Charachter | Geographic level: Country, NUTS 0-3, Cruise Ship, Province, State, Jurisdiction, County, District |
-| **NameID**         | Charachter | Full combined name of geographic unit, unique ID |
+| **Level**          | Charachter | Geographic level (e.g., Country, Province, State, County, District, and NUTS 0-3) |
 | **Admin0**         | Charachter | Standard name of administrative level 0 (countries) |
-| **Admin1**         | Charachter | Standard name of administrative level 1 (provinces/states) |
-| **Admin2**         | Charachter | Standard name of administrative level 2 (subregions/counties) |
-| **Admin3**         | Charachter | Standard name of administrative level 3 (districts/ZIP code areas) |
+| **Admin1**         | Charachter | Standard name of administrative level 1 (e.g., provinces, states, groups of subregions) |
+| **Admin2**         | Charachter | Standard name of administrative level 2 (e.g., counties and subregions) |
+| **Admin3**         | Charachter | Standard name of administrative level 3 (e.g., districts and ZTCA) |
 | **ISO1_3N**        | Charachter | ISO 3166-1 numeric code, 3-digit, administrative level 0 (countries) |
 | **ISO1_3C**        | Charachter | ISO 3166-1 alpha-3 code, 3-letter, administrative level 0 (countries) |
 | **ISO1_2C**        | Charachter | ISO 3166-1 alpha-2 code, 2-letter, administrative level 0 (countries) |
-| **ISO2**           | Charachter | ISO 3166-2 code, principal subdivisions (provinces/states) |
-| **ISO2_UID**       | Charachter | ISO 3166-2 code, principal subdivisions (provinces/states), full/unique |
+| **ISO2**           | Charachter | ISO 3166-2 code, principal subdivisions (e.g., provinces and states) |
+| **ISO2_UID**       | Charachter | ISO 3166-2 code, principal subdivisions (e.g., provinces and states), full/unique ID |
 | **FIPS**           | Charachter | Federal Information Processing Standard (FIPS, United States) |
 | **NUTS**           | Charachter | Nomenclature of Territorial Units for Statistics (NUTS, Europe) |
 | **AGS**            | Charachter | Official municipality key / Amtlicher Gemeindeschlüssel (AGS, German regions only) |
-| **ZTCA**           | Charachter | ZIP Code Tabulation Area (ZCTA) |
+| **ZTCA**           | Charachter | ZIP Code Tabulation Area (ZCTA, United States) |
 | **Longitude**      | Double     | Geographic coordinate (centroid), east–west |
 | **Latitude**       | Double     | Geographic coordinate (centroid), north–south |
-| **Population**     | Integer    | Population of each geographic unit |
+| **Population**     | Integer    | Total population of each geographic unit |
 
 ## Data Structure
 
