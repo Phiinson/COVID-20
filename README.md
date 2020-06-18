@@ -12,7 +12,8 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
   * Unifying variable names, types, and categories.
   * Merging data from all credible sources at all levels.
   * Cleaning the data and fixing confusing entries.
-  * Integrating an augmented version from all sources (future releases).
+  * Integrating hydrometeorological variables at all levels.
+  * Integrating an augmented version from all sources (*future releases*).
   * Optimizing the data for machine learning applications.
 
 ## Geographic ID
@@ -95,4 +96,4 @@ This work is supported by NASA Health & Air Quality project `80NSSC18K0327`, und
 
 To cite this dataset:
 
-> Badr, H. S., **2020**: Unified COVID-19 Dataset. _GitHub_, `https://github.com/hsbadr/COVID-19`.
+> Badr, H. S., B. F. Zaitchik, G. H. Kerr, H. Du, E. Dong, L. M. Gardner, **2020**: Unified COVID-19 Dataset. _GitHub_, `https://github.com/hsbadr/COVID-19`.
