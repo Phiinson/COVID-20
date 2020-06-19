@@ -6,7 +6,7 @@
 [![GitHub Commit](https://img.shields.io/github/last-commit/hsbadr/COVID-19)](https://github.com/hsbadr/COVID-19/commits/master)
 
 This is an all-in-one unified COVID-19 dataset to fulfil the following objectives:
-  * Mapping all geographic units globally into a unique standardized ID.
+  * Mapping all geospatial units globally into a unique standardized ID.
   * Standardizing administrative names and codes at all levels.
   * Standardizing dates, data types, and formats.
   * Unifying variable names, types, and categories.
@@ -16,20 +16,20 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
   * Integrating an augmented version from all sources (*future releases*).
   * Optimizing the data for machine learning applications.
 
-## Geographic ID
+## Geospatial ID
 
-<img src="https://pages.jh.edu/~hbadr1/files/COVID-19_ID.svg#6" title="Geographic ID for the Unified COVID-19 Dataset" alt="COVID-19 ID" style="display: block; margin: auto;" />
+<img src="https://pages.jh.edu/~hbadr1/files/COVID-19_ID.svg#6" title="Geospatial ID for the Unified COVID-19 Dataset" alt="COVID-19 ID" style="display: block; margin: auto;" />
 
 ## Lookup Table
 
 |     Column         |    Type    |              Description            |
 |:------------------:|:----------:|:------------------------------------|
-| **ID**             | Charachter | Geographic ID, unique identifier (described above) |
+| **ID**             | Charachter | Geospatial ID, unique identifier (described above) |
 | **Admin0**         | Charachter | Standard name of administrative level 0 (countries) |
 | **Admin1**         | Charachter | Standard name of administrative level 1 (e.g., provinces, states, groups of subregions) |
 | **Admin2**         | Charachter | Standard name of administrative level 2 (e.g., counties and subregions) |
 | **Admin3**         | Charachter | Standard name of administrative level 3 (e.g., districts and ZTCA) |
-| **Level**          | Charachter | Geographic level (e.g., Country, Province, State, County, District, and NUTS 0-3) |
+| **Level**          | Charachter | Geospatial level (e.g., Country, Province, State, County, District, and NUTS 0-3) |
 | **ISO1_3N**        | Charachter | ISO 3166-1 numeric code, 3-digit, administrative level 0 (countries) |
 | **ISO1_3C**        | Charachter | ISO 3166-1 alpha-3 code, 3-letter, administrative level 0 (countries) |
 | **ISO1_2C**        | Charachter | ISO 3166-1 alpha-2 code, 2-letter, administrative level 0 (countries) |
@@ -39,15 +39,15 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **NUTS**           | Charachter | Nomenclature of Territorial Units for Statistics (NUTS, Europe) |
 | **AGS**            | Charachter | Official municipality key / Amtlicher Gemeindeschlüssel (AGS, German regions only) |
 | **ZTCA**           | Charachter | ZIP Code Tabulation Area (ZCTA, United States) |
-| **Longitude**      | Double     | Geographic coordinate (centroid), east–west |
-| **Latitude**       | Double     | Geographic coordinate (centroid), north–south |
-| **Population**     | Integer    | Total population of each geographic unit |
+| **Longitude**      | Double     | Geospatial coordinate (centroid), east–west |
+| **Latitude**       | Double     | Geospatial coordinate (centroid), north–south |
+| **Population**     | Integer    | Total population of each geospatial unit |
 
 ## Data Structure
 
 |     Column         |    Type    |              Description            |
 |:------------------:|:----------:|:------------------------------------|
-| **ID**             | Charachter | Geographic ID, unique identifier (described above) |
+| **ID**             | Charachter | Geospatial ID, unique identifier (described above) |
 | **Date**           | Date       | Date of data record |
 | **Cases**          | Integer    | Number of cumulative cases |
 | **Cases_New**      | Integer    | Number of new daily cases |
