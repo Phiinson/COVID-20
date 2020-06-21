@@ -2446,6 +2446,7 @@ US29145,United States,Missouri,Newton,,County,840,USA,US,MO,US-MO,29145,,,-94.34
 US29147,United States,Missouri,Nodaway,,County,840,USA,US,MO,US-MO,29147,,,-94.88,40.36,22092
 US29149,United States,Missouri,Oregon,,County,840,USA,US,MO,US-MO,29149,,,-91.4,36.69,10529
 US29151,United States,Missouri,Osage,,County,840,USA,US,MO,US-MO,29151,,,-91.86,38.46,13615
+US29153,United States,Missouri,Ozark,,County,840,USA,US,MO,US-MO,29153,,,-92.44,36.65,9174
 US29155,United States,Missouri,Pemiscot,,County,840,USA,US,MO,US-MO,29155,,,-89.79,36.21,15805
 US29157,United States,Missouri,Perry,,County,840,USA,US,MO,US-MO,29157,,,-89.83,37.71,19136
 US29159,United States,Missouri,Pettis,,County,840,USA,US,MO,US-MO,29159,,,-93.28,38.73,42339
@@ -2479,6 +2480,7 @@ US29215,United States,Missouri,Texas,,County,840,USA,US,MO,US-MO,29215,,,-91.97,
 US29217,United States,Missouri,Vernon,,County,840,USA,US,MO,US-MO,29217,,,-94.34,37.85,20563
 US29219,United States,Missouri,Warren,,County,840,USA,US,MO,US-MO,29219,,,-91.16,38.77,35649
 US29221,United States,Missouri,Washington,,County,840,USA,US,MO,US-MO,29221,,,-90.88,37.96,24730
+US29223,United States,Missouri,Wayne,,County,840,USA,US,MO,US-MO,29223,,,-90.46,37.11,12873
 US29225,United States,Missouri,Webster,,County,840,USA,US,MO,US-MO,29225,,,-92.88,37.28,39592
 US29227,United States,Missouri,Worth,,County,840,USA,US,MO,US-MO,29227,,,-94.42,40.48,2013
 US29229,United States,Missouri,Wright,,County,840,USA,US,MO,US-MO,29229,,,-92.47,37.27,18289
@@ -2492,6 +2494,7 @@ US30007,United States,Montana,Broadwater,,County,840,USA,US,MT,US-MT,30007,,,-11
 US30009,United States,Montana,Carbon,,County,840,USA,US,MT,US-MT,30009,,,-109.03,45.23,10725
 US30013,United States,Montana,Cascade,,County,840,USA,US,MT,US-MT,30013,,,-111.35,47.31,81366
 US30017,United States,Montana,Custer,,County,840,USA,US,MT,US-MT,30017,,,-105.57,46.25,11402
+US30021,United States,Montana,Dawson,,County,840,USA,US,MT,US-MT,30021,,,-104.89,47.27,8613
 US30023,United States,Montana,Deer Lodge,,County,840,USA,US,MT,US-MT,30023,,,-113.07,46.06,9140
 US30027,United States,Montana,Fergus,,County,840,USA,US,MT,US-MT,30027,,,-109.22,47.26,11050
 US30029,United States,Montana,Flathead,,County,840,USA,US,MT,US-MT,30029,,,-114.05,48.3,103806
@@ -2854,11 +2857,13 @@ US37900,United States,North Carolina,Unassigned,,County,840,USA,US,NC,US-NC,3790
 US38,United States,North Dakota,,,State,840,USA,US,ND,US-ND,38,,,-99.96,47.45,762062
 US38003,United States,North Dakota,Barnes,,County,840,USA,US,ND,US-ND,38003,,,-98.07,46.94,10415
 US38005,United States,North Dakota,Benson,,County,840,USA,US,ND,US-ND,38005,,,-99.36,48.07,6832
+US38007,United States,North Dakota,Billings,,County,840,USA,US,ND,US-ND,38007,,,-103.38,47.02,928
 US38009,United States,North Dakota,Bottineau,,County,840,USA,US,ND,US-ND,38009,,,-100.84,48.79,6282
 US38011,United States,North Dakota,Bowman,,County,840,USA,US,ND,US-ND,38011,,,-103.52,46.11,3024
 US38013,United States,North Dakota,Burke,,County,840,USA,US,ND,US-ND,38013,,,-102.52,48.79,2115
 US38015,United States,North Dakota,Burleigh,,County,840,USA,US,ND,US-ND,38015,,,-100.46,46.98,95626
 US38017,United States,North Dakota,Cass,,County,840,USA,US,ND,US-ND,38017,,,-97.24,46.93,181923
+US38019,United States,North Dakota,Cavalier,,County,840,USA,US,ND,US-ND,38019,,,-98.47,48.77,3762
 US38021,United States,North Dakota,Dickey,,County,840,USA,US,ND,US-ND,38021,,,-98.5,46.11,4872
 US38023,United States,North Dakota,Divide,,County,840,USA,US,ND,US-ND,38023,,,-103.49,48.81,2264
 US38025,United States,North Dakota,Dunn,,County,840,USA,US,ND,US-ND,38025,,,-102.62,47.35,4424
@@ -3439,6 +3444,7 @@ US48101,United States,Texas,Cottle,,County,840,USA,US,TX,US-TX,48101,,,-100.28,3
 US48103,United States,Texas,Crane,,County,840,USA,US,TX,US-TX,48103,,,-102.51,31.43,4797
 US48105,United States,Texas,Crockett,,County,840,USA,US,TX,US-TX,48105,,,-101.41,30.72,3464
 US48107,United States,Texas,Crosby,,County,840,USA,US,TX,US-TX,48107,,,-101.3,33.61,5737
+US48109,United States,Texas,Culberson,,County,840,USA,US,TX,US-TX,48109,,,-104.52,31.45,2171
 US48111,United States,Texas,Dallam,,County,840,USA,US,TX,US-TX,48111,,,-102.6,36.28,7287
 US48113,United States,Texas,Dallas,,County,840,USA,US,TX,US-TX,48113,,,-96.78,32.77,2635516
 US48115,United States,Texas,Dawson,,County,840,USA,US,TX,US-TX,48115,,,-101.95,32.74,12728
