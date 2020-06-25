@@ -54,7 +54,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **Type**           | Charachter | Type of the reported cases |
 | **Age**            | Charachter | Age group of the reported cases |
 | **Sex**            | Charachter | Sex/gender of the reported cases |
-| **Source**         | Charachter | Source of the data: CTP, JHU, NYT, DPC, RKI |
+| **Source**         | Charachter | Source of the data: CTP, JHU, NYC, NYT, DPC, RKI |
 
 ## Case Types
 
@@ -84,6 +84,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 |:-------:|:-----------------|:------------|
 | **JHU** | [The Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19) | Global & County/State, United States |
 | **CTP** | [The COVID Tracking Project](https://covidtracking.com) | State, United States |
+| **NYC** | [New York City Department of Health and Mental Hygiene](https://github.com/nychealth/coronavirus-data) | ZCTA/Borough, New York City |
 | **NYT** | [The New York Times](https://github.com/nytimes/covid-19-data) | County/State, United States |
 | **DPC** | [Italian Civil Protection Department](https://github.com/pcm-dpc/COVID-19) | NUTS 0-3, Italy |
 | **RKI** | [Robert Koch-Institut, Germany](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) | NUTS 0-3, Germany |
