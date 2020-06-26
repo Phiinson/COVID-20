@@ -634,6 +634,7 @@ ITC16,Italy,Northwest Italy,Piemonte,Cuneo,NUTS3,380,ITA,IT,21,IT-21,,ITC16,,,7.
 ITC17,Italy,Northwest Italy,Piemonte,Asti,NUTS3,380,ITA,IT,21,IT-21,,ITC17,,,8.2,44.9,214638
 ITC18,Italy,Northwest Italy,Piemonte,Alessandria,NUTS3,380,ITA,IT,21,IT-21,,ITC18,,,8.62,44.91,421284
 ITC1X,Italy,Northwest Italy,Piemonte,Unassigned,NUTS3,380,ITA,IT,21,IT-21,,ITC1X,,,,,
+ITC1Z,Italy,Northwest Italy,Piemonte,Out of Region/Province,NUTS3,380,ITA,IT,21,IT-21,,ITC1Z,,,,,
 ITC2,Italy,Northwest Italy,Valle d'Aosta,,NUTS2,380,ITA,IT,23,IT-23,,ITC2,,,7.32,45.74,125666
 ITC20,Italy,Northwest Italy,Valle d'Aosta,Aosta,NUTS3,380,ITA,IT,23,IT-23,,ITC20,,,7.32,45.74,125666
 ITC3,Italy,Northwest Italy,Liguria,,NUTS2,380,ITA,IT,42,IT-42,,ITC3,,,8.93,44.41,1550640
@@ -642,6 +643,7 @@ ITC32,Italy,Northwest Italy,Liguria,Savona,NUTS3,380,ITA,IT,42,IT-42,,ITC32,,,8.
 ITC33,Italy,Northwest Italy,Liguria,Genova,NUTS3,380,ITA,IT,42,IT-42,,ITC33,,,8.93,44.41,841180
 ITC34,Italy,Northwest Italy,Liguria,La Spezia,NUTS3,380,ITA,IT,42,IT-42,,ITC34,,,9.83,44.11,219556
 ITC3X,Italy,Northwest Italy,Liguria,Unassigned,NUTS3,380,ITA,IT,42,IT-42,,ITC3X,,,,,
+ITC3Z,Italy,Northwest Italy,Liguria,Out of Region/Province,NUTS3,380,ITA,IT,42,IT-42,,ITC3Z,,,,,
 ITC4,Italy,Northwest Italy,Lombardia,,NUTS2,380,ITA,IT,25,IT-25,,ITC4,,,9.19,45.47,10060574
 ITC41,Italy,Northwest Italy,Lombardia,Varese,NUTS3,380,ITA,IT,25,IT-25,,ITC41,,,8.82,45.82,890768
 ITC42,Italy,Northwest Italy,Lombardia,Como,NUTS3,380,ITA,IT,25,IT-25,,ITC42,,,9.09,45.81,599204
@@ -656,6 +658,7 @@ ITC4B,Italy,Northwest Italy,Lombardia,Mantova,NUTS3,380,ITA,IT,25,IT-25,,ITC4B,,
 ITC4C,Italy,Northwest Italy,Lombardia,Milano,NUTS3,380,ITA,IT,25,IT-25,,ITC4C,,,9.19,45.47,3250315
 ITC4D,Italy,Northwest Italy,Lombardia,Monza e della Brianza,NUTS3,380,ITA,IT,25,IT-25,,ITC4D,,,9.27,45.58,873935
 ITC4X,Italy,Northwest Italy,Lombardia,Unassigned,NUTS3,380,ITA,IT,25,IT-25,,ITC4X,,,,,
+ITC4Z,Italy,Northwest Italy,Lombardia,Out of Region/Province,NUTS3,380,ITA,IT,25,IT-25,,ITC4Z,,,,,
 ITF,Italy,South Italy,,,NUTS1,380,ITA,IT,F,IT-F,,ITF,,,15.23,40.98,13957942
 ITF1,Italy,South Italy,Abruzzo,,NUTS2,380,ITA,IT,65,IT-65,,ITF1,,,13.4,42.35,1311580
 ITF11,Italy,South Italy,Abruzzo,L'Aquila,NUTS3,380,ITA,IT,65,IT-65,,ITF11,,,13.4,42.35,299031
@@ -663,10 +666,12 @@ ITF12,Italy,South Italy,Abruzzo,Teramo,NUTS3,380,ITA,IT,65,IT-65,,ITF12,,,13.7,4
 ITF13,Italy,South Italy,Abruzzo,Pescara,NUTS3,380,ITA,IT,65,IT-65,,ITF13,,,14.21,42.46,318909
 ITF14,Italy,South Italy,Abruzzo,Chieti,NUTS3,380,ITA,IT,65,IT-65,,ITF14,,,14.17,42.35,385588
 ITF1X,Italy,South Italy,Abruzzo,Unassigned,NUTS3,380,ITA,IT,65,IT-65,,ITF1X,,,,,
+ITF1Z,Italy,South Italy,Abruzzo,Out of Region/Province,NUTS3,380,ITA,IT,65,IT-65,,ITF1Z,,,,,
 ITF2,Italy,South Italy,Molise,,NUTS2,380,ITA,IT,67,IT-67,,ITF2,,,14.66,41.56,305617
 ITF21,Italy,South Italy,Molise,Isernia,NUTS3,380,ITA,IT,67,IT-67,,ITF21,,,14.23,41.59,84379
 ITF22,Italy,South Italy,Molise,Campobasso,NUTS3,380,ITA,IT,67,IT-67,,ITF22,,,14.66,41.56,221238
 ITF2X,Italy,South Italy,Molise,Unassigned,NUTS3,380,ITA,IT,67,IT-67,,ITF2X,,,,,
+ITF2Z,Italy,South Italy,Molise,Out of Region/Province,NUTS3,380,ITA,IT,67,IT-67,,ITF2Z,,,,,
 ITF3,Italy,South Italy,Campania,,NUTS2,380,ITA,IT,72,IT-72,,ITF3,,,14.25,40.84,5801692
 ITF31,Italy,South Italy,Campania,Caserta,NUTS3,380,ITA,IT,72,IT-72,,ITF31,,,14.33,41.07,922965
 ITF32,Italy,South Italy,Campania,Benevento,NUTS3,380,ITA,IT,72,IT-72,,ITF32,,,14.78,41.13,277018
@@ -682,10 +687,12 @@ ITF46,Italy,South Italy,Puglia,Foggia,NUTS3,380,ITA,IT,75,IT-75,,ITF46,,,15.54,4
 ITF47,Italy,South Italy,Puglia,Bari,NUTS3,380,ITA,IT,75,IT-75,,ITF47,,,16.87,41.13,1251994
 ITF48,Italy,South Italy,Puglia,Barletta-Andria-Trani,NUTS3,380,ITA,IT,75,IT-75,,ITF48,,,16.3,41.23,390011
 ITF4X,Italy,South Italy,Puglia,Unassigned,NUTS3,380,ITA,IT,75,IT-75,,ITF4X,,,,,
+ITF4Z,Italy,South Italy,Puglia,Out of Region/Province,NUTS3,380,ITA,IT,75,IT-75,,ITF4Z,,,,,
 ITF5,Italy,South Italy,Basilicata,,NUTS2,380,ITA,IT,77,IT-77,,ITF5,,,15.81,40.64,562869
 ITF51,Italy,South Italy,Basilicata,Potenza,NUTS3,380,ITA,IT,77,IT-77,,ITF51,,,15.81,40.64,364960
 ITF52,Italy,South Italy,Basilicata,Matera,NUTS3,380,ITA,IT,77,IT-77,,ITF52,,,16.6,40.67,197909
 ITF5X,Italy,South Italy,Basilicata,Unassigned,NUTS3,380,ITA,IT,77,IT-77,,ITF5X,,,,,
+ITF5Z,Italy,South Italy,Basilicata,Out of Region/Province,NUTS3,380,ITA,IT,77,IT-77,,ITF5Z,,,,,
 ITF6,Italy,South Italy,Calabria,,NUTS2,380,ITA,IT,78,IT-78,,ITF6,,,16.59,38.91,1947131
 ITF61,Italy,South Italy,Calabria,Cosenza,NUTS3,380,ITA,IT,78,IT-78,,ITF61,,,16.26,39.29,705753
 ITF62,Italy,South Italy,Calabria,Crotone,NUTS3,380,ITA,IT,78,IT-78,,ITF62,,,17.13,39.08,174980
@@ -693,6 +700,7 @@ ITF63,Italy,South Italy,Calabria,Catanzaro,NUTS3,380,ITA,IT,78,IT-78,,ITF63,,,16
 ITF64,Italy,South Italy,Calabria,Vibo Valentia,NUTS3,380,ITA,IT,78,IT-78,,ITF64,,,16.1,38.68,160073
 ITF65,Italy,South Italy,Calabria,Reggio di Calabria,NUTS3,380,ITA,IT,78,IT-78,,ITF65,,,15.64,38.11,548009
 ITF6X,Italy,South Italy,Calabria,Unassigned,NUTS3,380,ITA,IT,78,IT-78,,ITF6X,,,,,
+ITF6Z,Italy,South Italy,Calabria,Out of Region/Province,NUTS3,380,ITA,IT,78,IT-78,,ITF6Z,,,,,
 ITG,Italy,Insular Italy,,,NUTS1,380,ITA,IT,G,IT-G,,ITG,,,11.24,38.67,6639482
 ITG1,Italy,Insular Italy,Sicilia,,NUTS2,380,ITA,IT,82,IT-82,,ITG1,,,13.36,38.12,4999891
 ITG11,Italy,Insular Italy,Sicilia,Trapani,NUTS3,380,ITA,IT,82,IT-82,,ITG11,,,12.51,38.02,430492
@@ -725,6 +733,7 @@ ITH35,Italy,Northeast Italy,Veneto,Venezia,NUTS3,380,ITA,IT,34,IT-34,,ITH35,,,12
 ITH36,Italy,Northeast Italy,Veneto,Padova,NUTS3,380,ITA,IT,34,IT-34,,ITH36,,,11.88,45.41,937908
 ITH37,Italy,Northeast Italy,Veneto,Rovigo,NUTS3,380,ITA,IT,34,IT-34,,ITH37,,,11.79,45.07,234937
 ITH3X,Italy,Northeast Italy,Veneto,Unassigned,NUTS3,380,ITA,IT,34,IT-34,,ITH3X,,,,,
+ITH3Z,Italy,Northeast Italy,Veneto,Out of Region/Province,NUTS3,380,ITA,IT,34,IT-34,,ITH3Z,,,,,
 ITH4,Italy,Northeast Italy,Friuli-Venezia Giulia,,NUTS2,380,ITA,IT,36,IT-36,,ITH4,,,13.77,45.65,1215220
 ITH41,Italy,Northeast Italy,Friuli-Venezia Giulia,Pordenone,NUTS3,380,ITA,IT,36,IT-36,,ITH41,,,12.66,45.95,312533
 ITH42,Italy,Northeast Italy,Friuli-Venezia Giulia,Udine,NUTS3,380,ITA,IT,36,IT-36,,ITH42,,,13.23,46.06,528791
@@ -742,6 +751,7 @@ ITH57,Italy,Northeast Italy,Emilia-Romagna,Ravenna,NUTS3,380,ITA,IT,45,IT-45,,IT
 ITH58,Italy,Northeast Italy,Emilia-Romagna,Forlì-Cesena,NUTS3,380,ITA,IT,45,IT-45,,ITH58,,,12.04,44.22,394627
 ITH59,Italy,Northeast Italy,Emilia-Romagna,Rimini,NUTS3,380,ITA,IT,45,IT-45,,ITH59,,,12.57,44.06,339017
 ITH5X,Italy,Northeast Italy,Emilia-Romagna,Unassigned,NUTS3,380,ITA,IT,45,IT-45,,ITH5X,,,,,
+ITH5Z,Italy,Northeast Italy,Emilia-Romagna,Out of Region/Province,NUTS3,380,ITA,IT,45,IT-45,,ITH5Z,,,,,
 ITI,Italy,Central Italy,,,NUTS1,380,ITA,IT,I,IT-I,,ITI,,,12.44,43.36,12016009
 ITI1,Italy,Central Italy,Toscana,,NUTS2,380,ITA,IT,52,IT-52,,ITI1,,,11.26,43.77,3729641
 ITI11,Italy,Central Italy,Toscana,Massa-Carrara,NUTS3,380,ITA,IT,52,IT-52,,ITI11,,,10.14,44.04,194878
@@ -755,10 +765,12 @@ ITI18,Italy,Central Italy,Toscana,Arezzo,NUTS3,380,ITA,IT,52,IT-52,,ITI18,,,11.8
 ITI19,Italy,Central Italy,Toscana,Siena,NUTS3,380,ITA,IT,52,IT-52,,ITI19,,,11.33,43.32,267197
 ITI1A,Italy,Central Italy,Toscana,Grosseto,NUTS3,380,ITA,IT,52,IT-52,,ITI1A,,,11.11,42.76,221629
 ITI1X,Italy,Central Italy,Toscana,Unassigned,NUTS3,380,ITA,IT,52,IT-52,,ITI1X,,,,,
+ITI1Z,Italy,Central Italy,Toscana,Out of Region/Province,NUTS3,380,ITA,IT,52,IT-52,,ITI1Z,,,,,
 ITI2,Italy,Central Italy,Umbria,,NUTS2,380,ITA,IT,55,IT-55,,ITI2,,,12.39,43.11,882015
 ITI21,Italy,Central Italy,Umbria,Perugia,NUTS3,380,ITA,IT,55,IT-55,,ITI21,,,12.39,43.11,656382
 ITI22,Italy,Central Italy,Umbria,Terni,NUTS3,380,ITA,IT,55,IT-55,,ITI22,,,12.65,42.56,225633
 ITI2X,Italy,Central Italy,Umbria,Unassigned,NUTS3,380,ITA,IT,55,IT-55,,ITI2X,,,,,
+ITI2Z,Italy,Central Italy,Umbria,Out of Region/Province,NUTS3,380,ITA,IT,55,IT-55,,ITI2Z,,,,,
 ITI3,Italy,Central Italy,Marche,,NUTS2,380,ITA,IT,57,IT-57,,ITI3,,,13.52,43.62,1525271
 ITI31,Italy,Central Italy,Marche,Pesaro e Urbino,NUTS3,380,ITA,IT,57,IT-57,,ITI31,,,12.91,43.91,358886
 ITI32,Italy,Central Italy,Marche,Ancona,NUTS3,380,ITA,IT,57,IT-57,,ITI32,,,13.52,43.62,471228
@@ -766,6 +778,7 @@ ITI33,Italy,Central Italy,Marche,Macerata,NUTS3,380,ITA,IT,57,IT-57,,ITI33,,,13.
 ITI34,Italy,Central Italy,Marche,Ascoli Piceno,NUTS3,380,ITA,IT,57,IT-57,,ITI34,,,13.58,42.85,207179
 ITI35,Italy,Central Italy,Marche,Fermo,NUTS3,380,ITA,IT,57,IT-57,,ITI35,,,13.72,43.16,173800
 ITI3X,Italy,Central Italy,Marche,Unassigned,NUTS3,380,ITA,IT,57,IT-57,,ITI3X,,,,,
+ITI3Z,Italy,Central Italy,Marche,Out of Region/Province,NUTS3,380,ITA,IT,57,IT-57,,ITI3Z,,,,,
 ITI4,Italy,Central Italy,Lazio,,NUTS2,380,ITA,IT,62,IT-62,,ITI4,,,12.48,41.89,5879082
 ITI41,Italy,Central Italy,Lazio,Viterbo,NUTS3,380,ITA,IT,62,IT-62,,ITI41,,,12.1,42.42,317030
 ITI42,Italy,Central Italy,Lazio,Rieti,NUTS3,380,ITA,IT,62,IT-62,,ITI42,,,12.86,42.4,155503
@@ -773,6 +786,7 @@ ITI43,Italy,Central Italy,Lazio,Roma,NUTS3,380,ITA,IT,62,IT-62,,ITI43,,,12.48,41
 ITI44,Italy,Central Italy,Lazio,Latina,NUTS3,380,ITA,IT,62,IT-62,,ITI44,,,12.9,41.47,575254
 ITI45,Italy,Central Italy,Lazio,Frosinone,NUTS3,380,ITA,IT,62,IT-62,,ITI45,,,13.35,41.64,489083
 ITI4X,Italy,Central Italy,Lazio,Unassigned,NUTS3,380,ITA,IT,62,IT-62,,ITI4X,,,,,
+ITI4Z,Italy,Central Italy,Lazio,Out of Region/Province,NUTS3,380,ITA,IT,62,IT-62,,ITI4Z,,,,,
 JM,Jamaica,,,,Country,388,JAM,JM,JM,JM,,JM,,,-77.3,18.11,2961161
 JO,Jordan,,,,Country,400,JOR,JO,JO,JO,,JO,,,36.51,31.24,10203140
 JP,Japan,,,,Country,392,JPN,JP,JP,JP,,JP,,,138.25,36.2,126476458
@@ -944,6 +958,7 @@ US02016,United States,Alaska,Aleutians West,,County,840,USA,US,AK,US-AK,02016,,,
 US02020,United States,Alaska,Anchorage,,County,840,USA,US,AK,US-AK,02020,,,,-149.14,61.15,288000
 US02050,United States,Alaska,Bethel,,County,840,USA,US,AK,US-AK,02050,,,,-159.86,60.91,18386
 US02060,United States,Alaska,Bristol Bay,,County,840,USA,US,AK,US-AK,02060,,,,-156.7,58.75,836
+US02068,United States,Alaska,Denali,,County,840,USA,US,AK,US-AK,02068,,,,-150.01,63.67,2097
 US02070,United States,Alaska,Dillingham,,County,840,USA,US,AK,US-AK,02070,,,,-158.24,59.8,4916
 US02090,United States,Alaska,Fairbanks North Star,,County,840,USA,US,AK,US-AK,02090,,,,-146.57,64.81,96849
 US02100,United States,Alaska,Haines,,County,840,USA,US,AK,US-AK,02100,,,,-135.47,59.1,2530
@@ -1146,6 +1161,7 @@ US08049,United States,Colorado,Grand,,County,840,USA,US,CO,US-CO,08049,,,,-106.1
 US08051,United States,Colorado,Gunnison,,County,840,USA,US,CO,US-CO,08051,,,,-107.03,38.67,17462
 US08053,United States,Colorado,Hinsdale,,County,840,USA,US,CO,US-CO,08053,,,,-107.3,37.82,820
 US08055,United States,Colorado,Huerfano,,County,840,USA,US,CO,US-CO,08055,,,,-104.96,37.68,6897
+US08057,United States,Colorado,Jackson,,County,840,USA,US,CO,US-CO,08057,,,,-106.34,40.67,1392
 US08059,United States,Colorado,Jefferson,,County,840,USA,US,CO,US-CO,08059,,,,-105.25,39.59,582881
 US08063,United States,Colorado,Kit Carson,,County,840,USA,US,CO,US-CO,08063,,,,-102.6,39.3,7097
 US08065,United States,Colorado,Lake,,County,840,USA,US,CO,US-CO,08065,,,,-106.36,39.2,8127
@@ -1439,6 +1455,7 @@ US16005,United States,Idaho,Bannock,,County,840,USA,US,ID,US-ID,16005,,,,-112.22
 US16009,United States,Idaho,Benewah,,County,840,USA,US,ID,US-ID,16009,,,,-116.66,47.22,9298
 US16011,United States,Idaho,Bingham,,County,840,USA,US,ID,US-ID,16011,,,,-112.4,43.22,46811
 US16013,United States,Idaho,Blaine,,County,840,USA,US,ID,US-ID,16013,,,,-113.98,43.41,23021
+US16015,United States,Idaho,Boise,,County,840,USA,US,ID,US-ID,16015,,,,-115.73,43.99,7831
 US16017,United States,Idaho,Bonner,,County,840,USA,US,ID,US-ID,16017,,,,-116.6,48.3,45739
 US16019,United States,Idaho,Bonneville,,County,840,USA,US,ID,US-ID,16019,,,,-111.62,43.39,119062
 US16021,United States,Idaho,Boundary,,County,840,USA,US,ID,US-ID,16021,,,,-116.46,48.77,12245
@@ -2318,6 +2335,7 @@ US28047,United States,Mississippi,Harrison,,County,840,USA,US,MS,US-MS,28047,,,,
 US28049,United States,Mississippi,Hinds,,County,840,USA,US,MS,US-MS,28049,,,,-90.44,32.27,231840
 US28051,United States,Mississippi,Holmes,,County,840,USA,US,MS,US-MS,28051,,,,-90.09,33.12,17010
 US28053,United States,Mississippi,Humphreys,,County,840,USA,US,MS,US-MS,28053,,,,-90.52,33.13,8064
+US28055,United States,Mississippi,Issaquena,,County,840,USA,US,MS,US-MS,28055,,,,-90.97,32.73,1327
 US28057,United States,Mississippi,Itawamba,,County,840,USA,US,MS,US-MS,28057,,,,-88.36,34.28,23390
 US28059,United States,Mississippi,Jackson,,County,840,USA,US,MS,US-MS,28059,,,,-88.64,30.54,143617
 US28061,United States,Mississippi,Jasper,,County,840,USA,US,MS,US-MS,28061,,,,-89.12,32.02,16383
@@ -2488,6 +2506,7 @@ US29225,United States,Missouri,Webster,,County,840,USA,US,MO,US-MO,29225,,,,-92.
 US29227,United States,Missouri,Worth,,County,840,USA,US,MO,US-MO,29227,,,,-94.42,40.48,2013
 US29229,United States,Missouri,Wright,,County,840,USA,US,MO,US-MO,29229,,,,-92.47,37.27,18289
 US29510,United States,Missouri,St. Louis City,,County,840,USA,US,MO,US-MO,29510,,,,-90.24,38.64,300576
+US29592,United States,Missouri,Joplin,,County,840,USA,US,MO,US-MO,29592,,,,-94.5133,37.0842,50657
 US29900,United States,Missouri,Unassigned,,County,840,USA,US,MO,US-MO,29900,,,,,,
 US29901,United States,Missouri,Kansas City,,County,840,USA,US,MO,US-MO,29901,,,,-94.58,39.1,488943
 US30,United States,Montana,,,State,840,USA,US,MT,US-MT,30,,,,-110.03,47,1068778
@@ -2504,6 +2523,7 @@ US30029,United States,Montana,Flathead,,County,840,USA,US,MT,US-MT,30029,,,,-114
 US30031,United States,Montana,Gallatin,,County,840,USA,US,MT,US-MT,30031,,,,-111.17,45.54,114434
 US30035,United States,Montana,Glacier,,County,840,USA,US,MT,US-MT,30035,,,,-112.99,48.71,13753
 US30037,United States,Montana,Golden Valley,,County,840,USA,US,MT,US-MT,30037,,,,-109.18,46.38,821
+US30039,United States,Montana,Granite,,County,840,USA,US,MT,US-MT,30039,,,,-113.44,46.41,3379
 US30041,United States,Montana,Hill,,County,840,USA,US,MT,US-MT,30041,,,,-110.11,48.63,16484
 US30043,United States,Montana,Jefferson,,County,840,USA,US,MT,US-MT,30043,,,,-112.09,46.15,12221
 US30047,United States,Montana,Lake,,County,840,USA,US,MT,US-MT,30047,,,,-114.09,47.65,30458
@@ -3649,6 +3669,7 @@ US48129,United States,Texas,Donley,,County,840,USA,US,TX,US-TX,48129,,,,-100.81,
 US48131,United States,Texas,Duval,,County,840,USA,US,TX,US-TX,48131,,,,-98.51,27.68,11157
 US48133,United States,Texas,Eastland,,County,840,USA,US,TX,US-TX,48133,,,,-98.83,32.33,18360
 US48135,United States,Texas,Ector,,County,840,USA,US,TX,US-TX,48135,,,,-102.54,31.87,166223
+US48137,United States,Texas,Edwards,,County,840,USA,US,TX,US-TX,48137,,,,-100.3,29.98,1932
 US48139,United States,Texas,Ellis,,County,840,USA,US,TX,US-TX,48139,,,,-96.79,32.35,184826
 US48141,United States,Texas,El Paso,,County,840,USA,US,TX,US-TX,48141,,,,-106.24,31.77,839238
 US48143,United States,Texas,Erath,,County,840,USA,US,TX,US-TX,48143,,,,-98.22,32.24,42698
@@ -4102,6 +4123,7 @@ US54093,United States,West Virginia,Tucker,,County,840,USA,US,WV,US-WV,54093,,,,
 US54095,United States,West Virginia,Tyler,,County,840,USA,US,WV,US-WV,54095,,,,-80.89,39.47,8591
 US54097,United States,West Virginia,Upshur,,County,840,USA,US,WV,US-WV,54097,,,,-80.24,38.89,24176
 US54099,United States,West Virginia,Wayne,,County,840,USA,US,WV,US-WV,54099,,,,-82.42,38.15,39402
+US54101,United States,West Virginia,Webster,,County,840,USA,US,WV,US-WV,54101,,,,-80.42,38.49,8114
 US54103,United States,West Virginia,Wetzel,,County,840,USA,US,WV,US-WV,54103,,,,-80.64,39.61,15065
 US54105,United States,West Virginia,Wirt,,County,840,USA,US,WV,US-WV,54105,,,,-81.37,39.03,5821
 US54107,United States,West Virginia,Wood,,County,840,USA,US,WV,US-WV,54107,,,,-81.52,39.21,83518
@@ -4234,17 +4256,3 @@ YE,Yemen,,,,Country,887,YEM,YE,YE,YE,,YE,,,48.52,15.55,29825968
 ZA,South Africa,,,,Country,710,ZAF,ZA,ZA,ZA,,ZA,,,22.94,-30.56,59308690
 ZM,Zambia,,,,Country,894,ZMB,ZM,ZM,ZM,,ZM,,,27.85,-13.13,18383956
 ZW,Zimbabwe,,,,Country,716,ZWE,ZW,ZW,ZW,,ZW,,,29.15,-19.02,14862927
-,Italy,South Italy,Abruzzo,fuori Regione/P.A.,NUTS3,380,ITA,IT,65,IT-65,,,,,,0,
-,Italy,South Italy,Basilicata,fuori Regione/P.A.,NUTS3,380,ITA,IT,77,IT-77,,,,,,0,
-,Italy,South Italy,Calabria,fuori Regione/P.A.,NUTS3,380,ITA,IT,78,IT-78,,,,,,0,
-,Italy,Northeast Italy,Emilia-Romagna,fuori Regione/P.A.,NUTS3,380,ITA,IT,45,IT-45,,,,,,0,
-,Italy,Central Italy,Lazio,fuori Regione/P.A.,NUTS3,380,ITA,IT,62,IT-62,,,,,,0,
-,Italy,Northwest Italy,Liguria,fuori Regione/P.A.,NUTS3,380,ITA,IT,42,IT-42,,,,,,0,
-,Italy,Northwest Italy,Lombardia,fuori Regione/P.A.,NUTS3,380,ITA,IT,25,IT-25,,,,,,0,
-,Italy,Central Italy,Marche,fuori Regione/P.A.,NUTS3,380,ITA,IT,57,IT-57,,,,,,0,
-,Italy,South Italy,Molise,fuori Regione/P.A.,NUTS3,380,ITA,IT,67,IT-67,,,,,,0,
-,Italy,Northwest Italy,Piemonte,fuori Regione/P.A.,NUTS3,380,ITA,IT,21,IT-21,,,,,,0,
-,Italy,South Italy,Puglia,fuori Regione/P.A.,NUTS3,380,ITA,IT,75,IT-75,,,,,,0,
-,Italy,Central Italy,Toscana,fuori Regione/P.A.,NUTS3,380,ITA,IT,52,IT-52,,,,,,0,
-,Italy,Central Italy,Umbria,fuori Regione/P.A.,NUTS3,380,ITA,IT,55,IT-55,,,,,,0,
-,Italy,Northeast Italy,Veneto,fuori Regione/P.A.,NUTS3,380,ITA,IT,34,IT-34,,,,,,0,
