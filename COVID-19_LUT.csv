@@ -1463,6 +1463,7 @@ US16025,United States,Idaho,Camas,,County,840,USA,US,ID,US-ID,16025,,,,-114.81,4
 US16027,United States,Idaho,Canyon,,County,840,USA,US,ID,US-ID,16027,,,,-116.71,43.62,229849
 US16029,United States,Idaho,Caribou,,County,840,USA,US,ID,US-ID,16029,,,,-111.56,42.77,7155
 US16031,United States,Idaho,Cassia,,County,840,USA,US,ID,US-ID,16031,,,,-113.6,42.28,24030
+US16035,United States,Idaho,Clearwater,,County,840,USA,US,ID,US-ID,16035,,,,-115.66,46.67,8756
 US16037,United States,Idaho,Custer,,County,840,USA,US,ID,US-ID,16037,,,,-114.29,44.24,4315
 US16039,United States,Idaho,Elmore,,County,840,USA,US,ID,US-ID,16039,,,,-115.47,43.35,27511
 US16041,United States,Idaho,Franklin,,County,840,USA,US,ID,US-ID,16041,,,,-111.81,42.18,13876
@@ -2620,6 +2621,7 @@ US31153,United States,Nebraska,Sarpy,,County,840,USA,US,NE,US-NE,31153,,,,-96.11
 US31155,United States,Nebraska,Saunders,,County,840,USA,US,NE,US-NE,31155,,,,-96.64,41.23,21578
 US31157,United States,Nebraska,Scotts Bluff,,County,840,USA,US,NE,US-NE,31157,,,,-103.71,41.85,35618
 US31159,United States,Nebraska,Seward,,County,840,USA,US,NE,US-NE,31159,,,,-97.14,40.87,17284
+US31161,United States,Nebraska,Sheridan,,County,840,USA,US,NE,US-NE,31161,,,,-102.41,42.5,5246
 US31163,United States,Nebraska,Sherman,,County,840,USA,US,NE,US-NE,31163,,,,-98.98,41.22,3001
 US31165,United States,Nebraska,Sioux,,County,840,USA,US,NE,US-NE,31165,,,,-103.76,42.49,1166
 US31167,United States,Nebraska,Stanton,,County,840,USA,US,NE,US-NE,31167,,,,-97.19,41.92,5920
@@ -2637,6 +2639,7 @@ US32001,United States,Nevada,Churchill,,County,840,USA,US,NV,US-NV,32001,,,,-118
 US32003,United States,Nevada,Clark,,County,840,USA,US,NV,US-NV,32003,,,,-115.01,36.21,2266715
 US32005,United States,Nevada,Douglas,,County,840,USA,US,NV,US-NV,32005,,,,-119.62,38.91,48905
 US32007,United States,Nevada,Elko,,County,840,USA,US,NV,US-NV,32007,,,,-115.36,41.15,52778
+US32011,United States,Nevada,Eureka,,County,840,USA,US,NV,US-NV,32011,,,,-116.27,39.98,2029
 US32013,United States,Nevada,Humboldt,,County,840,USA,US,NV,US-NV,32013,,,,-118.11,41.41,16831
 US32015,United States,Nevada,Lander,,County,840,USA,US,NV,US-NV,32015,,,,-117.04,39.93,5532
 US32017,United States,Nevada,Lincoln,,County,840,USA,US,NV,US-NV,32017,,,,-114.88,37.64,5183
@@ -3083,6 +3086,7 @@ US38031,United States,North Dakota,Foster,,County,840,USA,US,ND,US-ND,38031,,,,-
 US38035,United States,North Dakota,Grand Forks,,County,840,USA,US,ND,US-ND,38035,,,,-97.45,47.92,69451
 US38037,United States,North Dakota,Grant,,County,840,USA,US,ND,US-ND,38037,,,,-101.64,46.36,2274
 US38039,United States,North Dakota,Griggs,,County,840,USA,US,ND,US-ND,38039,,,,-98.24,47.46,2231
+US38041,United States,North Dakota,Hettinger,,County,840,USA,US,ND,US-ND,38041,,,,-102.46,46.43,2499
 US38043,United States,North Dakota,Kidder,,County,840,USA,US,ND,US-ND,38043,,,,-99.78,46.98,2480
 US38045,United States,North Dakota,LaMoure,,County,840,USA,US,ND,US-ND,38045,,,,-98.54,46.46,4046
 US38049,United States,North Dakota,McHenry,,County,840,USA,US,ND,US-ND,38049,,,,-100.63,48.23,5745
@@ -3721,6 +3725,7 @@ US48235,United States,Texas,Irion,,County,840,USA,US,TX,US-TX,48235,,,,-100.98,3
 US48237,United States,Texas,Jack,,County,840,USA,US,TX,US-TX,48237,,,,-98.17,33.23,8935
 US48239,United States,Texas,Jackson,,County,840,USA,US,TX,US-TX,48239,,,,-96.58,28.95,14760
 US48241,United States,Texas,Jasper,,County,840,USA,US,TX,US-TX,48241,,,,-94.03,30.75,35529
+US48243,United States,Texas,Jeff Davis,,County,840,USA,US,TX,US-TX,48243,,,,-104.14,30.71,2274
 US48245,United States,Texas,Jefferson,,County,840,USA,US,TX,US-TX,48245,,,,-94.16,29.88,251565
 US48247,United States,Texas,Jim Hogg,,County,840,USA,US,TX,US-TX,48247,,,,-98.7,27.04,5200
 US48249,United States,Texas,Jim Wells,,County,840,USA,US,TX,US-TX,48249,,,,-98.09,27.73,40482
