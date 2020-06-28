@@ -883,7 +883,7 @@ TZ,Tanzania,,,,Country,834,TZA,TZ,TZ,TZ,,TZ,,,34.89,-6.37,59734213
 UA,Ukraine,,,,Country,804,UKR,UA,UA,UA,,UA,,,31.17,48.38,43733759
 UG,Uganda,,,,Country,800,UGA,UG,UG,UG,,UG,,,32.29,1.37,45741000
 US,United States,,,,Country,840,USA,US,US,US,,US,,,-121.49,47.4,7614893
-US01,United States,Alabama,,,State,840,USA,US,AL,US-AL,01,,,,-86.66,32.86,4903185
+US01,United States,Alabama,,,State,840,USA,US,AL,US-AL,01,,,,-86.9,32.32,4903185
 US01001,United States,Alabama,Autauga,,County,840,USA,US,AL,US-AL,01001,,,,-86.64,32.54,55869
 US01003,United States,Alabama,Baldwin,,County,840,USA,US,AL,US-AL,01003,,,,-87.72,30.73,223234
 US01005,United States,Alabama,Barbour,,County,840,USA,US,AL,US-AL,01005,,,,-85.39,31.87,24686
@@ -952,7 +952,7 @@ US01129,United States,Alabama,Washington,,County,840,USA,US,AL,US-AL,01129,,,,-8
 US01131,United States,Alabama,Wilcox,,County,840,USA,US,AL,US-AL,01131,,,,-87.31,31.99,10373
 US01133,United States,Alabama,Winston,,County,840,USA,US,AL,US-AL,01133,,,,-87.37,34.15,23629
 US01900,United States,Alabama,Unassigned,,County,840,USA,US,AL,US-AL,01900,,,,,,
-US02,United States,Alaska,,,State,840,USA,US,AK,US-AK,02,,,,-149.57,59.8,731545
+US02,United States,Alaska,,,State,840,USA,US,AK,US-AK,02,,,,-152.4,61.37,731545
 US02013,United States,Alaska,Aleutians East,,County,840,USA,US,AK,US-AK,02013,,,,-161.97,55.32,3337
 US02016,United States,Alaska,Aleutians West,,County,840,USA,US,AK,US-AK,02016,,,,-174.16,52.32,5634
 US02020,United States,Alaska,Anchorage,,County,840,USA,US,AK,US-AK,02020,,,,-149.14,61.15,288000
@@ -979,7 +979,7 @@ US02261,United States,Alaska,Valdez-Cordova,,County,840,USA,US,AK,US-AK,02261,,,
 US02275,United States,Alaska,Wrangell,,County,840,USA,US,AK,US-AK,02275,,,,-132.06,56.32,2502
 US02290,United States,Alaska,Yukon-Koyukuk,,County,840,USA,US,AK,US-AK,02290,,,,-151.39,65.51,5230
 US02900,United States,Alaska,Unassigned,,County,840,USA,US,AK,US-AK,02900,,,,,,
-US04,United States,Arizona,,,State,840,USA,US,AZ,US-AZ,04,,,,-111.34,33.35,7278717
+US04,United States,Arizona,,,State,840,USA,US,AZ,US-AZ,04,,,,-111.43,33.73,7278717
 US04001,United States,Arizona,Apache,,County,840,USA,US,AZ,US-AZ,04001,,,,-109.49,35.39,71887
 US04003,United States,Arizona,Cochise,,County,840,USA,US,AZ,US-AZ,04003,,,,-109.75,31.88,125922
 US04005,United States,Arizona,Coconino,,County,840,USA,US,AZ,US-AZ,04005,,,,-111.77,35.84,143476
@@ -996,7 +996,7 @@ US04023,United States,Arizona,Santa Cruz,,County,840,USA,US,AZ,US-AZ,04023,,,,-1
 US04025,United States,Arizona,Yavapai,,County,840,USA,US,AZ,US-AZ,04025,,,,-112.55,34.6,235099
 US04027,United States,Arizona,Yuma,,County,840,USA,US,AZ,US-AZ,04027,,,,-113.91,32.77,213787
 US04900,United States,Arizona,Unassigned,,County,840,USA,US,AZ,US-AZ,04900,,,,,,
-US05,United States,Arkansas,,,State,840,USA,US,AR,US-AR,05,,,,-92.5,35,3017804
+US05,United States,Arkansas,,,State,840,USA,US,AR,US-AR,05,,,,-92.37,34.97,3017804
 US05001,United States,Arkansas,Arkansas,,County,840,USA,US,AR,US-AR,05001,,,,-91.37,34.29,17486
 US05003,United States,Arkansas,Ashley,,County,840,USA,US,AR,US-AR,05003,,,,-91.77,33.19,19657
 US05005,United States,Arkansas,Baxter,,County,840,USA,US,AR,US-AR,05005,,,,-92.34,36.29,41932
@@ -1072,7 +1072,7 @@ US05145,United States,Arkansas,White,,County,840,USA,US,AR,US-AR,05145,,,,-91.75
 US05147,United States,Arkansas,Woodruff,,County,840,USA,US,AR,US-AR,05147,,,,-91.24,35.19,6320
 US05149,United States,Arkansas,Yell,,County,840,USA,US,AR,US-AR,05149,,,,-93.41,35,21341
 US05900,United States,Arkansas,Unassigned,,County,840,USA,US,AR,US-AR,05900,,,,,,
-US06,United States,California,,,State,840,USA,US,CA,US-CA,06,,,,-120.92,38.05,39512223
+US06,United States,California,,,State,840,USA,US,CA,US-CA,06,,,,-119.68,36.12,39512223
 US06001,United States,California,Alameda,,County,840,USA,US,CA,US-CA,06001,,,,-121.89,37.65,1671329
 US06003,United States,California,Alpine,,County,840,USA,US,CA,US-CA,06003,,,,-119.82,38.6,1129
 US06005,United States,California,Amador,,County,840,USA,US,CA,US-CA,06005,,,,-120.66,38.45,39752
@@ -1132,7 +1132,7 @@ US06111,United States,California,Ventura,,County,840,USA,US,CA,US-CA,06111,,,,-1
 US06113,United States,California,Yolo,,County,840,USA,US,CA,US-CA,06113,,,,-121.9,38.68,220500
 US06115,United States,California,Yuba,,County,840,USA,US,CA,US-CA,06115,,,,-121.35,39.26,78668
 US06900,United States,California,Unassigned,,County,840,USA,US,CA,US-CA,06900,,,,,,
-US08,United States,Colorado,,,State,840,USA,US,CO,US-CO,08,,,,-105.45,38.93,5758736
+US08,United States,Colorado,,,State,840,USA,US,CO,US-CO,08,,,,-105.31,39.06,5758736
 US08001,United States,Colorado,Adams,,County,840,USA,US,CO,US-CO,08001,,,,-104.34,39.87,517421
 US08003,United States,Colorado,Alamosa,,County,840,USA,US,CO,US-CO,08003,,,,-105.79,37.57,16233
 US08005,United States,Colorado,Arapahoe,,County,840,USA,US,CO,US-CO,08005,,,,-104.34,39.65,656590
@@ -1195,7 +1195,7 @@ US08121,United States,Colorado,Washington,,County,840,USA,US,CO,US-CO,08121,,,,-
 US08123,United States,Colorado,Weld,,County,840,USA,US,CO,US-CO,08123,,,,-104.39,40.55,324492
 US08125,United States,Colorado,Yuma,,County,840,USA,US,CO,US-CO,08125,,,,-102.43,40,10019
 US08900,United States,Colorado,Unassigned,,County,840,USA,US,CO,US-CO,08900,,,,,,
-US09,United States,Connecticut,,,State,840,USA,US,CT,US-CT,09,,,,-72.63,41.64,3565287
+US09,United States,Connecticut,,,State,840,USA,US,CT,US-CT,09,,,,-72.76,41.6,3565287
 US09001,United States,Connecticut,Fairfield,,County,840,USA,US,CT,US-CT,09001,,,,-73.39,41.27,943332
 US09003,United States,Connecticut,Hartford,,County,840,USA,US,CT,US-CT,09003,,,,-72.73,41.8,891720
 US09005,United States,Connecticut,Litchfield,,County,840,USA,US,CT,US-CT,09005,,,,-73.25,41.79,180333
@@ -1205,14 +1205,14 @@ US09011,United States,Connecticut,New London,,County,840,USA,US,CT,US-CT,09011,,
 US09013,United States,Connecticut,Tolland,,County,840,USA,US,CT,US-CT,09013,,,,-72.33,41.86,150721
 US09015,United States,Connecticut,Windham,,County,840,USA,US,CT,US-CT,09015,,,,-71.98,41.83,116782
 US09900,United States,Connecticut,Unassigned,,County,840,USA,US,CT,US-CT,09900,,,,,,
-US10,United States,Delaware,,,State,840,USA,US,DE,US-DE,10,,,,-75.57,39.09,973764
+US10,United States,Delaware,,,State,840,USA,US,DE,US-DE,10,,,,-75.51,39.32,973764
 US10001,United States,Delaware,Kent,,County,840,USA,US,DE,US-DE,10001,,,,-75.57,39.09,180786
 US10003,United States,Delaware,New Castle,,County,840,USA,US,DE,US-DE,10003,,,,-75.64,39.58,558753
 US10005,United States,Delaware,Sussex,,County,840,USA,US,DE,US-DE,10005,,,,-75.39,38.66,234225
 US10900,United States,Delaware,Unassigned,,County,840,USA,US,DE,US-DE,10900,,,,,,
-US11,United States,District of Columbia,,,State,840,USA,US,DC,US-DC,11,,,,-77.02,38.9,705749
+US11,United States,District of Columbia,,,State,840,USA,US,DC,US-DC,11,,,,-77.03,38.9,705749
 US11001,United States,District of Columbia,District of Columbia,,County,840,USA,US,DC,US-DC,11001,,,,-77.02,38.9,705749
-US12,United States,Florida,,,State,840,USA,US,FL,US-FL,12,,,,-82.32,29.46,21477737
+US12,United States,Florida,,,State,840,USA,US,FL,US-FL,12,,,,-81.69,27.77,21477737
 US12001,United States,Florida,Alachua,,County,840,USA,US,FL,US-FL,12001,,,,-82.36,29.68,269043
 US12003,United States,Florida,Baker,,County,840,USA,US,FL,US-FL,12003,,,,-82.28,30.33,29210
 US12005,United States,Florida,Bay,,County,840,USA,US,FL,US-FL,12005,,,,-85.62,30.27,174705
@@ -1281,7 +1281,7 @@ US12129,United States,Florida,Wakulla,,County,840,USA,US,FL,US-FL,12129,,,,-84.4
 US12131,United States,Florida,Walton,,County,840,USA,US,FL,US-FL,12131,,,,-86.17,30.64,74071
 US12133,United States,Florida,Washington,,County,840,USA,US,FL,US-FL,12133,,,,-85.66,30.61,25473
 US12900,United States,Florida,Unassigned,,County,840,USA,US,FL,US-FL,12900,,,,,,
-US13,United States,Georgia,,,State,840,USA,US,GA,US-GA,13,,,,-83.69,32.75,10617423
+US13,United States,Georgia,,,State,840,USA,US,GA,US-GA,13,,,,-83.64,33.04,10617423
 US13001,United States,Georgia,Appling,,County,840,USA,US,GA,US-GA,13001,,,,-82.29,31.75,18386
 US13003,United States,Georgia,Atkinson,,County,840,USA,US,GA,US-GA,13003,,,,-82.88,31.3,8165
 US13005,United States,Georgia,Bacon,,County,840,USA,US,GA,US-GA,13005,,,,-82.46,31.55,11164
@@ -1442,13 +1442,13 @@ US13317,United States,Georgia,Wilkes,,County,840,USA,US,GA,US-GA,13317,,,,-82.74
 US13319,United States,Georgia,Wilkinson,,County,840,USA,US,GA,US-GA,13319,,,,-83.17,32.8,8954
 US13321,United States,Georgia,Worth,,County,840,USA,US,GA,US-GA,13321,,,,-83.85,31.55,20247
 US13900,United States,Georgia,Unassigned,,County,840,USA,US,GA,US-GA,13900,,,,,,
-US15,United States,Hawaii,,,State,840,USA,US,HI,US-HI,15,,,,-156.96,21.18,1415872
+US15,United States,Hawaii,,,State,840,USA,US,HI,US-HI,15,,,,-157.5,21.09,1415872
 US15001,United States,Hawaii,Hawaii,,County,840,USA,US,HI,US-HI,15001,,,,-155.52,19.6,201513
 US15003,United States,Hawaii,Honolulu,,County,840,USA,US,HI,US-HI,15003,,,,-157.97,21.46,974563
 US15007,United States,Hawaii,Kauai,,County,840,USA,US,HI,US-HI,15007,,,,-159.6,22.04,72293
 US15009,United States,Hawaii,Maui,,County,840,USA,US,HI,US-HI,15009,,,,-156.57,20.86,167417
 US15900,United States,Hawaii,Unassigned,,County,840,USA,US,HI,US-HI,15900,,,,,,
-US16,United States,Idaho,,,State,840,USA,US,ID,US-ID,16,,,,-114.74,43.77,1787065
+US16,United States,Idaho,,,State,840,USA,US,ID,US-ID,16,,,,-114.48,44.24,1787065
 US16001,United States,Idaho,Ada,,County,840,USA,US,ID,US-ID,16001,,,,-116.24,43.45,481587
 US16003,United States,Idaho,Adams,,County,840,USA,US,ID,US-ID,16003,,,,-116.45,44.89,4294
 US16005,United States,Idaho,Bannock,,County,840,USA,US,ID,US-ID,16005,,,,-112.22,42.67,87808
@@ -1489,7 +1489,7 @@ US16083,United States,Idaho,Twin Falls,,County,840,USA,US,ID,US-ID,16083,,,,-114
 US16085,United States,Idaho,Valley,,County,840,USA,US,ID,US-ID,16085,,,,-115.57,44.77,11392
 US16087,United States,Idaho,Washington,,County,840,USA,US,ID,US-ID,16087,,,,-116.78,44.45,10194
 US16900,United States,Idaho,Unassigned,,County,840,USA,US,ID,US-ID,16900,,,,,,
-US17,United States,Illinois,,,State,840,USA,US,IL,US-IL,17,,,,-89.15,39.81,12671821
+US17,United States,Illinois,,,State,840,USA,US,IL,US-IL,17,,,,-88.99,40.35,12671821
 US17001,United States,Illinois,Adams,,County,840,USA,US,IL,US-IL,17001,,,,-91.19,39.99,65435
 US17003,United States,Illinois,Alexander,,County,840,USA,US,IL,US-IL,17003,,,,-89.33,37.18,5761
 US17005,United States,Illinois,Bond,,County,840,USA,US,IL,US-IL,17005,,,,-89.44,38.89,16426
@@ -1592,7 +1592,7 @@ US17199,United States,Illinois,Williamson,,County,840,USA,US,IL,US-IL,17199,,,,-
 US17201,United States,Illinois,Winnebago,,County,840,USA,US,IL,US-IL,17201,,,,-89.16,42.34,282572
 US17203,United States,Illinois,Woodford,,County,840,USA,US,IL,US-IL,17203,,,,-89.21,40.79,38459
 US17900,United States,Illinois,Unassigned,,County,840,USA,US,IL,US-IL,17900,,,,,,
-US18,United States,Indiana,,,State,840,USA,US,IN,US-IN,18,,,,-86.18,39.8,6732219
+US18,United States,Indiana,,,State,840,USA,US,IN,US-IN,18,,,,-86.26,39.85,6732219
 US18001,United States,Indiana,Adams,,County,840,USA,US,IN,US-IN,18001,,,,-84.94,40.75,35777
 US18003,United States,Indiana,Allen,,County,840,USA,US,IN,US-IN,18003,,,,-85.07,41.09,379299
 US18005,United States,Indiana,Bartholomew,,County,840,USA,US,IN,US-IN,18005,,,,-85.9,39.21,83779
@@ -1686,7 +1686,7 @@ US18179,United States,Indiana,Wells,,County,840,USA,US,IN,US-IN,18179,,,,-85.22,
 US18181,United States,Indiana,White,,County,840,USA,US,IN,US-IN,18181,,,,-86.86,40.75,24102
 US18183,United States,Indiana,Whitley,,County,840,USA,US,IN,US-IN,18183,,,,-85.51,41.14,33964
 US18900,United States,Indiana,Unassigned,,County,840,USA,US,IN,US-IN,18900,,,,,,
-US19,United States,Iowa,,,State,840,USA,US,IA,US-IA,19,,,,-93.46,42.04,3155070
+US19,United States,Iowa,,,State,840,USA,US,IA,US-IA,19,,,,-93.21,42.01,3155070
 US19001,United States,Iowa,Adair,,County,840,USA,US,IA,US-IA,19001,,,,-94.47,41.33,7152
 US19003,United States,Iowa,Adams,,County,840,USA,US,IA,US-IA,19003,,,,-94.7,41.03,3602
 US19005,United States,Iowa,Allamakee,,County,840,USA,US,IA,US-IA,19005,,,,-91.38,43.28,13687
@@ -1787,7 +1787,7 @@ US19193,United States,Iowa,Woodbury,,County,840,USA,US,IA,US-IA,19193,,,,-96.05,
 US19195,United States,Iowa,Worth,,County,840,USA,US,IA,US-IA,19195,,,,-93.26,43.38,7381
 US19197,United States,Iowa,Wright,,County,840,USA,US,IA,US-IA,19197,,,,-93.74,42.73,12562
 US19900,United States,Iowa,Unassigned,,County,840,USA,US,IA,US-IA,19900,,,,,,
-US20,United States,Kansas,,,State,840,USA,US,KS,US-KS,20,,,,-98.09,38.48,2913314
+US20,United States,Kansas,,,State,840,USA,US,KS,US-KS,20,,,,-96.73,38.53,2913314
 US20001,United States,Kansas,Allen,,County,840,USA,US,KS,US-KS,20001,,,,-95.3,37.89,12369
 US20003,United States,Kansas,Anderson,,County,840,USA,US,KS,US-KS,20003,,,,-95.29,38.21,7858
 US20005,United States,Kansas,Atchison,,County,840,USA,US,KS,US-KS,20005,,,,-95.31,39.53,16073
@@ -1885,7 +1885,7 @@ US20205,United States,Kansas,Wilson,,County,840,USA,US,KS,US-KS,20205,,,,-95.74,
 US20207,United States,Kansas,Woodson,,County,840,USA,US,KS,US-KS,20207,,,,-95.74,37.89,3138
 US20209,United States,Kansas,Wyandotte,,County,840,USA,US,KS,US-KS,20209,,,,-94.76,39.12,165429
 US20900,United States,Kansas,Unassigned,,County,840,USA,US,KS,US-KS,20900,,,,,,
-US21,United States,Kentucky,,,State,840,USA,US,KY,US-KY,21,,,,-84.87,37.58,4467673
+US21,United States,Kentucky,,,State,840,USA,US,KY,US-KY,21,,,,-84.67,37.67,4467673
 US21001,United States,Kentucky,Adair,,County,840,USA,US,KY,US-KY,21001,,,,-85.28,37.1,19202
 US21003,United States,Kentucky,Allen,,County,840,USA,US,KY,US-KY,21003,,,,-86.19,36.75,21315
 US21005,United States,Kentucky,Anderson,,County,840,USA,US,KY,US-KY,21005,,,,-84.99,38.01,22747
@@ -2006,7 +2006,7 @@ US21235,United States,Kentucky,Whitley,,County,840,USA,US,KY,US-KY,21235,,,,-84.
 US21237,United States,Kentucky,Wolfe,,County,840,USA,US,KY,US-KY,21237,,,,-83.49,37.74,7157
 US21239,United States,Kentucky,Woodford,,County,840,USA,US,KY,US-KY,21239,,,,-84.74,38.04,26734
 US21900,United States,Kentucky,Unassigned,,County,840,USA,US,KY,US-KY,21900,,,,,,
-US22,United States,Louisiana,,,State,840,USA,US,LA,US-LA,22,,,,-91.79,30.83,4648794
+US22,United States,Louisiana,,,State,840,USA,US,LA,US-LA,22,,,,-91.87,31.17,4648794
 US22001,United States,Louisiana,Acadia,,County,840,USA,US,LA,US-LA,22001,,,,-92.41,30.3,62045
 US22003,United States,Louisiana,Allen,,County,840,USA,US,LA,US-LA,22003,,,,-92.82,30.65,25627
 US22005,United States,Louisiana,Ascension,,County,840,USA,US,LA,US-LA,22005,,,,-90.91,30.2,126604
@@ -2072,7 +2072,7 @@ US22123,United States,Louisiana,West Carroll,,County,840,USA,US,LA,US-LA,22123,,
 US22125,United States,Louisiana,West Feliciana,,County,840,USA,US,LA,US-LA,22125,,,,-91.41,30.88,15568
 US22127,United States,Louisiana,Winn,,County,840,USA,US,LA,US-LA,22127,,,,-92.64,31.94,13904
 US22900,United States,Louisiana,Unassigned,,County,840,USA,US,LA,US-LA,22900,,,,,,
-US23,United States,Maine,,,State,840,USA,US,ME,US-ME,23,,,,-69.65,44.49,1344212
+US23,United States,Maine,,,State,840,USA,US,ME,US-ME,23,,,,-69.38,44.69,1344212
 US23001,United States,Maine,Androscoggin,,County,840,USA,US,ME,US-ME,23001,,,,-70.2,44.17,108277
 US23003,United States,Maine,Aroostook,,County,840,USA,US,ME,US-ME,23003,,,,-68.6,46.66,67055
 US23005,United States,Maine,Cumberland,,County,840,USA,US,ME,US-ME,23005,,,,-70.37,43.84,295003
@@ -2090,7 +2090,7 @@ US23027,United States,Maine,Waldo,,County,840,USA,US,ME,US-ME,23027,,,,-69.12,44
 US23029,United States,Maine,Washington,,County,840,USA,US,ME,US-ME,23029,,,,-67.63,45.02,31379
 US23031,United States,Maine,York,,County,840,USA,US,ME,US-ME,23031,,,,-70.71,43.48,207641
 US23900,United States,Maine,Unassigned,,County,840,USA,US,ME,US-ME,23900,,,,,,
-US24,United States,Maryland,,,State,840,USA,US,MD,US-MD,24,,,,-76.6,39.1,6045680
+US24,United States,Maryland,,,State,840,USA,US,MD,US-MD,24,,,,-76.8,39.06,6045680
 US24001,United States,Maryland,Allegany,,County,840,USA,US,MD,US-MD,24001,,,,-78.69,39.62,70416
 US24003,United States,Maryland,Anne Arundel,,County,840,USA,US,MD,US-MD,24003,,,,-76.6,39.01,579234
 US24005,United States,Maryland,Baltimore,,County,840,USA,US,MD,US-MD,24005,,,,-76.63,39.46,827370
@@ -2116,7 +2116,7 @@ US24045,United States,Maryland,Wicomico,,County,840,USA,US,MD,US-MD,24045,,,,-75
 US24047,United States,Maryland,Worcester,,County,840,USA,US,MD,US-MD,24047,,,,-75.33,38.21,52276
 US24510,United States,Maryland,Baltimore City,,County,840,USA,US,MD,US-MD,24510,,,,-76.61,39.3,593490
 US24900,United States,Maryland,Unassigned,,County,840,USA,US,MD,US-MD,24900,,,,,,
-US25,United States,Massachusetts,,,State,840,USA,US,MA,US-MA,25,,,,-71.11,42.16,6921234
+US25,United States,Massachusetts,,,State,840,USA,US,MA,US-MA,25,,,,-71.53,42.23,6892503
 US25001,United States,Massachusetts,Barnstable,,County,840,USA,US,MA,US-MA,25001,,,,-70.29,41.73,212990
 US25003,United States,Massachusetts,Berkshire,,County,840,USA,US,MA,US-MA,25003,,,,-73.21,42.37,124944
 US25005,United States,Massachusetts,Bristol,,County,840,USA,US,MA,US-MA,25005,,,,-71.11,41.79,565217
@@ -2133,7 +2133,7 @@ US25025,United States,Massachusetts,Suffolk,,County,840,USA,US,MA,US-MA,25025,,,
 US25027,United States,Massachusetts,Worcester,,County,840,USA,US,MA,US-MA,25027,,,,-71.9,42.35,830622
 US25900,United States,Massachusetts,Unassigned,,County,840,USA,US,MA,US-MA,25900,,,,,,
 US25901,United States,Massachusetts,Dukes and Nantucket,,County,840,USA,US,MA,US-MA,25901,,,,-70.69,41.41,28731
-US26,United States,Michigan,,,State,840,USA,US,MI,US-MI,26,,,,-85.05,43.99,9986857
+US26,United States,Michigan,,,State,840,USA,US,MI,US-MI,26,,,,-84.54,43.33,9986857
 US26001,United States,Michigan,Alcona,,County,840,USA,US,MI,US-MI,26001,,,,-83.6,44.68,10405
 US26003,United States,Michigan,Alger,,County,840,USA,US,MI,US-MI,26003,,,,-86.6,46.41,9108
 US26005,United States,Michigan,Allegan,,County,840,USA,US,MI,US-MI,26005,,,,-85.89,42.59,118081
@@ -2220,7 +2220,7 @@ US26165,United States,Michigan,Wexford,,County,840,USA,US,MI,US-MI,26165,,,,-85.
 US26900,United States,Michigan,Unassigned,,County,840,USA,US,MI,US-MI,26900,,,,,,
 US26901,United States,Michigan,Federal Correctional Institution (FCI),,County,840,USA,US,MI,US-MI,26901,,,,,,
 US26902,United States,Michigan,Michigan Department of Corrections (MDOC),,County,840,USA,US,MI,US-MI,26902,,,,,,
-US27,United States,Minnesota,,,State,840,USA,US,MN,US-MN,27,,,,-94.53,45.27,5639632
+US27,United States,Minnesota,,,State,840,USA,US,MN,US-MN,27,,,,-93.9,45.69,5639632
 US27001,United States,Minnesota,Aitkin,,County,840,USA,US,MN,US-MN,27001,,,,-93.41,46.61,15886
 US27003,United States,Minnesota,Anoka,,County,840,USA,US,MN,US-MN,27003,,,,-93.25,45.27,356921
 US27005,United States,Minnesota,Becker,,County,840,USA,US,MN,US-MN,27005,,,,-95.67,46.93,34423
@@ -2308,7 +2308,7 @@ US27169,United States,Minnesota,Winona,,County,840,USA,US,MN,US-MN,27169,,,,-91.
 US27171,United States,Minnesota,Wright,,County,840,USA,US,MN,US-MN,27171,,,,-93.96,45.17,138377
 US27173,United States,Minnesota,Yellow Medicine,,County,840,USA,US,MN,US-MN,27173,,,,-95.87,44.72,9709
 US27900,United States,Minnesota,Unassigned,,County,840,USA,US,MN,US-MN,27900,,,,,,
-US28,United States,Mississippi,,,State,840,USA,US,MS,US-MS,28,,,,-89.55,32.77,2976149
+US28,United States,Mississippi,,,State,840,USA,US,MS,US-MS,28,,,,-89.68,32.74,2976149
 US28001,United States,Mississippi,Adams,,County,840,USA,US,MS,US-MS,28001,,,,-91.35,31.48,30693
 US28003,United States,Mississippi,Alcorn,,County,840,USA,US,MS,US-MS,28003,,,,-88.58,34.88,36953
 US28005,United States,Mississippi,Amite,,County,840,USA,US,MS,US-MS,28005,,,,-90.81,31.17,12297
@@ -2392,7 +2392,7 @@ US28159,United States,Mississippi,Winston,,County,840,USA,US,MS,US-MS,28159,,,,-
 US28161,United States,Mississippi,Yalobusha,,County,840,USA,US,MS,US-MS,28161,,,,-89.71,34.03,12108
 US28163,United States,Mississippi,Yazoo,,County,840,USA,US,MS,US-MS,28163,,,,-90.4,32.78,29690
 US28900,United States,Mississippi,Unassigned,,County,840,USA,US,MS,US-MS,28900,,,,,,
-US29,United States,Missouri,,,State,840,USA,US,MO,US-MO,29,,,,-92.57,38.43,6626371
+US29,United States,Missouri,,,State,840,USA,US,MO,US-MO,29,,,,-92.29,38.46,6137428
 US29001,United States,Missouri,Adair,,County,840,USA,US,MO,US-MO,29001,,,,-92.6,40.19,25343
 US29003,United States,Missouri,Andrew,,County,840,USA,US,MO,US-MO,29003,,,,-94.8,39.98,17712
 US29005,United States,Missouri,Atchison,,County,840,USA,US,MO,US-MO,29005,,,,-95.43,40.43,5143
@@ -2510,7 +2510,7 @@ US29510,United States,Missouri,St. Louis City,,County,840,USA,US,MO,US-MO,29510,
 US29592,United States,Missouri,Joplin,,County,840,USA,US,MO,US-MO,29592,,,,-94.5133,37.0842,50657
 US29900,United States,Missouri,Unassigned,,County,840,USA,US,MO,US-MO,29900,,,,,,
 US29901,United States,Missouri,Kansas City,,County,840,USA,US,MO,US-MO,29901,,,,-94.58,39.1,488943
-US30,United States,Montana,,,State,840,USA,US,MT,US-MT,30,,,,-110.03,47,1068778
+US30,United States,Montana,,,State,840,USA,US,MT,US-MT,30,,,,-110.45,46.92,1068778
 US30001,United States,Montana,Beaverhead,,County,840,USA,US,MT,US-MT,30001,,,,-112.9,45.13,9453
 US30003,United States,Montana,Big Horn,,County,840,USA,US,MT,US-MT,30003,,,,-107.49,45.42,13319
 US30007,United States,Montana,Broadwater,,County,840,USA,US,MT,US-MT,30007,,,,-111.5,46.33,6237
@@ -2549,7 +2549,7 @@ US30105,United States,Montana,Valley,,County,840,USA,US,MT,US-MT,30105,,,,-106.6
 US30107,United States,Montana,Wheatland,,County,840,USA,US,MT,US-MT,30107,,,,-109.85,46.47,2126
 US30111,United States,Montana,Yellowstone,,County,840,USA,US,MT,US-MT,30111,,,,-108.27,45.94,161300
 US30900,United States,Montana,Unassigned,,County,840,USA,US,MT,US-MT,30900,,,,,,
-US31,United States,Nebraska,,,State,840,USA,US,NE,US-NE,31,,,,-98.53,41.23,1934408
+US31,United States,Nebraska,,,State,840,USA,US,NE,US-NE,31,,,,-98.27,41.13,1934408
 US31001,United States,Nebraska,Adams,,County,840,USA,US,NE,US-NE,31001,,,,-98.5,40.52,31363
 US31003,United States,Nebraska,Antelope,,County,840,USA,US,NE,US-NE,31003,,,,-98.07,42.18,6298
 US31007,United States,Nebraska,Banner,,County,840,USA,US,NE,US-NE,31007,,,,-103.71,41.55,745
@@ -2634,7 +2634,7 @@ US31179,United States,Nebraska,Wayne,,County,840,USA,US,NE,US-NE,31179,,,,-97.12
 US31181,United States,Nebraska,Webster,,County,840,USA,US,NE,US-NE,31181,,,,-98.5,40.18,3487
 US31185,United States,Nebraska,York,,County,840,USA,US,NE,US-NE,31185,,,,-97.6,40.87,13679
 US31900,United States,Nebraska,Unassigned,,County,840,USA,US,NE,US-NE,31900,,,,,,
-US32,United States,Nevada,,,State,840,USA,US,NV,US-NV,32,,,,-118.11,39.44,3080156
+US32,United States,Nevada,,,State,840,USA,US,NV,US-NV,32,,,,-117.06,38.31,3080156
 US32001,United States,Nevada,Churchill,,County,840,USA,US,NV,US-NV,32001,,,,-118.34,39.58,24909
 US32003,United States,Nevada,Clark,,County,840,USA,US,NV,US-NV,32003,,,,-115.01,36.21,2266715
 US32005,United States,Nevada,Douglas,,County,840,USA,US,NV,US-NV,32005,,,,-119.62,38.91,48905
@@ -2652,7 +2652,7 @@ US32031,United States,Nevada,Washoe,,County,840,USA,US,NV,US-NV,32031,,,,-119.66
 US32033,United States,Nevada,White Pine,,County,840,USA,US,NV,US-NV,32033,,,,-114.9,39.44,9580
 US32510,United States,Nevada,Carson City,,County,840,USA,US,NV,US-NV,32510,,,,-119.75,39.16,55916
 US32900,United States,Nevada,Unassigned,,County,840,USA,US,NV,US-NV,32900,,,,,,
-US33,United States,New Hampshire,,,State,840,USA,US,NH,US-NH,33,,,,-71.55,43.33,1359711
+US33,United States,New Hampshire,,,State,840,USA,US,NH,US-NH,33,,,,-71.56,43.45,1359711
 US33001,United States,New Hampshire,Belknap,,County,840,USA,US,NH,US-NH,33001,,,,-71.42,43.52,61303
 US33003,United States,New Hampshire,Carroll,,County,840,USA,US,NH,US-NH,33003,,,,-71.2,43.87,48910
 US33005,United States,New Hampshire,Cheshire,,County,840,USA,US,NH,US-NH,33005,,,,-72.25,42.92,76085
@@ -2664,7 +2664,7 @@ US33015,United States,New Hampshire,Rockingham,,County,840,USA,US,NH,US-NH,33015
 US33017,United States,New Hampshire,Strafford,,County,840,USA,US,NH,US-NH,33017,,,,-71.02,43.29,130633
 US33019,United States,New Hampshire,Sullivan,,County,840,USA,US,NH,US-NH,33019,,,,-72.22,43.36,43146
 US33900,United States,New Hampshire,Unassigned,,County,840,USA,US,NH,US-NH,33900,,,,,,
-US34,United States,New Jersey,,,State,840,USA,US,NJ,US-NJ,34,,,,-74.66,40.44,8882190
+US34,United States,New Jersey,,,State,840,USA,US,NJ,US-NJ,34,,,,-74.52,40.3,8882190
 US34001,United States,New Jersey,Atlantic,,County,840,USA,US,NJ,US-NJ,34001,,,,-74.66,39.48,263670
 US34003,United States,New Jersey,Bergen,,County,840,USA,US,NJ,US-NJ,34003,,,,-74.07,40.96,932202
 US34005,United States,New Jersey,Burlington,,County,840,USA,US,NJ,US-NJ,34005,,,,-74.67,39.88,445349
@@ -2687,7 +2687,7 @@ US34037,United States,New Jersey,Sussex,,County,840,USA,US,NJ,US-NJ,34037,,,,-74
 US34039,United States,New Jersey,Union,,County,840,USA,US,NJ,US-NJ,34039,,,,-74.31,40.66,556341
 US34041,United States,New Jersey,Warren,,County,840,USA,US,NJ,US-NJ,34041,,,,-75,40.86,105267
 US34900,United States,New Jersey,Unassigned,,County,840,USA,US,NJ,US-NJ,34900,,,,,,
-US35,United States,New Mexico,,,State,840,USA,US,NM,US-NM,35,,,,-105.85,34.72,2096829
+US35,United States,New Mexico,,,State,840,USA,US,NM,US-NM,35,,,,-106.25,34.84,2096829
 US35001,United States,New Mexico,Bernalillo,,County,840,USA,US,NM,US-NM,35001,,,,-106.67,35.05,679121
 US35003,United States,New Mexico,Catron,,County,840,USA,US,NM,US-NM,35003,,,,-108.4,33.92,3527
 US35005,United States,New Mexico,Chaves,,County,840,USA,US,NM,US-NM,35005,,,,-104.47,33.36,64615
@@ -2721,7 +2721,7 @@ US35057,United States,New Mexico,Torrance,,County,840,USA,US,NM,US-NM,35057,,,,-
 US35059,United States,New Mexico,Union,,County,840,USA,US,NM,US-NM,35059,,,,-103.47,36.48,4059
 US35061,United States,New Mexico,Valencia,,County,840,USA,US,NM,US-NM,35061,,,,-106.81,34.72,76688
 US35900,United States,New Mexico,Unassigned,,County,840,USA,US,NM,US-NM,35900,,,,,,
-US36,United States,New York,,,State,840,USA,US,NY,US-NY,36,,,,-75,42.63,26161672
+US36,United States,New York,,,State,840,USA,US,NY,US-NY,36,,,,-74.95,42.17,19453561
 US36001,United States,New York,Albany,,County,840,USA,US,NY,US-NY,36001,,,,-73.98,42.6,305506
 US36003,United States,New York,Allegany,,County,840,USA,US,NY,US-NY,36003,,,,-78.03,42.26,46091
 US3600500001,United States,New York,Bronx,Bronx,Borough,840,USA,US,NY,US-NY,36005,,,00001,-73.88,40.85,1382480
@@ -2965,7 +2965,7 @@ US36119,United States,New York,Westchester,,County,840,USA,US,NY,US-NY,36119,,,,
 US36121,United States,New York,Wyoming,,County,840,USA,US,NY,US-NY,36121,,,,-78.22,42.7,39859
 US36123,United States,New York,Yates,,County,840,USA,US,NY,US-NY,36123,,,,-77.1,42.64,24913
 US36900,United States,New York,Unassigned,,County,840,USA,US,NY,US-NY,36900,,,,,,
-US37,United States,North Carolina,,,State,840,USA,US,NC,US-NC,37,,,,-79.29,35.66,10488084
+US37,United States,North Carolina,,,State,840,USA,US,NC,US-NC,37,,,,-79.81,35.63,10488084
 US37001,United States,North Carolina,Alamance,,County,840,USA,US,NC,US-NC,37001,,,,-79.4,36.04,169509
 US37003,United States,North Carolina,Alexander,,County,840,USA,US,NC,US-NC,37003,,,,-81.18,35.92,37497
 US37005,United States,North Carolina,Alleghany,,County,840,USA,US,NC,US-NC,37005,,,,-81.13,36.49,11137
@@ -3067,7 +3067,7 @@ US37195,United States,North Carolina,Wilson,,County,840,USA,US,NC,US-NC,37195,,,
 US37197,United States,North Carolina,Yadkin,,County,840,USA,US,NC,US-NC,37197,,,,-80.66,36.16,37667
 US37199,United States,North Carolina,Yancey,,County,840,USA,US,NC,US-NC,37199,,,,-82.31,35.9,18069
 US37900,United States,North Carolina,Unassigned,,County,840,USA,US,NC,US-NC,37900,,,,,,
-US38,United States,North Dakota,,,State,840,USA,US,ND,US-ND,38,,,,-99.96,47.45,762062
+US38,United States,North Dakota,,,State,840,USA,US,ND,US-ND,38,,,,-99.78,47.53,762062
 US38003,United States,North Dakota,Barnes,,County,840,USA,US,ND,US-ND,38003,,,,-98.07,46.94,10415
 US38005,United States,North Dakota,Benson,,County,840,USA,US,ND,US-ND,38005,,,,-99.36,48.07,6832
 US38007,United States,North Dakota,Billings,,County,840,USA,US,ND,US-ND,38007,,,,-103.38,47.02,928
@@ -3118,7 +3118,7 @@ US38101,United States,North Dakota,Ward,,County,840,USA,US,ND,US-ND,38101,,,,-10
 US38103,United States,North Dakota,Wells,,County,840,USA,US,ND,US-ND,38103,,,,-99.66,47.59,3834
 US38105,United States,North Dakota,Williams,,County,840,USA,US,ND,US-ND,38105,,,,-103.48,48.35,37589
 US38900,United States,North Dakota,Unassigned,,County,840,USA,US,ND,US-ND,38900,,,,,,
-US39,United States,Ohio,,,State,840,USA,US,OH,US-OH,39,,,,-83,40.36,11689100
+US39,United States,Ohio,,,State,840,USA,US,OH,US-OH,39,,,,-82.76,40.39,11689100
 US39001,United States,Ohio,Adams,,County,840,USA,US,OH,US-OH,39001,,,,-83.47,38.85,27698
 US39003,United States,Ohio,Allen,,County,840,USA,US,OH,US-OH,39003,,,,-84.11,40.77,102351
 US39005,United States,Ohio,Ashland,,County,840,USA,US,OH,US-OH,39005,,,,-82.27,40.85,53484
@@ -3208,7 +3208,7 @@ US39171,United States,Ohio,Williams,,County,840,USA,US,OH,US-OH,39171,,,,-84.58,
 US39173,United States,Ohio,Wood,,County,840,USA,US,OH,US-OH,39173,,,,-83.62,41.36,130817
 US39175,United States,Ohio,Wyandot,,County,840,USA,US,OH,US-OH,39175,,,,-83.31,40.84,21772
 US39900,United States,Ohio,Unassigned,,County,840,USA,US,OH,US-OH,39900,,,,,,
-US40,United States,Oklahoma,,,State,840,USA,US,OK,US-OK,40,,,,-97.14,35.54,3956971
+US40,United States,Oklahoma,,,State,840,USA,US,OK,US-OK,40,,,,-96.93,35.57,3956971
 US40001,United States,Oklahoma,Adair,,County,840,USA,US,OK,US-OK,40001,,,,-94.66,35.88,22194
 US40003,United States,Oklahoma,Alfalfa,,County,840,USA,US,OK,US-OK,40003,,,,-98.32,36.73,5702
 US40005,United States,Oklahoma,Atoka,,County,840,USA,US,OK,US-OK,40005,,,,-96.04,34.37,13758
@@ -3286,7 +3286,7 @@ US40149,United States,Oklahoma,Washita,,County,840,USA,US,OK,US-OK,40149,,,,-98.
 US40151,United States,Oklahoma,Woods,,County,840,USA,US,OK,US-OK,40151,,,,-98.87,36.77,8793
 US40153,United States,Oklahoma,Woodward,,County,840,USA,US,OK,US-OK,40153,,,,-99.26,36.42,20211
 US40900,United States,Oklahoma,Unassigned,,County,840,USA,US,OK,US-OK,40900,,,,,,
-US41,United States,Oregon,,,State,840,USA,US,OR,US-OR,41,,,,-121.94,44.72,4217737
+US41,United States,Oregon,,,State,840,USA,US,OR,US-OR,41,,,,-122.07,44.57,4217737
 US41001,United States,Oregon,Baker,,County,840,USA,US,OR,US-OR,41001,,,,-117.67,44.71,16124
 US41003,United States,Oregon,Benton,,County,840,USA,US,OR,US-OR,41003,,,,-123.43,44.49,93053
 US41005,United States,Oregon,Clackamas,,County,840,USA,US,OR,US-OR,41005,,,,-122.22,45.19,418187
@@ -3322,7 +3322,7 @@ US41065,United States,Oregon,Wasco,,County,840,USA,US,OR,US-OR,41065,,,,-121.17,
 US41067,United States,Oregon,Washington,,County,840,USA,US,OR,US-OR,41067,,,,-123.1,45.56,601592
 US41071,United States,Oregon,Yamhill,,County,840,USA,US,OR,US-OR,41071,,,,-123.31,45.23,107100
 US41900,United States,Oregon,Unassigned,,County,840,USA,US,OR,US-OR,41900,,,,,,
-US42,United States,Pennsylvania,,,State,840,USA,US,PA,US-PA,42,,,,-77.4,40.82,12801989
+US42,United States,Pennsylvania,,,State,840,USA,US,PA,US-PA,42,,,,-77.21,40.59,12801989
 US42001,United States,Pennsylvania,Adams,,County,840,USA,US,PA,US-PA,42001,,,,-77.22,39.87,103009
 US42003,United States,Pennsylvania,Allegheny,,County,840,USA,US,PA,US-PA,42003,,,,-79.98,40.47,1216045
 US42005,United States,Pennsylvania,Armstrong,,County,840,USA,US,PA,US-PA,42005,,,,-79.46,40.82,64735
@@ -3391,14 +3391,14 @@ US42129,United States,Pennsylvania,Westmoreland,,County,840,USA,US,PA,US-PA,4212
 US42131,United States,Pennsylvania,Wyoming,,County,840,USA,US,PA,US-PA,42131,,,,-76.01,41.52,26794
 US42133,United States,Pennsylvania,York,,County,840,USA,US,PA,US-PA,42133,,,,-76.73,39.92,449058
 US42900,United States,Pennsylvania,Unassigned,,County,840,USA,US,PA,US-PA,42900,,,,,,
-US44,United States,Rhode Island,,,State,840,USA,US,RI,US-RI,44,,,,-71.58,41.67,1059361
+US44,United States,Rhode Island,,,State,840,USA,US,RI,US-RI,44,,,,-71.51,41.68,1059361
 US44001,United States,Rhode Island,Bristol,,County,840,USA,US,RI,US-RI,44001,,,,-71.29,41.71,48479
 US44003,United States,Rhode Island,Kent,,County,840,USA,US,RI,US-RI,44003,,,,-71.58,41.67,164292
 US44005,United States,Rhode Island,Newport,,County,840,USA,US,RI,US-RI,44005,,,,-71.27,41.56,82082
 US44007,United States,Rhode Island,Providence,,County,840,USA,US,RI,US-RI,44007,,,,-71.58,41.87,638931
 US44009,United States,Rhode Island,Washington,,County,840,USA,US,RI,US-RI,44009,,,,-71.61,41.46,125577
 US44900,United States,Rhode Island,Unassigned,,County,840,USA,US,RI,US-RI,44900,,,,,,
-US45,United States,South Carolina,,,State,840,USA,US,SC,US-SC,45,,,,-81.04,34.02,5148714
+US45,United States,South Carolina,,,State,840,USA,US,SC,US-SC,45,,,,-80.94,33.86,5148714
 US45001,United States,South Carolina,Abbeville,,County,840,USA,US,SC,US-SC,45001,,,,-82.46,34.22,24527
 US45003,United States,South Carolina,Aiken,,County,840,USA,US,SC,US-SC,45003,,,,-81.64,33.54,170872
 US45005,United States,South Carolina,Allendale,,County,840,USA,US,SC,US-SC,45005,,,,-81.35,32.99,8688
@@ -3446,7 +3446,7 @@ US45087,United States,South Carolina,Union,,County,840,USA,US,SC,US-SC,45087,,,,
 US45089,United States,South Carolina,Williamsburg,,County,840,USA,US,SC,US-SC,45089,,,,-79.73,33.62,30368
 US45091,United States,South Carolina,York,,County,840,USA,US,SC,US-SC,45091,,,,-81.18,34.97,280979
 US45900,United States,South Carolina,Unassigned,,County,840,USA,US,SC,US-SC,45900,,,,,,
-US46,United States,South Dakota,,,State,840,USA,US,SD,US-SD,46,,,,-99.04,44.18,884659
+US46,United States,South Dakota,,,State,840,USA,US,SD,US-SD,46,,,,-99.44,44.3,884659
 US46003,United States,South Dakota,Aurora,,County,840,USA,US,SD,US-SD,46003,,,,-98.56,43.72,2751
 US46005,United States,South Dakota,Beadle,,County,840,USA,US,SD,US-SD,46005,,,,-98.28,44.41,18453
 US46007,United States,South Dakota,Bennett,,County,840,USA,US,SD,US-SD,46007,,,,-101.67,43.19,3365
@@ -3508,7 +3508,7 @@ US46129,United States,South Dakota,Walworth,,County,840,USA,US,SD,US-SD,46129,,,
 US46135,United States,South Dakota,Yankton,,County,840,USA,US,SD,US-SD,46135,,,,-97.39,43.01,22814
 US46137,United States,South Dakota,Ziebach,,County,840,USA,US,SD,US-SD,46137,,,,-101.67,44.98,2756
 US46900,United States,South Dakota,Unassigned,,County,840,USA,US,SD,US-SD,46900,,,,,,
-US47,United States,Tennessee,,,State,840,USA,US,TN,US-TN,47,,,,-86.06,35.93,6829174
+US47,United States,Tennessee,,,State,840,USA,US,TN,US-TN,47,,,,-86.69,35.75,6829174
 US47001,United States,Tennessee,Anderson,,County,840,USA,US,TN,US-TN,47001,,,,-84.2,36.13,76978
 US47003,United States,Tennessee,Bedford,,County,840,USA,US,TN,US-TN,47003,,,,-86.46,35.51,49713
 US47005,United States,Tennessee,Benton,,County,840,USA,US,TN,US-TN,47005,,,,-88.07,36.07,16160
@@ -3605,7 +3605,7 @@ US47185,United States,Tennessee,White,,County,840,USA,US,TN,US-TN,47185,,,,-85.4
 US47187,United States,Tennessee,Williamson,,County,840,USA,US,TN,US-TN,47187,,,,-86.89,35.89,238412
 US47189,United States,Tennessee,Wilson,,County,840,USA,US,TN,US-TN,47189,,,,-86.3,36.15,144657
 US47900,United States,Tennessee,Unassigned,,County,840,USA,US,TN,US-TN,47900,,,,,,
-US48,United States,Texas,,,State,840,USA,US,TX,US-TX,48,,,,-98.54,31.78,28995881
+US48,United States,Texas,,,State,840,USA,US,TX,US-TX,48,,,,-97.56,31.05,28995881
 US48001,United States,Texas,Anderson,,County,840,USA,US,TX,US-TX,48001,,,,-95.65,31.82,57735
 US48003,United States,Texas,Andrews,,County,840,USA,US,TX,US-TX,48003,,,,-102.64,32.3,18705
 US48005,United States,Texas,Angelina,,County,840,USA,US,TX,US-TX,48005,,,,-94.61,31.25,86715
@@ -3852,7 +3852,7 @@ US48503,United States,Texas,Young,,County,840,USA,US,TX,US-TX,48503,,,,-98.69,33
 US48505,United States,Texas,Zapata,,County,840,USA,US,TX,US-TX,48505,,,,-99.17,27,14179
 US48507,United States,Texas,Zavala,,County,840,USA,US,TX,US-TX,48507,,,,-99.76,28.87,11840
 US48900,United States,Texas,Unassigned,,County,840,USA,US,TX,US-TX,48900,,,,,,
-US49,United States,Utah,,,State,840,USA,US,UT,US-UT,49,,,,-111.67,39.7,3205958
+US49,United States,Utah,,,State,840,USA,US,UT,US-UT,49,,,,-111.86,40.15,3205958
 US49001,United States,Utah,Beaver,,County,840,USA,US,UT,US-UT,49001,,,,-113.23,38.36,6710
 US49003,United States,Utah,Box Elder,,County,840,USA,US,UT,US-UT,49003,,,,-113.08,41.52,56046
 US49005,United States,Utah,Cache,,County,840,USA,US,UT,US-UT,49005,,,,-111.74,41.72,128289
@@ -3887,7 +3887,7 @@ US49903,United States,Utah,Southeast Utah,,Jurisdiction,840,USA,US,UT,US-UT,4990
 US49904,United States,Utah,Southwest Utah,,Jurisdiction,840,USA,US,UT,US-UT,49904,,,,-111.44,37.85,252042
 US49905,United States,Utah,TriCounty,,Jurisdiction,840,USA,US,UT,US-UT,49905,,,,-109.52,40.12,56622
 US49906,United States,Utah,Weber-Morgan,,Jurisdiction,840,USA,US,UT,US-UT,49906,,,,-111.91,41.27,272337
-US50,United States,Vermont,,,State,840,USA,US,VT,US-VT,50,,,,-72.68,44.37,623989
+US50,United States,Vermont,,,State,840,USA,US,VT,US-VT,50,,,,-72.71,44.05,623989
 US50001,United States,Vermont,Addison,,County,840,USA,US,VT,US-VT,50001,,,,-73.14,44.03,36777
 US50003,United States,Vermont,Bennington,,County,840,USA,US,VT,US-VT,50003,,,,-73.09,43.04,35470
 US50005,United States,Vermont,Caledonia,,County,840,USA,US,VT,US-VT,50005,,,,-72.1,44.47,29993
@@ -3903,7 +3903,7 @@ US50023,United States,Vermont,Washington,,County,840,USA,US,VT,US-VT,50023,,,,-7
 US50025,United States,Vermont,Windham,,County,840,USA,US,VT,US-VT,50025,,,,-72.71,42.99,42222
 US50027,United States,Vermont,Windsor,,County,840,USA,US,VT,US-VT,50027,,,,-72.59,43.58,55062
 US50900,United States,Vermont,Unassigned,,County,840,USA,US,VT,US-VT,50900,,,,,,
-US51,United States,Virginia,,,State,840,USA,US,VA,US-VA,51,,,,-78.17,37.38,8535519
+US51,United States,Virginia,,,State,840,USA,US,VA,US-VA,51,,,,-78.17,37.77,8535519
 US51001,United States,Virginia,Accomack,,County,840,USA,US,VA,US-VA,51001,,,,-75.63,37.77,32316
 US51003,United States,Virginia,Albemarle,,County,840,USA,US,VA,US-VA,51003,,,,-78.55,38.02,109330
 US51005,United States,Virginia,Alleghany,,County,840,USA,US,VA,US-VA,51005,,,,-80,37.79,14860
@@ -4037,7 +4037,7 @@ US51820,United States,Virginia,Waynesboro,,County,840,USA,US,VA,US-VA,51820,,,,-
 US51830,United States,Virginia,Williamsburg,,County,840,USA,US,VA,US-VA,51830,,,,-76.71,37.28,14954
 US51840,United States,Virginia,Winchester,,County,840,USA,US,VA,US-VA,51840,,,,-78.17,39.17,28078
 US51900,United States,Virginia,Unassigned,,County,840,USA,US,VA,US-VA,51900,,,,,,
-US53,United States,Washington,,,State,840,USA,US,WA,US-WA,53,,,,-121.72,48.05,822083
+US53,United States,Washington,,,State,840,USA,US,WA,US-WA,53,,,,-121.49,47.4,7614893
 US53001,United States,Washington,Adams,,County,840,USA,US,WA,US-WA,53001,,,,-118.56,46.98,19983
 US53003,United States,Washington,Asotin,,County,840,USA,US,WA,US-WA,53003,,,,-117.2,46.19,22582
 US53005,United States,Washington,Benton,,County,840,USA,US,WA,US-WA,53005,,,,-119.51,46.24,204390
@@ -4078,7 +4078,7 @@ US53073,United States,Washington,Whatcom,,County,840,USA,US,WA,US-WA,53073,,,,-1
 US53075,United States,Washington,Whitman,,County,840,USA,US,WA,US-WA,53075,,,,-117.52,46.9,50104
 US53077,United States,Washington,Yakima,,County,840,USA,US,WA,US-WA,53077,,,,-120.74,46.46,250873
 US53900,United States,Washington,Unassigned,,County,840,USA,US,WA,US-WA,53900,,,,,,
-US54,United States,West Virginia,,,State,840,USA,US,WV,US-WV,54,,,,-80.71,38.89,1792147
+US54,United States,West Virginia,,,State,840,USA,US,WV,US-WV,54,,,,-80.95,38.49,1792147
 US54001,United States,West Virginia,Barbour,,County,840,USA,US,WV,US-WV,54001,,,,-80,39.13,16441
 US54003,United States,West Virginia,Berkeley,,County,840,USA,US,WV,US-WV,54003,,,,-78.02,39.47,119171
 US54005,United States,West Virginia,Boone,,County,840,USA,US,WV,US-WV,54005,,,,-81.7,38.02,21457
@@ -4134,7 +4134,7 @@ US54105,United States,West Virginia,Wirt,,County,840,USA,US,WV,US-WV,54105,,,,-8
 US54107,United States,West Virginia,Wood,,County,840,USA,US,WV,US-WV,54107,,,,-81.52,39.21,83518
 US54109,United States,West Virginia,Wyoming,,County,840,USA,US,WV,US-WV,54109,,,,-81.55,37.61,20394
 US54900,United States,West Virginia,Unassigned,,County,840,USA,US,WV,US-WV,54900,,,,,,
-US55,United States,Wisconsin,,,State,840,USA,US,WI,US-WI,55,,,,-89.67,44.43,5822434
+US55,United States,Wisconsin,,,State,840,USA,US,WI,US-WI,55,,,,-89.62,44.27,5822434
 US55001,United States,Wisconsin,Adams,,County,840,USA,US,WI,US-WI,55001,,,,-89.77,43.97,20220
 US55003,United States,Wisconsin,Ashland,,County,840,USA,US,WI,US-WI,55003,,,,-90.68,46.32,15562
 US55005,United States,Wisconsin,Barron,,County,840,USA,US,WI,US-WI,55005,,,,-91.85,45.42,45244
@@ -4208,7 +4208,7 @@ US55137,United States,Wisconsin,Waushara,,County,840,USA,US,WI,US-WI,55137,,,,-8
 US55139,United States,Wisconsin,Winnebago,,County,840,USA,US,WI,US-WI,55139,,,,-88.64,44.07,171907
 US55141,United States,Wisconsin,Wood,,County,840,USA,US,WI,US-WI,55141,,,,-90.04,44.46,72999
 US55900,United States,Wisconsin,Unassigned,,County,840,USA,US,WI,US-WI,55900,,,,,,
-US56,United States,Wyoming,,,State,840,USA,US,WY,US-WY,56,,,,-106.89,43.04,578759
+US56,United States,Wyoming,,,State,840,USA,US,WY,US-WY,56,,,,-107.3,42.76,578759
 US56001,United States,Wyoming,Albany,,County,840,USA,US,WY,US-WY,56001,,,,-105.72,41.65,38880
 US56003,United States,Wyoming,Big Horn,,County,840,USA,US,WY,US-WY,56003,,,,-108,44.52,11790
 US56005,United States,Wyoming,Campbell,,County,840,USA,US,WY,US-WY,56005,,,,-105.55,44.25,46341
