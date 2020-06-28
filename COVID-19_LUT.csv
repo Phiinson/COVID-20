@@ -600,7 +600,7 @@ GBIM,United Kingdom,Isle of Man,,,Province,826,GBR,GB,IM,GB-IM,,,,,-4.55,54.24,8
 GBKY,United Kingdom,Cayman Islands,,,Province,826,GBR,GB,KY,GB-KY,,,,,-81.25,19.31,65720
 GBMS,United Kingdom,Montserrat,,,Province,826,GBR,GB,MS,GB-MS,,,,,-62.19,16.74,4999
 GBTC,United Kingdom,Turks and Caicos Islands,,,Province,826,GBR,GB,TC,GB-TC,,,,,-71.8,21.69,38718
-GBVG,United Kingdom,British Virgin Islands,,,Province,826,GBR,GB,VG,GB-VG,,,,,-64.64,18.42,30237
+GBVG,United Kingdom,Virgin Islands,,,Territory,826,GBR,GB,VG,GB-VG,,,,,-64.64,18.42,30237
 GD,Grenada,,,,Country,308,GRD,GD,GD,GD,,GD,,,-61.68,12.12,112519
 GE,Georgia,,,,Country,268,GEO,GE,GE,GE,,GE,,,43.36,42.32,3989175
 GH,Ghana,,,,Country,288,GHA,GH,GH,GH,,GH,,,-1.02,7.95,31072945
@@ -795,7 +795,7 @@ KG,Kyrgyzstan,,,,Country,417,KGZ,KG,KG,KG,,KG,,,74.77,41.2,6524191
 KH,Cambodia,,,,Country,116,KHM,KH,KH,KH,,KH,,,104.92,11.55,16718971
 KM,Comoros,,,,Country,174,COM,KM,KM,KM,,KM,,,43.33,-11.65,869595
 KN,Saint Kitts and Nevis,,,,Country,659,KNA,KN,KN,KN,,KN,,,-62.78,17.36,53192
-KR,"Korea, South",,,,Country,410,KOR,KR,KR,KR,,KR,,,127.77,35.91,51269183
+KR,South Korea,,,,Country,410,KOR,KR,KR,KR,,KR,,,127.77,35.91,51269183
 KW,Kuwait,,,,Country,414,KWT,KW,KW,KW,,KW,,,47.48,29.31,4270563
 KZ,Kazakhstan,,,,Country,398,KAZ,KZ,KZ,KZ,,KZ,,,66.92,48.02,18776707
 LA,Laos,,,,Country,418,LAO,LA,LA,LA,,LA,,,102.5,19.86,7275556
@@ -4234,10 +4234,10 @@ US56043,United States,Wyoming,Washakie,,County,840,USA,US,WY,US-WY,56043,,,,-107
 US56045,United States,Wyoming,Weston,,County,840,USA,US,WY,US-WY,56045,,,,-104.57,43.84,6927
 US56900,United States,Wyoming,Unassigned,,County,840,USA,US,WY,US-WY,56900,,,,,,
 US60,United States,American Samoa,,,State,840,USA,US,AS,US-AS,60,,,,-170.13,-14.27,55641
-US66,United States,Guam,,,State,840,USA,US,GU,US-GU,66,,,,144.79,13.44,164229
-US69,United States,Northern Mariana Islands,,,State,840,USA,US,MP,US-MP,69,,,,145.67,15.1,55144
-US72,United States,Puerto Rico,,,State,840,USA,US,PR,US-PR,72,,,,-66.59,18.22,2933408
-US78,United States,Virgin Islands,,,State,840,USA,US,VI,US-VI,78,,,,-64.9,18.34,107268
+US66,United States,Guam,,,Territory,840,USA,US,GU,US-GU,66,,,,144.79,13.44,164229
+US69,United States,Northern Mariana Islands,,,Territory,840,USA,US,MP,US-MP,69,,,,145.67,15.1,55144
+US72,United States,Puerto Rico,,,Territory,840,USA,US,PR,US-PR,72,,,,-66.59,18.22,2933408
+US78,United States,Virgin Islands,,,Territory,840,USA,US,VI,US-VI,78,,,,-64.9,18.34,107268
 US80008,United States,Colorado,Out of CO,,County,840,USA,US,CO,US-CO,80008,,,,,,
 US80013,United States,Georgia,Out of GA,,County,840,USA,US,GA,US-GA,80013,,,,,,
 US80015,United States,Hawaii,Out of HI,,County,840,USA,US,HI,US-HI,80015,,,,,,
