@@ -63,7 +63,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **Active**           | Active cases |
 | **Confirmed**        | Confimed cases |
 | **Deaths**           | Deaths |
-| **Home_Isolation**   | Home isolation |
+| **Home_Confinement** | Home confinement / isolation |
 | **Hospitalized**     | Total hospitalized cases excluding intensive care units |
 | **Hospitalized_Now** | Currently hospitalized cases excluding intensive care units |
 | **Hospitalized_Sym** | Symptomatic hospitalized cases excluding intensive care units |
@@ -71,7 +71,9 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 | **ICU_Now**          | Currently in intensive care units |
 | **Negative**         | Negative tests |
 | **Pending**          | Pending tests |
-| **Positive**         | Positive tests |
+| **Positive**         | Positive tests, including hospitalised cases and home confinement |
+| **Positive_Dx**      | Positive cases emerged from clinical activity / diagnostics |
+| **Positive_Sc**      | Positive cases emerging from surveys and tests |
 | **Recovered**        | Recovered cases |
 | **Tested**           | Cases tested = Tests - Pending |
 | **Tests**            | Total performed tests |

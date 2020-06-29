@@ -34,7 +34,7 @@ BT,Bhutan,,,,Country,064,BTN,BT,BT,BT,,BT,,,90.43,27.51,771612
 BW,Botswana,,,,Country,072,BWA,BW,BW,BW,,BW,,,24.68,-22.33,2351625
 BY,Belarus,,,,Country,112,BLR,BY,BY,BY,,BY,,,27.95,53.71,9449321
 BZ,Belize,,,,Country,084,BLZ,BZ,BZ,BZ-BZ,,BZ,,,-88.5,17.19,397621
-CA,Canada,,,,Country,124,CAN,CA,CA,CA,,CA,,,-92.07,53.04,37855702
+CA,Canada,,,,Country,124,CAN,CA,CA,CA,,CA,,,-95,60,37855702
 CA98,Canada,Grand Princess,,,Cruise Ship,124,CAN,CA,98,CA-98,,,,,,,
 CA99,Canada,Diamond Princess,,,Cruise Ship,124,CAN,CA,99,CA-99,,,,,,,
 CAAB,Canada,Alberta,,,Province,124,CAN,CA,AB,CA-AB,,,,,-116.58,53.93,4413146
@@ -145,7 +145,7 @@ DE146,Germany,Baden-Württemberg,Tübingen,Biberach,NUTS3,276,DEU,DE,BW,DE-BW,,D
 DE147,Germany,Baden-Württemberg,Tübingen,Bodenseekreis,NUTS3,276,DEU,DE,BW,DE-BW,,DE147,08435,,9.4,47.73,216227
 DE148,Germany,Baden-Württemberg,Tübingen,Ravensburg,NUTS3,276,DEU,DE,BW,DE-BW,,DE148,08436,,9.78,47.83,284285
 DE149,Germany,Baden-Württemberg,Tübingen,Sigmaringen,NUTS3,276,DEU,DE,BW,DE-BW,,DE149,08437,,9.24,48.04,130873
-DE2,Germany,Bayern,,,NUTS1,276,DEU,DE,BY,DE-BY,,DE2,,,11.24,48.96,13076721
+DE2,Germany,Bayern,,,NUTS1,276,DEU,DE,BY,DE-BY,,DE2,,,11.5,48.79,13076721
 DE21,Germany,Bayern,Oberbayern,,NUTS2,276,DEU,DE,BY,DE-BY,,DE21,,,11.55,48.08,4686163
 DE211,Germany,Bayern,Oberbayern,"Ingolstadt, Kreisfreie Stadt",NUTS3,276,DEU,DE,BY,DE-BY,,DE211,09161,,11.4,48.76,136981
 DE212,Germany,Bayern,Oberbayern,"München, Kreisfreie Stadt",NUTS3,276,DEU,DE,BY,DE-BY,,DE212,09162,,11.55,48.15,1471508
@@ -249,7 +249,7 @@ DE27B,Germany,Bayern,Schwaben,Ostallgäu,NUTS3,276,DEU,DE,BY,DE-BY,,DE27B,09777,
 DE27C,Germany,Bayern,Schwaben,Unterallgäu,NUTS3,276,DEU,DE,BY,DE-BY,,DE27C,09778,,10.39,48.04,144041
 DE27D,Germany,Bayern,Schwaben,Donau-Ries,NUTS3,276,DEU,DE,BY,DE-BY,,DE27D,09779,,10.71,48.81,133496
 DE27E,Germany,Bayern,Schwaben,Oberallgäu,NUTS3,276,DEU,DE,BY,DE-BY,,DE27E,09780,,10.26,47.57,155362
-DE3,Germany,Berlin,,,NUTS1,276,DEU,DE,BE,DE-BE,,DE3,,,13.4,52.52,3754418
+DE3,Germany,Berlin,,,NUTS1,276,DEU,DE,BE,DE-BE,,DE3,,,13.4,52.52,3644826
 DE30,Germany,Berlin,Berlin,,NUTS2,276,DEU,DE,BE,DE-BE,,DE30,,,13.4,52.52,3754418
 DE301,Germany,Berlin,Berlin,Berlin Mitte,NUTS3,276,DEU,DE,BE,DE-BE,,DE301,11001,,13.4,52.52,384172
 DE302,Germany,Berlin,Berlin,Berlin Friedrichshain-Kreuzberg,NUTS3,276,DEU,DE,BE,DE-BE,,DE302,11002,,13.4,52.52,289762
@@ -263,7 +263,7 @@ DE309,Germany,Berlin,Berlin,Berlin Treptow-Köpenick,NUTS3,276,DEU,DE,BE,DE-BE,,
 DE30A,Germany,Berlin,Berlin,Berlin Marzahn-Hellersdorf,NUTS3,276,DEU,DE,BE,DE-BE,,DE30A,11010,,13.4,52.52,268548
 DE30B,Germany,Berlin,Berlin,Berlin Lichtenberg,NUTS3,276,DEU,DE,BE,DE-BE,,DE30B,11011,,13.4,52.52,291452
 DE30C,Germany,Berlin,Berlin,Berlin Reinickendorf,NUTS3,276,DEU,DE,BE,DE-BE,,DE30C,11012,,13.4,52.52,265225
-DE4,Germany,Brandenburg,,,NUTS1,276,DEU,DE,BB,DE-BB,,DE4,,,13.58,52.36,2511917
+DE4,Germany,Brandenburg,,,NUTS1,276,DEU,DE,BB,DE-BB,,DE4,,,12.53,52.41,2511917
 DE40,Germany,Brandenburg,Brandenburg,,NUTS2,276,DEU,DE,BB,DE-BB,,DE40,,,13.58,52.36,2511917
 DE401,Germany,Brandenburg,Brandenburg,"Brandenburg an der Havel, Kreisfreie Stadt",NUTS3,276,DEU,DE,BB,DE-BB,,DE401,12051,,12.52,52.4,72124
 DE402,Germany,Brandenburg,Brandenburg,"Cottbus, Kreisfreie Stadt",NUTS3,276,DEU,DE,BB,DE-BB,,DE402,12052,,14.37,51.77,100219
@@ -283,15 +283,15 @@ DE40F,Germany,Brandenburg,Brandenburg,Prignitz,NUTS3,276,DEU,DE,BB,DE-BB,,DE40F,
 DE40G,Germany,Brandenburg,Brandenburg,Spree-Neiße,NUTS3,276,DEU,DE,BB,DE-BB,,DE40G,12071,,14.43,51.76,114429
 DE40H,Germany,Brandenburg,Brandenburg,Teltow-Fläming,NUTS3,276,DEU,DE,BB,DE-BB,,DE40H,12072,,13.28,52.07,168296
 DE40I,Germany,Brandenburg,Brandenburg,Uckermark,NUTS3,276,DEU,DE,BB,DE-BB,,DE40I,12073,,13.86,53.21,119552
-DE5,Germany,Bremen,,,NUTS1,276,DEU,DE,HB,DE-HB,,DE5,,,8.67,53.34,682986
-DE50,Germany,Bremen,Bremen,,NUTS2,276,DEU,DE,HB,DE-HB,,DE50,,,8.67,53.34,682986
+DE5,Germany,Bremen,,,NUTS1,276,DEU,DE,HB,DE-HB,,DE5,,,8.8,53.08,682986
+DE50,Germany,Bremen,Bremen,,NUTS2,276,DEU,DE,HB,DE-HB,,DE50,,,8.67,53.33,682986
 DE501,Germany,Bremen,Bremen,"Bremen, Kreisfreie Stadt",NUTS3,276,DEU,DE,HB,DE-HB,,DE501,04011,,8.78,53.12,569352
 DE502,Germany,Bremen,Bremen,"Bremerhaven, Kreisfreie Stadt",NUTS3,276,DEU,DE,HB,DE-HB,,DE502,04012,,8.56,53.55,113634
-DE6,Germany,Hamburg,,,NUTS1,276,DEU,DE,HH,DE-HH,,DE6,,,9.9,53.55,1841179
+DE6,Germany,Hamburg,,,NUTS1,276,DEU,DE,HH,DE-HH,,DE6,,,9.99,53.55,1841179
 DE60,Germany,Hamburg,Hamburg,,NUTS2,276,DEU,DE,HH,DE-HH,,DE60,,,9.9,53.55,1841179
 DE600,Germany,Hamburg,Hamburg,Hamburg,NUTS3,276,DEU,DE,HH,DE-HH,,DE600,02000,,9.9,53.55,1841179
-DE7,Germany,Hessen,,,NUTS1,276,DEU,DE,HE,DE-HE,,DE7,,,8.8,50.32,6265809
-DE71,Germany,Hessen,Darmstadt,,NUTS2,276,DEU,DE,HE,DE-HE,,DE71,,,8.66,50.09,3998724
+DE7,Germany,Hessen,,,NUTS1,276,DEU,DE,HE,DE-HE,,DE7,,,9.16,50.65,6265809
+DE71,Germany,Hessen,Darmstadt,,NUTS2,276,DEU,DE,HE,DE-HE,,DE71,,,8.66,50.08,3998724
 DE711,Germany,Hessen,Darmstadt,"Darmstadt, Kreisfreie Stadt",NUTS3,276,DEU,DE,HE,DE-HE,,DE711,06411,,8.67,49.88,159207
 DE712,Germany,Hessen,Darmstadt,"Frankfurt am Main, Kreisfreie Stadt",NUTS3,276,DEU,DE,HE,DE-HE,,DE712,06412,,8.64,50.12,753056
 DE713,Germany,Hessen,Darmstadt,"Offenbach am Main, Kreisfreie Stadt",NUTS3,276,DEU,DE,HE,DE-HE,,DE713,06413,,8.78,50.09,128744
@@ -320,7 +320,7 @@ DE734,Germany,Hessen,Kassel,"Kassel, Landkreis",NUTS3,276,DEU,DE,HE,DE-HE,,DE734
 DE735,Germany,Hessen,Kassel,Schwalm-Eder-Kreis,NUTS3,276,DEU,DE,HE,DE-HE,,DE735,06634,,9.37,51.02,180222
 DE736,Germany,Hessen,Kassel,Waldeck-Frankenberg,NUTS3,276,DEU,DE,HE,DE-HE,,DE736,06635,,8.89,51.19,156953
 DE737,Germany,Hessen,Kassel,Werra-Meißner-Kreis,NUTS3,276,DEU,DE,HE,DE-HE,,DE737,06636,,9.93,51.19,101017
-DE8,Germany,Mecklenburg-Vorpommern,,,NUTS1,276,DEU,DE,MV,DE-MV,,DE8,,,12.11,53.84,1609675
+DE8,Germany,Mecklenburg-Vorpommern,,,NUTS1,276,DEU,DE,MV,DE-MV,,DE8,,,12.43,53.61,1609675
 DE80,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,,NUTS2,276,DEU,DE,MV,DE-MV,,DE80,,,12.11,53.84,1609675
 DE803,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"Rostock, Kreisfreie Stadt",NUTS3,276,DEU,DE,MV,DE-MV,,DE803,13003,,12.11,54.08,208886
 DE804,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"Schwerin, Kreisfreie Stadt",NUTS3,276,DEU,DE,MV,DE-MV,,DE804,13004,,11.42,53.62,95818
@@ -330,8 +330,8 @@ DE80L,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Vorpommern-Rügen,NU
 DE80M,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Nordwestmecklenburg,NUTS3,276,DEU,DE,MV,DE-MV,,DE80M,13074,,11.25,53.9,156729
 DE80N,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Vorpommern-Greifswald,NUTS3,276,DEU,DE,MV,DE-MV,,DE80N,13075,,13.93,53.79,236697
 DE80O,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Ludwigslust-Parchim,NUTS3,276,DEU,DE,MV,DE-MV,,DE80O,13076,,11.53,53.45,212618
-DE9,Germany,Niedersachsen,,,NUTS1,276,DEU,DE,NI,DE-NI,,DE9,,,9.21,52.74,7982448
-DE91,Germany,Niedersachsen,Braunschweig,,NUTS2,276,DEU,DE,NI,DE-NI,,DE91,,,10.46,52.19,1596396
+DE9,Germany,Niedersachsen,,,NUTS1,276,DEU,DE,NI,DE-NI,,DE9,,,9.85,52.64,7982448
+DE91,Germany,Niedersachsen,Braunschweig,,NUTS2,276,DEU,DE,NI,DE-NI,,DE91,,,10.46,52.2,1596396
 DE911,Germany,Niedersachsen,Braunschweig,"Braunschweig, Kreisfreie Stadt",NUTS3,276,DEU,DE,NI,DE-NI,,DE911,03101,,10.52,52.28,248292
 DE912,Germany,Niedersachsen,Braunschweig,"Salzgitter, Kreisfreie Stadt",NUTS3,276,DEU,DE,NI,DE-NI,,DE912,03102,,10.37,52.12,104948
 DE913,Germany,Niedersachsen,Braunschweig,"Wolfsburg, Kreisfreie Stadt",NUTS3,276,DEU,DE,NI,DE-NI,,DE913,03103,,10.78,52.41,124151
@@ -380,7 +380,7 @@ DE94E,Germany,Niedersachsen,Weser-Ems,"Osnabrück, Landkreis",NUTS3,276,DEU,DE,N
 DE94F,Germany,Niedersachsen,Weser-Ems,Vechta,NUTS3,276,DEU,DE,NI,DE-NI,,DE94F,03460,,8.22,52.66,141598
 DE94G,Germany,Niedersachsen,Weser-Ems,Wesermarsch,NUTS3,276,DEU,DE,NI,DE-NI,,DE94G,03461,,8.39,53.36,88624
 DE94H,Germany,Niedersachsen,Weser-Ems,Wittmund,NUTS3,276,DEU,DE,NI,DE-NI,,DE94H,03462,,7.6,53.65,56882
-DEA,Germany,Nordrhein-Westfalen,,,NUTS1,276,DEU,DE,NW,DE-NW,,DEA,,,7.19,51.43,17932651
+DEA,Germany,Nordrhein-Westfalen,,,NUTS1,276,DEU,DE,NW,DE-NW,,DEA,,,7.66,51.43,17932651
 DEA1,Germany,Nordrhein-Westfalen,Düsseldorf,,NUTS2,276,DEU,DE,NW,DE-NW,,DEA1,,,6.81,51.28,5202321
 DEA11,Germany,Nordrhein-Westfalen,Düsseldorf,"Düsseldorf, Kreisfreie Stadt",NUTS3,276,DEU,DE,NW,DE-NW,,DEA11,05111,,6.81,51.23,619294
 DEA12,Germany,Nordrhein-Westfalen,Düsseldorf,"Duisburg, Kreisfreie Stadt",NUTS3,276,DEU,DE,NW,DE-NW,,DEA12,05112,,6.74,51.44,498590
@@ -409,7 +409,7 @@ DEA2A,Germany,Nordrhein-Westfalen,Köln,Oberbergischer Kreis,NUTS3,276,DEU,DE,NW
 DEA2B,Germany,Nordrhein-Westfalen,Köln,Rheinisch-Bergischer Kreis,NUTS3,276,DEU,DE,NW,DE-NW,,DEA2B,05378,,7.19,51.02,283455
 DEA2C,Germany,Nordrhein-Westfalen,Köln,Rhein-Sieg-Kreis,NUTS3,276,DEU,DE,NW,DE-NW,,DEA2C,05382,,7.23,50.76,599780
 DEA2D,Germany,Nordrhein-Westfalen,Köln,Städteregion Aachen,NUTS3,276,DEU,DE,NW,DE-NW,,DEA2D,05334,,6.08,50.78,555465
-DEA3,Germany,Nordrhein-Westfalen,Münster,,NUTS2,276,DEU,DE,NW,DE-NW,,DEA3,,,7.26,51.87,2623619
+DEA3,Germany,Nordrhein-Westfalen,Münster,,NUTS2,276,DEU,DE,NW,DE-NW,,DEA3,,,7.27,51.87,2623619
 DEA31,Germany,Nordrhein-Westfalen,Münster,"Bottrop, Kreisfreie Stadt",NUTS3,276,DEU,DE,NW,DE-NW,,DEA31,05512,,6.92,51.57,117383
 DEA32,Germany,Nordrhein-Westfalen,Münster,"Gelsenkirchen, Kreisfreie Stadt",NUTS3,276,DEU,DE,NW,DE-NW,,DEA32,05513,,7.07,51.55,260654
 DEA33,Germany,Nordrhein-Westfalen,Münster,"Münster, Kreisfreie Stadt",NUTS3,276,DEU,DE,NW,DE-NW,,DEA33,05515,,7.62,51.95,314319
@@ -426,7 +426,7 @@ DEA44,Germany,Nordrhein-Westfalen,Detmold,Höxter,NUTS3,276,DEU,DE,NW,DE-NW,,DEA
 DEA45,Germany,Nordrhein-Westfalen,Detmold,Lippe,NUTS3,276,DEU,DE,NW,DE-NW,,DEA45,05766,,8.95,51.98,348391
 DEA46,Germany,Nordrhein-Westfalen,Detmold,Minden-Lübbecke,NUTS3,276,DEU,DE,NW,DE-NW,,DEA46,05770,,8.74,52.35,310710
 DEA47,Germany,Nordrhein-Westfalen,Detmold,Paderborn,NUTS3,276,DEU,DE,NW,DE-NW,,DEA47,05774,,8.72,51.66,306890
-DEA5,Germany,Nordrhein-Westfalen,Arnsberg,,NUTS2,276,DEU,DE,NW,DE-NW,,DEA5,,,7.67,51.41,3582497
+DEA5,Germany,Nordrhein-Westfalen,Arnsberg,,NUTS2,276,DEU,DE,NW,DE-NW,,DEA5,,,7.68,51.41,3582497
 DEA51,Germany,Nordrhein-Westfalen,Arnsberg,"Bochum, Kreisfreie Stadt",NUTS3,276,DEU,DE,NW,DE-NW,,DEA51,05911,,7.23,51.47,364628
 DEA52,Germany,Nordrhein-Westfalen,Arnsberg,"Dortmund, Kreisfreie Stadt",NUTS3,276,DEU,DE,NW,DE-NW,,DEA52,05913,,7.47,51.52,587010
 DEA53,Germany,Nordrhein-Westfalen,Arnsberg,"Hagen, Kreisfreie Stadt",NUTS3,276,DEU,DE,NW,DE-NW,,DEA53,05914,,7.5,51.35,188814
@@ -439,7 +439,7 @@ DEA59,Germany,Nordrhein-Westfalen,Arnsberg,Olpe,NUTS3,276,DEU,DE,NW,DE-NW,,DEA59
 DEA5A,Germany,Nordrhein-Westfalen,Arnsberg,Siegen-Wittgenstein,NUTS3,276,DEU,DE,NW,DE-NW,,DEA5A,05970,,8.2,50.94,278210
 DEA5B,Germany,Nordrhein-Westfalen,Arnsberg,Soest,NUTS3,276,DEU,DE,NW,DE-NW,,DEA5B,05974,,8.22,51.56,301902
 DEA5C,Germany,Nordrhein-Westfalen,Arnsberg,Unna,NUTS3,276,DEU,DE,NW,DE-NW,,DEA5C,05978,,7.64,51.58,394782
-DEB,Germany,Rheinland-Pfalz,,,NUTS1,276,DEU,DE,RP,DE-RP,,DEB,,,7.72,49.7,4084844
+DEB,Germany,Rheinland-Pfalz,,,NUTS1,276,DEU,DE,RP,DE-RP,,DEB,,,7.31,50.12,4084844
 DEB1,Germany,Rheinland-Pfalz,Koblenz,,NUTS2,276,DEU,DE,RP,DE-RP,,DEB1,,,7.5,50.33,1495885
 DEB11,Germany,Rheinland-Pfalz,Koblenz,"Koblenz, Kreisfreie Stadt",NUTS3,276,DEU,DE,RP,DE-RP,,DEB11,07111,,7.58,50.35,114024
 DEB12,Germany,Rheinland-Pfalz,Koblenz,Ahrweiler,NUTS3,276,DEU,DE,RP,DE-RP,,DEB12,07131,,7.04,50.47,129727
@@ -479,7 +479,7 @@ DEB3H,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Südliche Weinstraße,NUTS3,276,
 DEB3I,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Rhein-Pfalz-Kreis,NUTS3,276,DEU,DE,RP,DE-RP,,DEB3I,07338,,8.36,49.42,154201
 DEB3J,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Mainz-Bingen,NUTS3,276,DEU,DE,RP,DE-RP,,DEB3J,07339,,8.08,49.92,210889
 DEB3K,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Südwestpfalz,NUTS3,276,DEU,DE,RP,DE-RP,,DEB3K,07340,,7.66,49.21,95113
-DEC,Germany,Saarland,,,NUTS1,276,DEU,DE,SL,DE-SL,,DEC,,,7.06,49.38,990509
+DEC,Germany,Saarland,,,NUTS1,276,DEU,DE,SL,DE-SL,,DEC,,,7.02,49.4,990509
 DEC0,Germany,Saarland,Saarland,,NUTS2,276,DEU,DE,SL,DE-SL,,DEC0,,,7.06,49.38,990509
 DEC01,Germany,Saarland,Saarland,Regionalverband Saarbrücken,NUTS3,276,DEU,DE,SL,DE-SL,,DEC01,10041,,7,49.23,329708
 DEC02,Germany,Saarland,Saarland,Merzig-Wadern,NUTS3,276,DEU,DE,SL,DE-SL,,DEC02,10042,,6.68,49.5,103366
@@ -487,7 +487,7 @@ DEC03,Germany,Saarland,Saarland,Neunkirchen,NUTS3,276,DEU,DE,SL,DE-SL,,DEC03,100
 DEC04,Germany,Saarland,Saarland,Saarlouis,NUTS3,276,DEU,DE,SL,DE-SL,,DEC04,10044,,6.78,49.36,195201
 DEC05,Germany,Saarland,Saarland,Saarpfalz-Kreis,NUTS3,276,DEU,DE,SL,DE-SL,,DEC05,10045,,7.26,49.38,142631
 DEC06,Germany,Saarland,Saarland,St. Wendel,NUTS3,276,DEU,DE,SL,DE-SL,,DEC06,10046,,7.17,49.47,87397
-DED,Germany,Sachsen,,,NUTS1,276,DEU,DE,SN,DE-SN,,DED,,,12.95,51.07,4077937
+DED,Germany,Sachsen,,,NUTS1,276,DEU,DE,SN,DE-SN,,DED,,,13.2,51.1,4077937
 DED2,Germany,Sachsen,Dresden,,NUTS2,276,DEU,DE,SN,DE-SN,,DED2,,,13.87,51.23,1598199
 DED21,Germany,Sachsen,Dresden,"Dresden, Kreisfreie Stadt",NUTS3,276,DEU,DE,SN,DE-SN,,DED21,14612,,13.78,51.07,554649
 DED2C,Germany,Sachsen,Dresden,Bautzen,NUTS3,276,DEU,DE,SN,DE-SN,,DED2C,14625,,14.23,51.27,300880
@@ -504,8 +504,8 @@ DED5,Germany,Sachsen,Leipzig,,NUTS2,276,DEU,DE,SN,DE-SN,,DED5,,,12.39,51.34,1043
 DED51,Germany,Sachsen,Leipzig,"Leipzig, Kreisfreie Stadt",NUTS3,276,DEU,DE,SN,DE-SN,,DED51,14713,,12.39,51.34,587857
 DED52,Germany,Sachsen,Leipzig,Leipzig,NUTS3,276,DEU,DE,SN,DE-SN,,DED52,14729,,12.37,51.34,257763
 DED53,Germany,Sachsen,Leipzig,Nordsachsen,NUTS3,276,DEU,DE,SN,DE-SN,,DED53,14730,,12.78,51.47,197673
-DEE,Germany,Sachsen-Anhalt,,,NUTS1,276,DEU,DE,ST,DE-ST,,DEE,,,11.85,51.84,2208321
-DEE0,Germany,Sachsen-Anhalt,Sachsen-Anhalt,,NUTS2,276,DEU,DE,ST,DE-ST,,DEE0,,,11.85,51.84,2208321
+DEE,Germany,Sachsen-Anhalt,,,NUTS1,276,DEU,DE,ST,DE-ST,,DEE,,,11.69,51.95,2208321
+DEE0,Germany,Sachsen-Anhalt,Sachsen-Anhalt,,NUTS2,276,DEU,DE,ST,DE-ST,,DEE0,,,11.86,51.84,2208321
 DEE01,Germany,Sachsen-Anhalt,Sachsen-Anhalt,"Dessau-Roßlau, Kreisfreie Stadt",NUTS3,276,DEU,DE,ST,DE-ST,,DEE01,15001,,12.23,51.85,81237
 DEE02,Germany,Sachsen-Anhalt,Sachsen-Anhalt,"Halle (Saale), Kreisfreie Stadt",NUTS3,276,DEU,DE,ST,DE-ST,,DEE02,15002,,11.97,51.48,239257
 DEE03,Germany,Sachsen-Anhalt,Sachsen-Anhalt,"Magdeburg, Kreisfreie Stadt",NUTS3,276,DEU,DE,ST,DE-ST,,DEE03,15003,,11.64,52.12,238697
@@ -520,7 +520,7 @@ DEE0B,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Saalekreis,NUTS3,276,DEU,DE,ST,DE-ST
 DEE0C,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Salzlandkreis,NUTS3,276,DEU,DE,ST,DE-ST,,DEE0C,15089,,11.64,51.85,190560
 DEE0D,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Stendal,NUTS3,276,DEU,DE,ST,DE-ST,,DEE0D,15090,,11.84,52.7,111982
 DEE0E,Germany,Sachsen-Anhalt,Sachsen-Anhalt,Wittenberg,NUTS3,276,DEU,DE,ST,DE-ST,,DEE0E,15091,,12.7,51.82,125840
-DEF,Germany,Schleswig-Holstein,,,NUTS1,276,DEU,DE,SH,DE-SH,,DEF,,,9.98,54.08,2896712
+DEF,Germany,Schleswig-Holstein,,,NUTS1,276,DEU,DE,SH,DE-SH,,DEF,,,9.7,54.22,2896712
 DEF0,Germany,Schleswig-Holstein,Schleswig-Holstein,,NUTS2,276,DEU,DE,SH,DE-SH,,DEF0,,,9.98,54.08,2896712
 DEF01,Germany,Schleswig-Holstein,Schleswig-Holstein,"Flensburg, Kreisfreie Stadt",NUTS3,276,DEU,DE,SH,DE-SH,,DEF01,01001,,9.45,54.8,89504
 DEF02,Germany,Schleswig-Holstein,Schleswig-Holstein,"Kiel, Kreisfreie Stadt",NUTS3,276,DEU,DE,SH,DE-SH,,DEF02,01002,,10.15,54.34,247548
@@ -623,7 +623,7 @@ IQ,Iraq,,,,Country,368,IRQ,IQ,IQ,IQ,,IQ,,,43.68,33.22,40222503
 IR,Iran,,,,Country,364,IRN,IR,IR,IR,,IR,,,53.69,32.43,83992953
 IS,Iceland,,,,Country,352,ISL,IS,IS,IS,,IS,,,-19.02,64.96,341250
 IT,Italy,,,,Country,380,ITA,IT,IT,IT,,IT,,,12.57,41.87,60461828
-ITC,Italy,Northwest Italy,,,NUTS1,380,ITA,IT,C,IT-C,,ITC,,,8.31,45.27,16093286
+ITC,Italy,Northwest Italy,,,NUTS1,380,ITA,IT,C,IT-C,,ITC,,,8.3,45.27,16093286
 ITC1,Italy,Northwest Italy,Piemonte,,NUTS2,380,ITA,IT,21,IT-21,,ITC1,,,7.68,45.07,4356406
 ITC11,Italy,Northwest Italy,Piemonte,Torino,NUTS3,380,ITA,IT,21,IT-21,,ITC11,,,7.68,45.07,2259523
 ITC12,Italy,Northwest Italy,Piemonte,Vercelli,NUTS3,380,ITA,IT,21,IT-21,,ITC12,,,8.42,45.32,170911
@@ -701,7 +701,7 @@ ITF64,Italy,South Italy,Calabria,Vibo Valentia,NUTS3,380,ITA,IT,78,IT-78,,ITF64,
 ITF65,Italy,South Italy,Calabria,Reggio di Calabria,NUTS3,380,ITA,IT,78,IT-78,,ITF65,,,15.64,38.11,548009
 ITF6X,Italy,South Italy,Calabria,Unassigned,NUTS3,380,ITA,IT,78,IT-78,,ITF6X,,,,,
 ITF6Z,Italy,South Italy,Calabria,Out of Region/Province,NUTS3,380,ITA,IT,78,IT-78,,ITF6Z,,,,,
-ITG,Italy,Insular Italy,,,NUTS1,380,ITA,IT,G,IT-G,,ITG,,,11.24,38.67,6639482
+ITG,Italy,Insular Italy,,,NUTS1,380,ITA,IT,G,IT-G,,ITG,,,11.23,38.67,6639482
 ITG1,Italy,Insular Italy,Sicilia,,NUTS2,380,ITA,IT,82,IT-82,,ITG1,,,13.36,38.12,4999891
 ITG11,Italy,Insular Italy,Sicilia,Trapani,NUTS3,380,ITA,IT,82,IT-82,,ITG11,,,12.51,38.02,430492
 ITG12,Italy,Insular Italy,Sicilia,Palermo,NUTS3,380,ITA,IT,82,IT-82,,ITG12,,,13.36,38.12,1252588
@@ -882,7 +882,7 @@ TW,Taiwan,,,,Country,158,TWN,TW,TW,TW,,TW,,,121,23.7,23816775
 TZ,Tanzania,,,,Country,834,TZA,TZ,TZ,TZ,,TZ,,,34.89,-6.37,59734213
 UA,Ukraine,,,,Country,804,UKR,UA,UA,UA,,UA,,,31.17,48.38,43733759
 UG,Uganda,,,,Country,800,UGA,UG,UG,UG,,UG,,,32.29,1.37,45741000
-US,United States,,,,Country,840,USA,US,US,US,,US,,,-121.49,47.4,7614893
+US,United States,,,,Country,840,USA,US,US,US,,US,,,-100,40,329466283
 US01,United States,Alabama,,,State,840,USA,US,AL,US-AL,01,,,,-86.9,32.32,4903185
 US01001,United States,Alabama,Autauga,,County,840,USA,US,AL,US-AL,01001,,,,-86.64,32.54,55869
 US01003,United States,Alabama,Baldwin,,County,840,USA,US,AL,US-AL,01003,,,,-87.72,30.73,223234
@@ -2507,7 +2507,7 @@ US29225,United States,Missouri,Webster,,County,840,USA,US,MO,US-MO,29225,,,,-92.
 US29227,United States,Missouri,Worth,,County,840,USA,US,MO,US-MO,29227,,,,-94.42,40.48,2013
 US29229,United States,Missouri,Wright,,County,840,USA,US,MO,US-MO,29229,,,,-92.47,37.27,18289
 US29510,United States,Missouri,St. Louis City,,County,840,USA,US,MO,US-MO,29510,,,,-90.24,38.64,300576
-US29592,United States,Missouri,Joplin,,County,840,USA,US,MO,US-MO,29592,,,,-94.5133,37.0842,50657
+US29592,United States,Missouri,Joplin,,County,840,USA,US,MO,US-MO,29592,,,,-94.51,37.08,50657
 US29900,United States,Missouri,Unassigned,,County,840,USA,US,MO,US-MO,29900,,,,,,
 US29901,United States,Missouri,Kansas City,,County,840,USA,US,MO,US-MO,29901,,,,-94.58,39.1,488943
 US30,United States,Montana,,,State,840,USA,US,MT,US-MT,30,,,,-110.45,46.92,1068778
