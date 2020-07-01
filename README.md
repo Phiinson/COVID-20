@@ -26,8 +26,8 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 |:------------------:|:----------:|:------------------------------------|
 | **ID**             | Charachter | Geospatial ID, unique identifier (described above) |
 | **Admin0**         | Charachter | Standard name of administrative level 0 (countries) |
-| **Admin1**         | Charachter | Standard name of administrative level 1 (e.g., provinces, states, groups of subregions) |
-| **Admin2**         | Charachter | Standard name of administrative level 2 (e.g., counties and subregions) |
+| **Admin1**         | Charachter | Standard name of administrative level 1 (e.g., provinces, states, groups of regions) |
+| **Admin2**         | Charachter | Standard name of administrative level 2 (e.g., counties and regions) |
 | **Admin3**         | Charachter | Standard name of administrative level 3 (e.g., districts and ZTCA) |
 | **Level**          | Charachter | Geospatial level (e.g., Country, Province, State, County, District, and NUTS 0-3) |
 | **ISO1_3N**        | Charachter | ISO 3166-1 numeric code, 3-digit, administrative level 0 (countries) |
@@ -84,7 +84,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 
 | Source  |    Description   |    Level    |
 |:-------:|:-----------------|:------------|
-| **JHU** | [The Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19) | Global & County/State, United States |
+| **JHU** | [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19) | Global & County/State, United States |
 | **CTP** | [The COVID Tracking Project](https://covidtracking.com) | State, United States |
 | **NYC** | [New York City Department of Health and Mental Hygiene](https://github.com/nychealth/coronavirus-data) | ZCTA/Borough, New York City |
 | **NYT** | [The New York Times](https://github.com/nytimes/covid-19-data) | County/State, United States |
