@@ -84,7 +84,7 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 
 | Source  |    Description   |    Level    |
 |:-------:|:-----------------|:------------|
-| **JHU** | [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19) | Global & County/State, United States |
+| **JHU** | [Johns Hopkins University CSSE](https://github.com/CSSEGISandData/COVID-19) | Global & County/State, United States |
 | **CTP** | [The COVID Tracking Project](https://covidtracking.com) | State, United States |
 | **NYC** | [New York City Department of Health and Mental Hygiene](https://github.com/nychealth/coronavirus-data) | ZCTA/Borough, New York City |
 | **NYT** | [The New York Times](https://github.com/nytimes/covid-19-data) | County/State, United States |
