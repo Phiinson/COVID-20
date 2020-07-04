@@ -966,6 +966,7 @@ US02110,United States,Alaska,Juneau,,County,840,USA,US,AK,US-AK,02110,,,,-134.2,
 US02122,United States,Alaska,Kenai Peninsula,,County,840,USA,US,AK,US-AK,02122,,,,-151.54,60.24,58708
 US02130,United States,Alaska,Ketchikan Gateway,,County,840,USA,US,AK,US-AK,02130,,,,-130.98,55.57,13901
 US02150,United States,Alaska,Kodiak Island,,County,840,USA,US,AK,US-AK,02150,,,,-153.75,57.66,12998
+US02158,United States,Alaska,Kusilvak,,County,840,USA,US,AK,US-AK,02158,,,,-163.4,62.15,8314
 US02164,United States,Alaska,Lake and Peninsula,,County,840,USA,US,AK,US-AK,02164,,,,-156.21,58.62,1592
 US02170,United States,Alaska,Matanuska-Susitna,,County,840,USA,US,AK,US-AK,02170,,,,-149.57,62.31,108317
 US02180,United States,Alaska,Nome,,County,840,USA,US,AK,US-AK,02180,,,,-164.04,64.9,10004
@@ -1487,6 +1488,7 @@ US16071,United States,Idaho,Oneida,,County,840,USA,US,ID,US-ID,16071,,,,-112.54,
 US16073,United States,Idaho,Owyhee,,County,840,USA,US,ID,US-ID,16073,,,,-116.17,42.58,11823
 US16075,United States,Idaho,Payette,,County,840,USA,US,ID,US-ID,16075,,,,-116.76,44.01,23951
 US16077,United States,Idaho,Power,,County,840,USA,US,ID,US-ID,16077,,,,-112.84,42.69,7681
+US16079,United States,Idaho,Shoshone,,County,840,USA,US,ID,US-ID,16079,,,,-115.89,47.35,12882
 US16081,United States,Idaho,Teton,,County,840,USA,US,ID,US-ID,16081,,,,-111.21,43.75,12142
 US16083,United States,Idaho,Twin Falls,,County,840,USA,US,ID,US-ID,16083,,,,-114.67,42.35,86878
 US16085,United States,Idaho,Valley,,County,840,USA,US,ID,US-ID,16085,,,,-115.57,44.77,11392
@@ -1578,6 +1580,7 @@ US17163,United States,Illinois,St. Clair,,County,840,USA,US,IL,US-IL,17163,,,,-8
 US17165,United States,Illinois,Saline,,County,840,USA,US,IL,US-IL,17165,,,,-88.54,37.75,23491
 US17167,United States,Illinois,Sangamon,,County,840,USA,US,IL,US-IL,17167,,,,-89.66,39.76,194672
 US17169,United States,Illinois,Schuyler,,County,840,USA,US,IL,US-IL,17169,,,,-90.61,40.16,6768
+US17171,United States,Illinois,Scott,,County,840,USA,US,IL,US-IL,17171,,,,-90.48,39.64,4951
 US17173,United States,Illinois,Shelby,,County,840,USA,US,IL,US-IL,17173,,,,-88.81,39.39,21634
 US17175,United States,Illinois,Stark,,County,840,USA,US,IL,US-IL,17175,,,,-89.8,41.09,5342
 US17177,United States,Illinois,Stephenson,,County,840,USA,US,IL,US-IL,17177,,,,-89.66,42.35,44498
@@ -2548,6 +2551,7 @@ US30081,United States,Montana,Ravalli,,County,840,USA,US,MT,US-MT,30081,,,,-114.
 US30083,United States,Montana,Richland,,County,840,USA,US,MT,US-MT,30083,,,,-104.56,47.79,10803
 US30085,United States,Montana,Roosevelt,,County,840,USA,US,MT,US-MT,30085,,,,-105.01,48.3,11004
 US30087,United States,Montana,Rosebud,,County,840,USA,US,MT,US-MT,30087,,,,-106.73,46.23,8937
+US30091,United States,Montana,Sheridan,,County,840,USA,US,MT,US-MT,30091,,,,-104.5,48.72,3309
 US30093,United States,Montana,Silver Bow,,County,840,USA,US,MT,US-MT,30093,,,,-112.66,45.9,34915
 US30095,United States,Montana,Stillwater,,County,840,USA,US,MT,US-MT,30095,,,,-109.4,45.67,9642
 US30099,United States,Montana,Teton,,County,840,USA,US,MT,US-MT,30099,,,,-112.24,47.84,6147
@@ -3464,6 +3468,7 @@ US46013,United States,South Dakota,Brown,,County,840,USA,US,SD,US-SD,46013,,,,-9
 US46015,United States,South Dakota,Brule,,County,840,USA,US,SD,US-SD,46015,,,,-99.08,43.72,5297
 US46017,United States,South Dakota,Buffalo,,County,840,USA,US,SD,US-SD,46017,,,,-99.21,44.08,1962
 US46019,United States,South Dakota,Butte,,County,840,USA,US,SD,US-SD,46019,,,,-103.51,44.91,10429
+US46021,United States,South Dakota,Campbell,,County,840,USA,US,SD,US-SD,46021,,,,-100.05,45.77,1376
 US46023,United States,South Dakota,Charles Mix,,County,840,USA,US,SD,US-SD,46023,,,,-98.59,43.21,9292
 US46025,United States,South Dakota,Clark,,County,840,USA,US,SD,US-SD,46025,,,,-97.73,44.86,3736
 US46027,United States,South Dakota,Clay,,County,840,USA,US,SD,US-SD,46027,,,,-96.98,42.91,14070
@@ -3742,6 +3747,7 @@ US48253,United States,Texas,Jones,,County,840,USA,US,TX,US-TX,48253,,,,-99.88,32
 US48255,United States,Texas,Karnes,,County,840,USA,US,TX,US-TX,48255,,,,-97.86,28.91,15601
 US48257,United States,Texas,Kaufman,,County,840,USA,US,TX,US-TX,48257,,,,-96.29,32.6,136154
 US48259,United States,Texas,Kendall,,County,840,USA,US,TX,US-TX,48259,,,,-98.71,29.94,47431
+US48261,United States,Texas,Kenedy,,County,840,USA,US,TX,US-TX,48261,,,,-97.66,26.93,404
 US48265,United States,Texas,Kerr,,County,840,USA,US,TX,US-TX,48265,,,,-99.35,30.06,52600
 US48267,United States,Texas,Kimble,,County,840,USA,US,TX,US-TX,48267,,,,-99.75,30.49,4337
 US48271,United States,Texas,Kinney,,County,840,USA,US,TX,US-TX,48271,,,,-100.42,29.35,3667
