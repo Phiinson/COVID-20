@@ -8,6 +8,7 @@ AM,Armenia,,,,Country,051,ARM,AM,AM,AM,,AM,,,45.04,40.07,2963234
 AO,Angola,,,,Country,024,AGO,AO,AO,AO,,AO,,,17.87,-11.2,32866268
 AR,Argentina,,,,Country,032,ARG,AR,AR,AR,,AR,,,-63.62,-38.42,45195777
 AT,Austria,,,,Country,040,AUT,AT,AT,AT,,AT,,,14.55,47.52,9006400
+AU,Australia,,,,Country,036,AUS,AU,AU,AU,,AU,,,133,-25,25459700
 AUACT,Australia,Australian Capital Territory,,,Province,036,AUS,AU,ACT,AU-ACT,,,,,149.01,-35.47,428100
 AUNSW,Australia,New South Wales,,,Province,036,AUS,AU,NSW,AU-NSW,,,,,151.21,-33.87,8118000
 AUNT,Australia,Northern Territory,,,Province,036,AUS,AU,NT,AU-NT,,,,,130.85,-12.46,245600
@@ -56,6 +57,7 @@ CH,Switzerland,,,,Country,756,CHE,CH,CH,CH,,CH,,,8.23,46.82,8654618
 CI,Côte d'Ivoire,,,,Country,384,CIV,CI,CI,CI,,CI,,,-5.55,7.54,26378275
 CL,Chile,,,,Country,152,CHL,CL,CL,CL,,CL,,,-71.54,-35.68,19116209
 CM,Cameroon,,,,Country,120,CMR,CM,CM,CM,,CM,,,11.5,3.85,26545864
+CN,China,,,,Country,156,CHN,CN,CN,CN,,CN,,,114.31,30.59,1404676330
 CNAH,China,Anhui,,,Province,156,CHN,CN,AH,CN-AH,,,,,117.23,31.83,63240000
 CNBJ,China,Beijing,,,Province,156,CHN,CN,BJ,CN-BJ,,,,,116.41,40.18,21540000
 CNCQ,China,Chongqing,,,Province,156,CHN,CN,CQ,CN-CQ,,,,,107.87,30.06,31020000
