@@ -1101,7 +1101,6 @@ US06041,United States,California,Marin,,County,840,USA,US,CA,US-CA,06041,,,,-122
 US06043,United States,California,Mariposa,,County,840,USA,US,CA,US-CA,06043,,,,-119.91,37.58,17203
 US06045,United States,California,Mendocino,,County,840,USA,US,CA,US-CA,06045,,,,-123.39,39.44,86749
 US06047,United States,California,Merced,,County,840,USA,US,CA,US-CA,06047,,,,-120.72,37.19,277680
-US06049,United States,California,Modoc,,County,840,USA,US,CA,US-CA,06049,,,,-120.72,41.59,8841
 US06051,United States,California,Mono,,County,840,USA,US,CA,US-CA,06051,,,,-118.89,37.94,14444
 US06053,United States,California,Monterey,,County,840,USA,US,CA,US-CA,06053,,,,-121.24,36.22,434061
 US06055,United States,California,Napa,,County,840,USA,US,CA,US-CA,06055,,,,-122.33,38.51,137744
@@ -2449,6 +2448,7 @@ US29077,United States,Missouri,Greene,,County,840,USA,US,MO,US-MO,29077,,,,-93.3
 US29079,United States,Missouri,Grundy,,County,840,USA,US,MO,US-MO,29079,,,,-93.57,40.11,9850
 US29081,United States,Missouri,Harrison,,County,840,USA,US,MO,US-MO,29081,,,,-93.99,40.36,8352
 US29083,United States,Missouri,Henry,,County,840,USA,US,MO,US-MO,29083,,,,-93.79,38.38,21824
+US29085,United States,Missouri,Hickory,,County,840,USA,US,MO,US-MO,29085,,,,-93.32,37.94,9544
 US29087,United States,Missouri,Holt,,County,840,USA,US,MO,US-MO,29087,,,,-95.22,40.1,4403
 US29089,United States,Missouri,Howard,,County,840,USA,US,MO,US-MO,29089,,,,-92.7,39.14,10001
 US29091,United States,Missouri,Howell,,County,840,USA,US,MO,US-MO,29091,,,,-91.89,36.77,40117
@@ -3106,6 +3106,7 @@ US38039,United States,North Dakota,Griggs,,County,840,USA,US,ND,US-ND,38039,,,,-
 US38041,United States,North Dakota,Hettinger,,County,840,USA,US,ND,US-ND,38041,,,,-102.46,46.43,2499
 US38043,United States,North Dakota,Kidder,,County,840,USA,US,ND,US-ND,38043,,,,-99.78,46.98,2480
 US38045,United States,North Dakota,LaMoure,,County,840,USA,US,ND,US-ND,38045,,,,-98.54,46.46,4046
+US38047,United States,North Dakota,Logan,,County,840,USA,US,ND,US-ND,38047,,,,-99.48,46.46,1850
 US38049,United States,North Dakota,McHenry,,County,840,USA,US,ND,US-ND,38049,,,,-100.63,48.23,5745
 US38051,United States,North Dakota,McIntosh,,County,840,USA,US,ND,US-ND,38051,,,,-99.44,46.11,2497
 US38053,United States,North Dakota,McKenzie,,County,840,USA,US,ND,US-ND,38053,,,,-103.4,47.74,15024
@@ -3501,6 +3502,7 @@ US46067,United States,South Dakota,Hutchinson,,County,840,USA,US,SD,US-SD,46067,
 US46069,United States,South Dakota,Hyde,,County,840,USA,US,SD,US-SD,46069,,,,-99.49,44.55,1301
 US46071,United States,South Dakota,Jackson,,County,840,USA,US,SD,US-SD,46071,,,,-101.63,43.69,3344
 US46073,United States,South Dakota,Jerauld,,County,840,USA,US,SD,US-SD,46073,,,,-98.63,44.07,2013
+US46075,United States,South Dakota,Jones,,County,840,USA,US,SD,US-SD,46075,,,,-100.69,43.96,903
 US46077,United States,South Dakota,Kingsbury,,County,840,USA,US,SD,US-SD,46077,,,,-97.49,44.37,4939
 US46079,United States,South Dakota,Lake,,County,840,USA,US,SD,US-SD,46079,,,,-97.13,44.02,12797
 US46081,United States,South Dakota,Lawrence,,County,840,USA,US,SD,US-SD,46081,,,,-103.79,44.36,25844
@@ -3935,6 +3937,7 @@ US51009,United States,Virginia,Amherst,,County,840,USA,US,VA,US-VA,51009,,,,-79.
 US51011,United States,Virginia,Appomattox,,County,840,USA,US,VA,US-VA,51011,,,,-78.81,37.38,15911
 US51013,United States,Virginia,Arlington,,County,840,USA,US,VA,US-VA,51013,,,,-77.1,38.88,236842
 US51015,United States,Virginia,Augusta,,County,840,USA,US,VA,US-VA,51015,,,,-79.12,38.16,75558
+US51017,United States,Virginia,Bath,,County,840,USA,US,VA,US-VA,51017,,,,-79.74,38.06,4147
 US51019,United States,Virginia,Bedford,,County,840,USA,US,VA,US-VA,51019,,,,-79.53,37.31,78997
 US51021,United States,Virginia,Bland,,County,840,USA,US,VA,US-VA,51021,,,,-81.14,37.13,6280
 US51023,United States,Virginia,Botetourt,,County,840,USA,US,VA,US-VA,51023,,,,-79.81,37.56,33419
