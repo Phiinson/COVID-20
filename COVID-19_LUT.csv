@@ -34,7 +34,7 @@ BS,The Bahamas,,,,Country,044,BHS,BS,BS,BS,,BS,,,-78.04,25.03,393248
 BT,Bhutan,,,,Country,064,BTN,BT,BT,BT,,BT,,,90.43,27.51,771612
 BW,Botswana,,,,Country,072,BWA,BW,BW,BW,,BW,,,24.68,-22.33,2351625
 BY,Belarus,,,,Country,112,BLR,BY,BY,BY,,BY,,,27.95,53.71,9449321
-BZ,Belize,,,,Country,084,BLZ,BZ,BZ,BZ-BZ,,BZ,,,-88.5,17.19,397621
+BZ,Belize,,,,Country,084,BLZ,BZ,BZ,BZ,,BZ,,,-88.5,17.19,397621
 CA,Canada,,,,Country,124,CAN,CA,CA,CA,,CA,,,-95,60,37855702
 CA98,Canada,Grand Princess,,,Cruise Ship,124,CAN,CA,98,CA-98,,,,,,,
 CA99,Canada,Diamond Princess,,,Cruise Ship,124,CAN,CA,99,CA-99,,,,,,,
@@ -148,7 +148,7 @@ DE147,Germany,Baden-Württemberg,Tübingen,Bodenseekreis,NUTS3,276,DEU,DE,BW,DE-
 DE148,Germany,Baden-Württemberg,Tübingen,Ravensburg,NUTS3,276,DEU,DE,BW,DE-BW,,DE148,08436,,9.78,47.83,284285
 DE149,Germany,Baden-Württemberg,Tübingen,Sigmaringen,NUTS3,276,DEU,DE,BW,DE-BW,,DE149,08437,,9.24,48.04,130873
 DE2,Germany,Bayern,,,NUTS1,276,DEU,DE,BY,DE-BY,,DE2,,,11.5,48.79,13076721
-DE21,Germany,Bayern,Oberbayern,,NUTS2,276,DEU,DE,BY,DE-BY,,DE21,,,11.55,48.08,4686163
+DE21,Germany,Bayern,Oberbayern,,NUTS2,276,DEU,DE,BY,DE-BY,,DE21,,,11.52,48.07,4942326
 DE211,Germany,Bayern,Oberbayern,"Ingolstadt, Kreisfreie Stadt",NUTS3,276,DEU,DE,BY,DE-BY,,DE211,09161,,11.4,48.76,136981
 DE212,Germany,Bayern,Oberbayern,"München, Kreisfreie Stadt",NUTS3,276,DEU,DE,BY,DE-BY,,DE212,09162,,11.55,48.15,1471508
 DE213,Germany,Bayern,Oberbayern,"Rosenheim, Kreisfreie Stadt",NUTS3,276,DEU,DE,BY,DE-BY,,DE213,09163,,12.11,47.85,63324
@@ -564,7 +564,7 @@ DEG0L,Germany,Thüringen,Thüringen,Greiz,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0L,16076
 DEG0M,Germany,Thüringen,Thüringen,Altenburger Land,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0M,16077,,12.4,50.96,90118
 DEG0N,Germany,Thüringen,Thüringen,"Eisenach, Kreisfreie Stadt",NUTS3,276,DEU,DE,TH,DE-TH,,DEG0N,16056,,10.3,50.99,42370
 DEG0P,Germany,Thüringen,Thüringen,Wartburgkreis,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0P,16063,,10.21,50.89,123025
-DJ,Djibouti,,,,Country,262,DJI,DJ,DJ,DJ-DJ,,DJ,,,42.59,11.83,988002
+DJ,Djibouti,,,,Country,262,DJI,DJ,DJ,DJ,,DJ,,,42.59,11.83,988002
 DK,Denmark,,,,Country,208,DNK,DK,DK,DK,,DK,,,9.5,56.26,5792203
 DKFO,Denmark,Faroe Islands,,,Province,208,DNK,DK,FO,DK-FO,,,,,-6.91,61.89,48865
 DKGL,Denmark,Greenland,,,Province,208,DNK,DK,GL,DK-GL,,,,,-42.6,71.71,56772
@@ -592,11 +592,11 @@ FRPM,France,Saint Pierre and Miquelon,,,Province,250,FRA,FR,PM,FR-PM,,,,,-56.32,
 FRRE,France,Reunion,,,Province,250,FRA,FR,RE,FR-RE,,,,,55.54,-21.12,895308
 FRYT,France,Mayotte,,,Province,250,FRA,FR,YT,FR-YT,,,,,45.17,-12.83,272813
 GA,Gabon,,,,Country,266,GAB,GA,GA,GA,,GA,,,11.61,-0.8,2225728
-GB,United Kingdom,,,,Country,826,GBR,GB,UKM,GB-UKM,,GB,,,-3.44,55.38,67886004
+GB,United Kingdom,,,,Country,826,GBR,GB,GB,GB,,GB,,,-3.44,55.38,67886004
 GBAI,United Kingdom,Anguilla,,,Province,826,GBR,GB,AI,GB-AI,,,,,-63.07,18.22,15002
 GBBM,United Kingdom,Bermuda,,,Province,826,GBR,GB,BM,GB-BM,,,,,-64.75,32.31,62273
 GBCHA,United Kingdom,Channel Islands,,,Province,826,GBR,GB,CHA,GB-CHA,,,,,-2.36,49.37,170499
-GBFK,United Kingdom,Falkland Islands (Malvinas),,,Province,826,GBR,GB,FK,GB-FK,,,,,-59.52,-51.8,3483
+GBFK,United Kingdom,Falkland Islands,,,Province,826,GBR,GB,FK,GB-FK,,,,,-59.52,-51.8,3483
 GBGI,United Kingdom,Gibraltar,,,Province,826,GBR,GB,GI,GB-GI,,,,,-5.35,36.14,33691
 GBIM,United Kingdom,Isle of Man,,,Province,826,GBR,GB,IM,GB-IM,,,,,-4.55,54.24,85032
 GBKY,United Kingdom,Cayman Islands,,,Province,826,GBR,GB,KY,GB-KY,,,,,-81.25,19.31,65720
@@ -610,7 +610,7 @@ GM,The Gambia,,,,Country,270,GMB,GM,GM,GM,,GM,,,-15.31,13.44,2416664
 GN,Guinea,,,,Country,324,GIN,GN,GN,GN,,GN,,,-9.7,9.95,13132792
 GQ,Equatorial Guinea,,,,Country,226,GNQ,GQ,GQ,GQ,,GQ,,,10.27,1.65,1402985
 GR,Greece,,,,Country,300,GRC,GR,GR,GR,,GR,,,21.82,39.07,10423056
-GT,Guatemala,,,,Country,320,GTM,GT,GU,GT-GU,,GT,,,-90.23,15.78,17915567
+GT,Guatemala,,,,Country,320,GTM,GT,GT,GT,,GT,,,-90.23,15.78,17915567
 GW,Guinea-Bissau,,,,Country,624,GNB,GW,GW,GW,,GW,,,-15.18,11.8,1967998
 GY,Guyana,,,,Country,328,GUY,GY,GY,GY,,GY,,,-58.93,4.86,786559
 HN,Honduras,,,,Country,340,HND,HN,HN,HN,,HN,,,-86.24,15.2,9904608
@@ -808,7 +808,7 @@ LK,Sri Lanka,,,,Country,144,LKA,LK,LK,LK,,LK,,,80.77,7.87,21413250
 LR,Liberia,,,,Country,430,LBR,LR,LR,LR,,LR,,,-9.43,6.43,5057677
 LS,Lesotho,,,,Country,426,LSO,LS,LS,LS,,LS,,,28.23,-29.61,2142252
 LT,Lithuania,,,,Country,440,LTU,LT,LT,LT,,LT,,,23.88,55.17,2722291
-LU,Luxembourg,,,,Country,442,LUX,LU,L,LU-L,,LU,,,6.13,49.82,625976
+LU,Luxembourg,,,,Country,442,LUX,LU,LU,LU,,LU,,,6.13,49.82,625976
 LV,Latvia,,,,Country,428,LVA,LV,LV,LV,,LV,,,24.6,56.88,1886202
 LY,Libya,,,,Country,434,LBY,LY,LY,LY,,LY,,,17.23,26.34,6871287
 MA,Morocco,,,,Country,504,MAR,MA,MA,MA,,MA,,,-7.09,31.79,36910558
@@ -863,7 +863,7 @@ SG,Singapore,,,,Country,702,SGP,SG,SG,SG,,SG,,,103.83,1.28,5850343
 SI,Slovenia,,,,Country,705,SVN,SI,SI,SI,,SI,,,15,46.15,2078932
 SK,Slovakia,,,,Country,703,SVK,SK,SK,SK,,SK,,,19.7,48.67,5459643
 SL,Sierra Leone,,,,Country,694,SLE,SL,SL,SL,,SL,,,-11.78,8.46,7976985
-SM,San Marino,,,,Country,674,SMR,SM,07,SM-07,,SM,,,12.46,43.94,33938
+SM,San Marino,,,,Country,674,SMR,SM,SM,SM,,SM,,,12.46,43.94,33938
 SN,Senegal,,,,Country,686,SEN,SN,SN,SN,,SN,,,-14.45,14.5,16743930
 SO,Somalia,,,,Country,706,SOM,SO,SO,SO,,SO,,,46.2,5.15,15893219
 SR,Suriname,,,,Country,740,SUR,SR,SR,SR,,SR,,,-56.03,3.92,586634
