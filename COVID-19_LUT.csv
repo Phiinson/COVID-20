@@ -9,6 +9,7 @@ AO,Angola,,,,Country,024,AGO,AO,AO,AO,,AO,,,17.87,-11.2,32866268
 AR,Argentina,,,,Country,032,ARG,AR,AR,AR,,AR,,,-63.62,-38.42,45195777
 AT,Austria,,,,Country,040,AUT,AT,AT,AT,,AT,,,14.55,47.52,9006400
 AU,Australia,,,,Country,036,AUS,AU,AU,AU,,AU,,,133,-25,25459700
+AU99,Australia,Diamond Princess,,,Cruise Ship,036,AUS,AU,99,AU-99,,,,,,,
 AUACT,Australia,Australian Capital Territory,,,Province,036,AUS,AU,ACT,AU-ACT,,,,,149.01,-35.47,428100
 AUNSW,Australia,New South Wales,,,Province,036,AUS,AU,NSW,AU-NSW,,,,,151.21,-33.87,8118000
 AUNT,Australia,Northern Territory,,,Province,036,AUS,AU,NT,AU-NT,,,,,130.85,-12.46,245600
@@ -30,6 +31,33 @@ BJ,Benin,,,,Country,204,BEN,BJ,BJ,BJ,,BJ,,,2.32,9.31,12123198
 BN,Brunei,,,,Country,096,BRN,BN,BN,BN,,BN,,,114.73,4.54,437483
 BO,Bolivia,,,,Country,068,BOL,BO,BO,BO,,BO,,,-63.59,-16.29,11673029
 BR,Brazil,,,,Country,076,BRA,BR,BR,BR,,BR,,,-51.93,-14.23,212559409
+BRAC,Brazil,Acre,,,Province,076,BRA,BR,AC,BR-AC,,,,,-70.81,-9.02,881935
+BRAL,Brazil,Alagoas,,,Province,076,BRA,BR,AL,BR-AL,,,,,-36.78,-9.57,3337357
+BRAM,Brazil,Amazonas,,,Province,076,BRA,BR,AM,BR-AM,,,,,-65.86,-3.42,4144597
+BRAP,Brazil,Amapa,,,Province,076,BRA,BR,AP,BR-AP,,,,,-52,0.9,845731
+BRBA,Brazil,Bahia,,,Province,076,BRA,BR,BA,BR-BA,,,,,-41.7,-12.58,14873064
+BRCE,Brazil,Ceara,,,Province,076,BRA,BR,CE,BR-CE,,,,,-39.32,-5.5,9132078
+BRDF,Brazil,Distrito Federal,,,Province,076,BRA,BR,DF,BR-DF,,,,,-47.86,-15.8,3015268
+BRES,Brazil,Espirito Santo,,,Province,076,BRA,BR,ES,BR-ES,,,,,-40.31,-19.18,4018650
+BRGO,Brazil,Goias,,,Province,076,BRA,BR,GO,BR-GO,,,,,-49.84,-15.83,7018354
+BRMA,Brazil,Maranhao,,,Province,076,BRA,BR,MA,BR-MA,,,,,-45.27,-4.96,7075181
+BRMG,Brazil,Minas Gerais,,,Province,076,BRA,BR,MG,BR-MG,,,,,-44.56,-18.51,21168791
+BRMS,Brazil,Mato Grosso do Sul,,,Province,076,BRA,BR,MS,BR-MS,,,,,-54.79,-20.77,2778986
+BRMT,Brazil,Mato Grosso,,,Province,076,BRA,BR,MT,BR-MT,,,,,-56.92,-12.68,3484466
+BRPA,Brazil,Para,,,Province,076,BRA,BR,PA,BR-PA,,,,,-54.93,-2,8602865
+BRPB,Brazil,Paraiba,,,Province,076,BRA,BR,PB,BR-PB,,,,,-36.78,-7.24,4018127
+BRPE,Brazil,Pernambuco,,,Province,076,BRA,BR,PE,BR-PE,,,,,-36.95,-8.81,9557071
+BRPI,Brazil,Piaui,,,Province,076,BRA,BR,PI,BR-PI,,,,,-42.73,-7.72,3273227
+BRPR,Brazil,Parana,,,Province,076,BRA,BR,PR,BR-PR,,,,,-52.02,-25.25,11433957
+BRRJ,Brazil,Rio de Janeiro,,,Province,076,BRA,BR,RJ,BR-RJ,,,,,-43.17,-22.91,17264943
+BRRN,Brazil,Rio Grande do Norte,,,Province,076,BRA,BR,RN,BR-RN,,,,,-36.95,-5.4,3506853
+BRRO,Brazil,Rondonia,,,Province,076,BRA,BR,RO,BR-RO,,,,,-63.58,-11.51,1777225
+BRRR,Brazil,Roraima,,,Province,076,BRA,BR,RR,BR-RR,,,,,-62.08,-2.74,605761
+BRRS,Brazil,Rio Grande do Sul,,,Province,076,BRA,BR,RS,BR-RS,,,,,-51.22,-30.03,11377239
+BRSC,Brazil,Santa Catarina,,,Province,076,BRA,BR,SC,BR-SC,,,,,-50.22,-27.24,7164788
+BRSE,Brazil,Sergipe,,,Province,076,BRA,BR,SE,BR-SE,,,,,-37.39,-10.57,2298696
+BRSP,Brazil,Sao Paulo,,,Province,076,BRA,BR,SP,BR-SP,,,,,-46.63,-23.55,45919049
+BRTO,Brazil,Tocantins,,,Province,076,BRA,BR,TO,BR-TO,,,,,-48.3,-10.18,1572866
 BS,The Bahamas,,,,Country,044,BHS,BS,BS,BS,,BS,,,-78.04,25.03,393248
 BT,Bhutan,,,,Country,064,BTN,BT,BT,BT,,BT,,,90.43,27.51,771612
 BW,Botswana,,,,Country,072,BWA,BW,BW,BW,,BW,,,24.68,-22.33,2351625
@@ -56,6 +84,23 @@ CG,Congo (Brazzaville),,,,Country,178,COG,CG,CG,CG,,CG,,,15.83,-0.23,5518092
 CH,Switzerland,,,,Country,756,CHE,CH,CH,CH,,CH,,,8.23,46.82,8654618
 CI,Côte d'Ivoire,,,,Country,384,CIV,CI,CI,CI,,CI,,,-5.55,7.54,26378275
 CL,Chile,,,,Country,152,CHL,CL,CL,CL,,CL,,,-71.54,-35.68,19116209
+CLAI,Chile,Aysen,,,Province,152,CHL,CL,AI,CL-AI,,,,,-73.77,-45.99,103158
+CLAN,Chile,Antofagasta,,,Province,152,CHL,CL,AN,CL-AN,,,,,-70.4,-23.65,607534
+CLAP,Chile,Arica y Parinacota,,,Province,152,CHL,CL,AP,CL-AP,,,,,-69.48,-18.59,226068
+CLAR,Chile,Araucania,,,Province,152,CHL,CL,AR,CL-AR,,,,,-72.33,-38.95,957224
+CLAT,Chile,Atacama,,,Province,152,CHL,CL,AT,CL-AT,,,,,-70.05,-27.57,288944
+CLBI,Chile,Biobio,,,Province,152,CHL,CL,BI,CL-BI,,,,,-72.14,-37.45,1556805
+CLCO,Chile,Coquimbo,,,Province,152,CHL,CL,CO,CL-CO,,,,,-71.34,-29.96,757586
+CLLI,Chile,OHiggins,,,Province,152,CHL,CL,LI,CL-LI,,,,,-71,-34.58,914555
+CLLL,Chile,Los Lagos,,,Province,152,CHL,CL,LL,CL-LL,,,,,-72.14,-41.92,828708
+CLLR,Chile,Los Rios,,,Province,152,CHL,CL,LR,CL-LR,,,,,-72.33,-40.23,384837
+CLMA,Chile,Magallanes,,,Province,152,CHL,CL,MA,CL-MA,,,,,-70.99,-52.37,166533
+CLML,Chile,Maule,,,Province,152,CHL,CL,ML,CL-ML,,,,,-71.69,-35.52,1044950
+CLNB,Chile,Nuble,,,Province,152,CHL,CL,NB,CL-NB,,,,,-71.76,-36.72,480609
+CLRM,Chile,Metropolitana,,,Province,152,CHL,CL,RM,CL-RM,,,,,-70.65,-33.44,7112808
+CLTA,Chile,Tarapaca,,,Province,152,CHL,CL,TA,CL-TA,,,,,-69.51,-19.92,330558
+CLVS,Chile,Valparaiso,,,Province,152,CHL,CL,VS,CL-VS,,,,,-71.61,-33.05,1815902
+CLZZ,Chile,Unassigned,,,Province,152,CHL,CL,ZZ,CL-ZZ,,,,,,,
 CM,Cameroon,,,,Country,120,CMR,CM,CM,CM,,CM,,,11.5,3.85,26545864
 CN,China,,,,Country,156,CHN,CN,CN,CN,,CN,,,114.31,30.59,1404676330
 CNAH,China,Anhui,,,Province,156,CHN,CN,AH,CN-AH,,,,,117.23,31.83,63240000
@@ -92,6 +137,40 @@ CNXZ,China,Tibet,,,Province,156,CHN,CN,XZ,CN-XZ,,,,,88.09,31.69,3440000
 CNYN,China,Yunnan,,,Province,156,CHN,CN,YN,CN-YN,,,,,101.49,24.97,48300000
 CNZJ,China,Zhejiang,,,Province,156,CHN,CN,ZJ,CN-ZJ,,,,,120.09,29.18,57370000
 CO,Colombia,,,,Country,170,COL,CO,CO,CO,,CO,,,-74.3,4.57,50882884
+COAMA,Colombia,Amazonas,,,Province,170,COL,CO,AMA,CO-AMA,,,,,-71.57,-1.44,76589
+COANT,Colombia,Antioquia,,,Province,170,COL,CO,ANT,CO-ANT,,,,,-75.34,7.2,6407102
+COARA,Colombia,Arauca,,,Province,170,COL,CO,ARA,CO-ARA,,,,,-70.71,7.08,262174
+COATL,Colombia,Atlantico,,,Province,170,COL,CO,ATL,CO-ATL,,,,,-74.87,10.7,2535517
+COBOL,Colombia,Bolivar,,,Province,170,COL,CO,BOL,CO-BOL,,,,,-74.03,8.67,2070110
+COBOY,Colombia,Boyaca,,,Province,170,COL,CO,BOY,CO-BOY,,,,,-73.36,5.45,1217376
+COCAL,Colombia,Caldas,,,Province,170,COL,CO,CAL,CO-CAL,,,,,-75.25,5.3,998255
+COCAQ,Colombia,Caqueta,,,Province,170,COL,CO,CAQ,CO-CAQ,,,,,-73.84,0.87,401489
+COCAS,Colombia,Casanare,,,Province,170,COL,CO,CAS,CO-CAS,,,,,-71.57,5.76,420504
+COCAU,Colombia,Cauca,,,Province,170,COL,CO,CAU,CO-CAU,,,,,-76.83,2.7,1464488
+COCES,Colombia,Cesar,,,Province,170,COL,CO,CES,CO-CES,,,,,-73.65,9.34,1200574
+COCHO,Colombia,Choco,,,Province,170,COL,CO,CHO,CO-CHO,,,,,-76.83,5.25,534826
+COCOR,Colombia,Cordoba,,,Province,170,COL,CO,COR,CO-COR,,,,,-75.57,8.05,1784783
+COCUN,Colombia,Cundinamarca,,,Province,170,COL,CO,CUN,CO-CUN,,,,,-74.03,5.03,2919060
+CODC,Colombia,Capital District,,,Province,170,COL,CO,DC,CO-DC,,,,,-74.07,4.71,7412566
+COGUA,Colombia,Guainia,,,Province,170,COL,CO,GUA,CO-GUA,,,,,-68.52,2.59,48114
+COGUV,Colombia,Guaviare,,,Province,170,COL,CO,GUV,CO-GUV,,,,,-73.26,1.07,82767
+COHUI,Colombia,Huila,,,Province,170,COL,CO,HUI,CO-HUI,,,,,-75.53,2.54,1100386
+COLAG,Colombia,La Guajira,,,Province,170,COL,CO,LAG,CO-LAG,,,,,-72.52,11.35,880560
+COMAG,Colombia,Magdalena,,,Province,170,COL,CO,MAG,CO-MAG,,,,,-74.41,10.41,1341746
+COMET,Colombia,Meta,,,Province,170,COL,CO,MET,CO-MET,,,,,-73.09,3.27,1039722
+CONAR,Colombia,Narino,,,Province,170,COL,CO,NAR,CO-NAR,,,,,-77.36,1.29,1630592
+CONSA,Colombia,Norte de Santander,,,Province,170,COL,CO,NSA,CO-NSA,,,,,-72.9,7.95,1491689
+COPUT,Colombia,Putumayo,,,Province,170,COL,CO,PUT,CO-PUT,,,,,-75.53,0.44,348182
+COQUI,Colombia,Quindio,,,Province,170,COL,CO,QUI,CO-QUI,,,,,-75.67,4.46,539904
+CORIS,Colombia,Risaralda,,,Province,170,COL,CO,RIS,CO-RIS,,,,,-75.99,5.32,943401
+COSAN,Colombia,Santander,,,Province,170,COL,CO,SAN,CO-SAN,,,,,-73.65,6.64,2184837
+COSAP,Colombia,San Andres y Providencia,,,Province,170,COL,CO,SAP,CO-SAP,,,,,-81.72,12.56,61280
+COSUC,Colombia,Sucre,,,Province,170,COL,CO,SUC,CO-SUC,,,,,-74.72,8.81,904863
+COTOL,Colombia,Tolima,,,Province,170,COL,CO,TOL,CO-TOL,,,,,-75.15,4.09,1330187
+COVAC,Colombia,Valle del Cauca,,,Province,170,COL,CO,VAC,CO-VAC,,,,,-76.64,3.8,4475886
+COVAU,Colombia,Vaupes,,,Province,170,COL,CO,VAU,CO-VAU,,,,,-70.81,0.86,40797
+COVID,Colombia,Vichada,,,Province,170,COL,CO,VID,CO-VID,,,,,-69.29,4.42,107808
+COZZ,Colombia,Unassigned,,,Province,170,COL,CO,ZZ,CO-ZZ,,,,,,,
 CR,Costa Rica,,,,Country,188,CRI,CR,CR,CR,,CR,,,-83.75,9.75,5094114
 CU,Cuba,,,,Country,192,CUB,CU,CU,CU,,CU,,,-77.78,21.52,11326616
 CV,Cape Verde,,,,Country,132,CPV,CV,CV,CV,,CV,,,-23.04,16.54,555988
@@ -566,6 +645,7 @@ DEG0N,Germany,Thüringen,Thüringen,"Eisenach, Kreisfreie Stadt",NUTS3,276,DEU,D
 DEG0P,Germany,Thüringen,Thüringen,Wartburgkreis,NUTS3,276,DEU,DE,TH,DE-TH,,DEG0P,16063,,10.21,50.89,123025
 DJ,Djibouti,,,,Country,262,DJI,DJ,DJ,DJ,,DJ,,,42.59,11.83,988002
 DK,Denmark,,,,Country,208,DNK,DK,DK,DK,,DK,,,9.5,56.26,5792203
+DKDK,Denmark,Denmark,,,Province,208,DNK,DK,DK,DK,,,,,9.5,56.26,
 DKFO,Denmark,Faroe Islands,,,Province,208,DNK,DK,FO,DK-FO,,,,,-6.91,61.89,48865
 DKGL,Denmark,Greenland,,,Province,208,DNK,DK,GL,DK-GL,,,,,-42.6,71.71,56772
 DM,Dominica,,,,Country,212,DMA,DM,DM,DM,,DM,,,-61.37,15.41,71991
@@ -577,11 +657,31 @@ EG,Egypt,,,,Country,818,EGY,EG,EG,EG,,EG,,,30.8,26.82,102334403
 EH,Western Sahara,,,,Country,732,ESH,EH,EH,EH,,EH,,,-12.89,24.22,597330
 ER,Eritrea,,,,Country,232,ERI,ER,ER,ER,,ER,,,39.78,15.18,3546427
 ES,Spain,,,,Country,724,ESP,ES,ES,ES,,ES,,,-3.75,40.46,46754783
+ESAN,Spain,Andalusia,,,Province,724,ESP,ES,AN,ES-AN,,,,,-4.73,37.54,8427405
+ESAR,Spain,Aragon,,,Province,724,ESP,ES,AR,ES-AR,,,,,-0.91,41.6,1320586
+ESCE,Spain,Ceuta,,,Province,724,ESP,ES,CE,ES-CE,,,,,-5.32,35.89,84829
+ESCL,Spain,Castile and León,,,Province,724,ESP,ES,CL,ES-CL,,,,,-4.4,41.84,2407733
+ESCM,Spain,Castile-La Mancha,,,Province,724,ESP,ES,CM,ES-CM,,,,,-3.1,39.28,2034877
+ESCN,Spain,Canary Islands,,,Province,724,ESP,ES,CN,ES-CN,,,,,-16.63,28.29,2206901
+ESCT,Spain,Catalonia,,,Province,724,ESP,ES,CT,ES-CT,,,,,1.52,41.59,7566431
+ESEX,Spain,Extremadura,,,Province,724,ESP,ES,EX,ES-EX,,,,,-6.07,39.49,1065424
+ESGA,Spain,Galicia,,,Province,724,ESP,ES,GA,ES-GA,,,,,-8.13,42.58,2700441
+ESIB,Spain,Balearic Islands,,,Province,724,ESP,ES,IB,ES-IB,,,,,3,39.71,1188220
+ESLO,Spain,La Rioja,,,Province,724,ESP,ES,LO,ES-LO,,,,,-2.54,42.29,313571
+ESM,Spain,Madrid,,,Province,724,ESP,ES,M,ES-M,,,,,-3.7,40.42,6641649
+ESML,Spain,Melilla,,,Province,724,ESP,ES,ML,ES-ML,,,,,-2.94,35.29,84689
+ESMU,Spain,Murcia,,,Province,724,ESP,ES,MU,ES-MU,,,,,-1.13,37.99,1487663
+ESNC,Spain,Chartered Community of Navarre,,,Province,724,ESP,ES,NC,ES-NC,,,,,-1.68,42.7,649946
+ESO,Spain,Asturias,,,Province,724,ESP,ES,O,ES-O,,,,,-5.86,43.36,1022205
+ESPV,Spain,Basque Country,,,Province,724,ESP,ES,PV,ES-PV,,,,,-2.62,42.99,2177880
+ESS,Spain,Cantabria,,,Province,724,ESP,ES,S,ES-S,,,,,-3.99,43.18,581641
+ESVC,Spain,Valencian Community,,,Province,724,ESP,ES,VC,ES-VC,,,,,-0.75,39.48,4974969
 ET,Ethiopia,,,,Country,231,ETH,ET,ET,ET,,ET,,,40.49,9.14,114963583
 FI,Finland,,,,Country,246,FIN,FI,FI,FI,,FI,,,25.75,61.92,5540718
 FJ,Fiji,,,,Country,242,FJI,FJ,FJ,FJ,,FJ,,,178.06,-17.71,896444
 FR,France,,,,Country,250,FRA,FR,FR,FR,,FR,,,2.21,46.23,65273512
 FRBL,France,Saint Barthelemy,,,Province,250,FRA,FR,BL,FR-BL,,,,,-62.83,17.9,9885
+FRFR,France,France,,,Province,250,FRA,FR,FR,FR,,,,,2.21,46.23,
 FRGF,France,French Guiana,,,Province,250,FRA,FR,GF,FR-GF,,,,,-53,4,298682
 FRGP,France,Guadeloupe,,,Province,250,FRA,FR,GP,FR-GP,,,,,-61.55,16.26,400127
 FRMF,France,Saint Martin,,,Province,250,FRA,FR,MF,FR-MF,,,,,-63.05,18.07,38659
@@ -596,13 +696,19 @@ GB,United Kingdom,,,,Country,826,GBR,GB,GB,GB,,GB,,,-3.44,55.38,67886004
 GBAI,United Kingdom,Anguilla,,,Province,826,GBR,GB,AI,GB-AI,,,,,-63.07,18.22,15002
 GBBM,United Kingdom,Bermuda,,,Province,826,GBR,GB,BM,GB-BM,,,,,-64.75,32.31,62273
 GBCHA,United Kingdom,Channel Islands,,,Province,826,GBR,GB,CHA,GB-CHA,,,,,-2.36,49.37,170499
+GBENG,United Kingdom,England,,,Province,826,GBR,GB,ENG,GB-ENG,,,,,-1.17,52.36,55977200
 GBFK,United Kingdom,Falkland Islands,,,Province,826,GBR,GB,FK,GB-FK,,,,,-59.52,-51.8,3483
 GBGI,United Kingdom,Gibraltar,,,Province,826,GBR,GB,GI,GB-GI,,,,,-5.35,36.14,33691
 GBIM,United Kingdom,Isle of Man,,,Province,826,GBR,GB,IM,GB-IM,,,,,-4.55,54.24,85032
 GBKY,United Kingdom,Cayman Islands,,,Province,826,GBR,GB,KY,GB-KY,,,,,-81.25,19.31,65720
 GBMS,United Kingdom,Montserrat,,,Province,826,GBR,GB,MS,GB-MS,,,,,-62.19,16.74,4999
+GBNIR,United Kingdom,Northern Ireland,,,Province,826,GBR,GB,NIR,GB-NIR,,,,,-6.49,54.79,1881600
+GBSCT,United Kingdom,Scotland,,,Province,826,GBR,GB,SCT,GB-SCT,,,,,-4.2,56.49,5463300
 GBTC,United Kingdom,Turks and Caicos Islands,,,Province,826,GBR,GB,TC,GB-TC,,,,,-71.8,21.69,38718
+GBUKM,United Kingdom,United Kingdom,,,Province,826,GBR,GB,UKM,GB-UKM,,,,,-3.44,55.38,
 GBVG,United Kingdom,Virgin Islands,,,Territory,826,GBR,GB,VG,GB-VG,,,,,-64.64,18.42,30237
+GBWLS,United Kingdom,Wales,,,Province,826,GBR,GB,WLS,GB-WLS,,,,,-3.78,52.13,3138600
+GBZZ,United Kingdom,Unassigned,,,Province,826,GBR,GB,ZZ,GB-ZZ,,,,,,,
 GD,Grenada,,,,Country,308,GRD,GD,GD,GD,,GD,,,-61.68,12.12,112519
 GE,Georgia,,,,Country,268,GEO,GE,GE,GE,,GE,,,43.36,42.32,3989175
 GH,Ghana,,,,Country,288,GHA,GH,GH,GH,,GH,,,-1.02,7.95,31072945
@@ -620,7 +726,44 @@ HU,Hungary,,,,Country,348,HUN,HU,HU,HU,,HU,,,19.5,47.16,9660350
 ID,Indonesia,,,,Country,360,IDN,ID,ID,ID,,ID,,,113.92,-0.79,273523621
 IE,Ireland,,,,Country,372,IRL,IE,IE,IE,,IE,,,-7.69,53.14,4937796
 IL,Israel,,,,Country,376,ISR,IL,IL,IL,,IL,,,34.85,31.05,8655541
+IL99,Israel,Diamond Princess,,,Cruise Ship,376,ISR,IL,99,IL-99,,,,,,,
 IN,India,,,,Country,356,IND,IN,IN,IN,,IN,,,78.96,20.59,1380004385
+INAN,India,Andaman and Nicobar Islands,,,Province,356,IND,IN,AN,IN-AN,,,,,92.97,11.23,417036
+INAP,India,Andhra Pradesh,,,Province,356,IND,IN,AP,IN-AP,,,,,79.74,15.91,53903393
+INAR,India,Arunachal Pradesh,,,Province,356,IND,IN,AR,IN-AR,,,,,96.38,27.77,1570458
+INAS,India,Assam,,,Province,356,IND,IN,AS,IN-AS,,,,,92.83,26.36,35607039
+INBR,India,Bihar,,,Province,356,IND,IN,BR,IN-BR,,,,,85.6,25.68,124799926
+INCH,India,Chandigarh,,,Province,356,IND,IN,CH,IN-CH,,,,,76.77,30.73,1158473
+INCT,India,Chhattisgarh,,,Province,356,IND,IN,CT,IN-CT,,,,,82.04,21.26,29436231
+INDL,India,Delhi,,,Province,356,IND,IN,DL,IN-DL,,,,,77.11,28.65,18710922
+INDN,India,Dadra and Nagar Haveli,,,Province,356,IND,IN,DN,IN-DN,,,,,73.08,20.19,615724
+INGA,India,Goa,,,Province,356,IND,IN,GA,IN-GA,,,,,74.06,15.36,1586250
+INGJ,India,Gujarat,,,Province,356,IND,IN,GJ,IN-GJ,,,,,71.59,22.69,63872399
+INHP,India,Himachal Pradesh,,,Province,356,IND,IN,HP,IN-HP,,,,,77.23,31.93,7451955
+INHR,India,Haryana,,,Province,356,IND,IN,HR,IN-HR,,,,,76.33,29.2,28204692
+INJH,India,Jharkhand,,,Province,356,IND,IN,JH,IN-JH,,,,,85.56,23.65,38593948
+INJK,India,Jammu and Kashmir,,,Province,356,IND,IN,JK,IN-JK,,,,,76.61,33.76,13606320
+INKA,India,Karnataka,,,Province,356,IND,IN,KA,IN-KA,,,,,76.17,14.71,67562686
+INKL,India,Kerala,,,Province,356,IND,IN,KL,IN-KL,,,,,76.41,10.45,35699443
+INLA,India,Ladakh,,,Province,356,IND,IN,LA,IN-LA,,,,,77.58,34.15,274289
+INMH,India,Maharashtra,,,Province,356,IND,IN,MH,IN-MH,,,,,76.11,19.45,123144223
+INML,India,Meghalaya,,,Province,356,IND,IN,ML,IN-ML,,,,,91.28,25.54,3366710
+INMN,India,Manipur,,,Province,356,IND,IN,MN,IN-MN,,,,,93.88,24.74,3091545
+INMP,India,Madhya Pradesh,,,Province,356,IND,IN,MP,IN-MP,,,,,78.29,23.54,85358965
+INMZ,India,Mizoram,,,Province,356,IND,IN,MZ,IN-MZ,,,,,92.84,23.31,1239244
+INNL,India,Nagaland,,,Province,356,IND,IN,NL,IN-NL,,,,,94.47,26.07,2249695
+INOR,India,Odisha,,,Province,356,IND,IN,OR,IN-OR,,,,,84.42,20.51,46356334
+INPB,India,Punjab,,,Province,356,IND,IN,PB,IN-PB,,,,,75.41,30.84,30141373
+INPY,India,Puducherry,,,Province,356,IND,IN,PY,IN-PY,,,,,78.86,11.88,1413542
+INRJ,India,Rajasthan,,,Province,356,IND,IN,RJ,IN-RJ,,,,,73.85,26.58,81032689
+INSK,India,Sikkim,,,Province,356,IND,IN,SK,IN-SK,,,,,88.47,27.57,690251
+INTG,India,Telangana,,,Province,356,IND,IN,TG,IN-TG,,,,,79.02,18.11,39362732
+INTN,India,Tamil Nadu,,,Province,356,IND,IN,TN,IN-TN,,,,,78.4,11.01,77841267
+INTR,India,Tripura,,,Province,356,IND,IN,TR,IN-TR,,,,,91.74,23.75,4169794
+INUP,India,Uttar Pradesh,,,Province,356,IND,IN,UP,IN-UP,,,,,80.56,26.93,237882725
+INUT,India,Uttarakhand,,,Province,356,IND,IN,UT,IN-UT,,,,,79.2,30.16,11250858
+INWB,India,West Bengal,,,Province,356,IND,IN,WB,IN-WB,,,,,87.98,23.81,99609303
+INZZ,India,Unassigned,,,Province,356,IND,IN,ZZ,IN-ZZ,,,,,,,
 IQ,Iraq,,,,Country,368,IRQ,IQ,IQ,IQ,,IQ,,,43.68,33.22,40222503
 IR,Iran,,,,Country,364,IRN,IR,IR,IR,,IR,,,53.69,32.43,83992953
 IS,Iceland,,,,Country,352,ISL,IS,IS,IS,,IS,,,-19.02,64.96,341250
@@ -792,6 +935,54 @@ ITI4Z,Italy,Central Italy,Lazio,Out of Region/Province,NUTS3,380,ITA,IT,62,IT-62
 JM,Jamaica,,,,Country,388,JAM,JM,JM,JM,,JM,,,-77.3,18.11,2961161
 JO,Jordan,,,,Country,400,JOR,JO,JO,JO,,JO,,,36.51,31.24,10203140
 JP,Japan,,,,Country,392,JPN,JP,JP,JP,,JP,,,138.25,36.2,126476458
+JP01,Japan,Hokkaido,,,Province,392,JPN,JP,01,JP-01,,,,,142.55,43.39,5250049
+JP02,Japan,Aomori,,,Province,392,JPN,JP,02,JP-02,,,,,140.83,40.78,1246371
+JP04,Japan,Miyagi,,,Province,392,JPN,JP,04,JP-04,,,,,140.93,38.45,2306365
+JP05,Japan,Akita,,,Province,392,JPN,JP,05,JP-05,,,,,140.41,39.75,966490
+JP06,Japan,Yamagata,,,Province,392,JPN,JP,06,JP-06,,,,,140.1,38.45,1077666
+JP07,Japan,Fukushima,,,Province,392,JPN,JP,07,JP-07,,,,,140.22,37.38,1845519
+JP08,Japan,Ibaraki,,,Province,392,JPN,JP,08,JP-08,,,,,140.32,36.3,2860307
+JP09,Japan,Tochigi,,,Province,392,JPN,JP,09,JP-09,,,,,139.82,36.69,1933990
+JP10,Japan,Gunma,,,Province,392,JPN,JP,10,JP-10,,,,,138.99,36.5,1942456
+JP11,Japan,Saitama,,,Province,392,JPN,JP,11,JP-11,,,,,139.35,36,7349693
+JP12,Japan,Chiba,,,Province,392,JPN,JP,12,JP-12,,,,,140.2,35.51,6259382
+JP13,Japan,Tokyo,,,Province,392,JPN,JP,13,JP-13,,,,,139.45,35.71,13920663
+JP14,Japan,Kanagawa,,,Province,392,JPN,JP,14,JP-14,,,,,139.34,35.42,9198268
+JP15,Japan,Niigata,,,Province,392,JPN,JP,15,JP-15,,,,,138.92,37.52,2223106
+JP16,Japan,Toyama,,,Province,392,JPN,JP,16,JP-16,,,,,137.27,36.64,1043502
+JP17,Japan,Ishikawa,,,Province,392,JPN,JP,17,JP-17,,,,,136.77,36.77,1137649
+JP18,Japan,Fukui,,,Province,392,JPN,JP,18,JP-18,,,,,136.22,35.85,767937
+JP19,Japan,Yamanashi,,,Province,392,JPN,JP,19,JP-19,,,,,138.61,35.61,810956
+JP20,Japan,Nagano,,,Province,392,JPN,JP,20,JP-20,,,,,138.05,36.13,2048790
+JP21,Japan,Gifu,,,Province,392,JPN,JP,21,JP-21,,,,,137.06,35.78,1986587
+JP22,Japan,Shizuoka,,,Province,392,JPN,JP,22,JP-22,,,,,138.41,34.92,3643528
+JP23,Japan,Aichi,,,Province,392,JPN,JP,23,JP-23,,,,,137.21,35.04,7552239
+JP24,Japan,Mie,,,Province,392,JPN,JP,24,JP-24,,,,,136.38,34.51,1780882
+JP25,Japan,Shiga,,,Province,392,JPN,JP,25,JP-25,,,,,136.14,35.22,1413943
+JP26,Japan,Kyoto,,,Province,392,JPN,JP,26,JP-26,,,,,135.44,35.25,2582957
+JP27,Japan,Osaka,,,Province,392,JPN,JP,27,JP-27,,,,,135.51,34.62,8809363
+JP28,Japan,Hyogo,,,Province,392,JPN,JP,28,JP-28,,,,,134.83,35.04,5466190
+JP29,Japan,Nara,,,Province,392,JPN,JP,29,JP-29,,,,,135.87,34.32,1330123
+JP30,Japan,Wakayama,,,Province,392,JPN,JP,30,JP-30,,,,,135.51,33.91,924933
+JP31,Japan,Tottori,,,Province,392,JPN,JP,31,JP-31,,,,,133.86,35.36,555558
+JP32,Japan,Shimane,,,Province,392,JPN,JP,32,JP-32,,,,,132.55,35.07,674346
+JP33,Japan,Okayama,,,Province,392,JPN,JP,33,JP-33,,,,,133.83,34.89,1889586
+JP34,Japan,Hiroshima,,,Province,392,JPN,JP,34,JP-34,,,,,132.79,34.61,2804177
+JP35,Japan,Yamaguchi,,,Province,392,JPN,JP,35,JP-35,,,,,131.57,34.2,1358336
+JP36,Japan,Tokushima,,,Province,392,JPN,JP,36,JP-36,,,,,134.24,33.92,727977
+JP37,Japan,Kagawa,,,Province,392,JPN,JP,37,JP-37,,,,,133.97,34.22,956347
+JP38,Japan,Ehime,,,Province,392,JPN,JP,38,JP-38,,,,,132.86,33.62,1339215
+JP39,Japan,Kochi,,,Province,392,JPN,JP,39,JP-39,,,,,133.37,33.42,698029
+JP40,Japan,Fukuoka,,,Province,392,JPN,JP,40,JP-40,,,,,130.67,33.53,5103679
+JP41,Japan,Saga,,,Province,392,JPN,JP,41,JP-41,,,,,130.12,33.29,814711
+JP42,Japan,Nagasaki,,,Province,392,JPN,JP,42,JP-42,,,,,129.61,33.24,1326524
+JP43,Japan,Kumamoto,,,Province,392,JPN,JP,43,JP-43,,,,,130.75,32.61,1747567
+JP44,Japan,Oita,,,Province,392,JPN,JP,44,JP-44,,,,,131.43,33.2,1135434
+JP45,Japan,Miyazaki,,,Province,392,JPN,JP,45,JP-45,,,,,131.3,32.19,1073301
+JP46,Japan,Kagoshima,,,Province,392,JPN,JP,46,JP-46,,,,,130.43,31.01,1602273
+JP47,Japan,Okinawa,,,Province,392,JPN,JP,47,JP-47,,,,,126.67,25.77,1453168
+JPYY,Japan,Port Quarantine,,,Province,392,JPN,JP,YY,JP-YY,,,,,,,
+JPZZ,Japan,Unassigned,,,Province,392,JPN,JP,ZZ,JP-ZZ,,,,,,,
 KE,Kenya,,,,Country,404,KEN,KE,KE,KE,,KE,,,37.91,-0.02,53771300
 KG,Kyrgyzstan,,,,Country,417,KGZ,KG,KG,KG,,KG,,,74.77,41.2,6524191
 KH,Cambodia,,,,Country,116,KHM,KH,KH,KH,,KH,,,104.92,11.55,16718971
@@ -826,6 +1017,38 @@ MU,Mauritius,,,,Country,480,MUS,MU,MU,MU,,MU,,,57.55,-20.35,1271767
 MV,Maldives,,,,Country,462,MDV,MV,MV,MV,,MV,,,73.22,3.2,540542
 MW,Malawi,,,,Country,454,MWI,MW,MW,MW,,MW,,,34.3,-13.25,19129955
 MX,Mexico,,,,Country,484,MEX,MX,MX,MX,,MX,,,-102.55,23.63,127792286
+MXAGU,Mexico,Aguascalientes,,,Province,484,MEX,MX,AGU,MX-AGU,,,,,-102.29,21.89,1434635
+MXBCN,Mexico,Baja California,,,Province,484,MEX,MX,BCN,MX-BCN,,,,,-115.28,30.84,3634868
+MXBCS,Mexico,Baja California Sur,,,Province,484,MEX,MX,BCS,MX-BCS,,,,,-111.67,26.04,804708
+MXCAM,Mexico,Campeche,,,Province,484,MEX,MX,CAM,MX-CAM,,,,,-90.53,19.83,1000617
+MXCHH,Mexico,Chihuahua,,,Province,484,MEX,MX,CHH,MX-CHH,,,,,-106.07,28.63,3801487
+MXCHP,Mexico,Chiapas,,,Province,484,MEX,MX,CHP,MX-CHP,,,,,-93.13,16.76,5730367
+MXCMX,Mexico,Ciudad de Mexico,,,Province,484,MEX,MX,CMX,MX-CMX,,,,,-99.13,19.43,9018645
+MXCOA,Mexico,Coahuila,,,Province,484,MEX,MX,COA,MX-COA,,,,,-101.71,27.06,3218720
+MXCOL,Mexico,Colima,,,Province,484,MEX,MX,COL,MX-COL,,,,,-104.01,19.12,785153
+MXDUR,Mexico,Durango,,,Province,484,MEX,MX,DUR,MX-DUR,,,,,-104.66,24.56,1868996
+MXGRO,Mexico,Guerrero,,,Province,484,MEX,MX,GRO,MX-GRO,,,,,-99.55,17.44,3657048
+MXGUA,Mexico,Guanajuato,,,Province,484,MEX,MX,GUA,MX-GUA,,,,,-101.26,21.02,6228175
+MXHID,Mexico,Hidalgo,,,Province,484,MEX,MX,HID,MX-HID,,,,,-98.76,20.09,3086414
+MXJAL,Mexico,Jalisco,,,Province,484,MEX,MX,JAL,MX-JAL,,,,,-103.35,20.66,8409693
+MXMEX,Mexico,Mexico,,,Province,484,MEX,MX,MEX,MX-MEX,,,,,-99.72,19.5,17427790
+MXMIC,Mexico,Michoacan,,,Province,484,MEX,MX,MIC,MX-MIC,,,,,-101.71,19.57,4825401
+MXMOR,Mexico,Morelos,,,Province,484,MEX,MX,MOR,MX-MOR,,,,,-99.1,18.68,2044058
+MXNAY,Mexico,Nayarit,,,Province,484,MEX,MX,NAY,MX-NAY,,,,,-104.85,21.75,1288571
+MXNLE,Mexico,Nuevo Leon,,,Province,484,MEX,MX,NLE,MX-NLE,,,,,-100,25.59,5610153
+MXOAX,Mexico,Oaxaca,,,Province,484,MEX,MX,OAX,MX-OAX,,,,,-96.73,17.07,4143593
+MXPUE,Mexico,Puebla,,,Province,484,MEX,MX,PUE,MX-PUE,,,,,-98.21,19.04,6604451
+MXQUE,Mexico,Queretaro,,,Province,484,MEX,MX,QUE,MX-QUE,,,,,-100.39,20.59,2279637
+MXROO,Mexico,Quintana Roo,,,Province,484,MEX,MX,ROO,MX-ROO,,,,,-88.48,19.18,1723259
+MXSIN,Mexico,Sinaloa,,,Province,484,MEX,MX,SIN,MX-SIN,,,,,-107.48,25.17,3156674
+MXSLP,Mexico,San Luis Potosi,,,Province,484,MEX,MX,SLP,MX-SLP,,,,,-100.99,22.16,2866142
+MXSON,Mexico,Sonora,,,Province,484,MEX,MX,SON,MX-SON,,,,,-110.33,29.3,3074745
+MXTAB,Mexico,Tabasco,,,Province,484,MEX,MX,TAB,MX-TAB,,,,,-92.62,17.84,2572287
+MXTAM,Mexico,Tamaulipas,,,Province,484,MEX,MX,TAM,MX-TAM,,,,,-98.84,24.27,3650602
+MXTLA,Mexico,Tlaxcala,,,Province,484,MEX,MX,TLA,MX-TLA,,,,,-98.24,19.31,1380011
+MXVER,Mexico,Veracruz,,,Province,484,MEX,MX,VER,MX-VER,,,,,-96.13,19.17,8539862
+MXYUC,Mexico,Yucatan,,,Province,484,MEX,MX,YUC,MX-YUC,,,,,-89.09,20.71,2259098
+MXZAC,Mexico,Zacatecas,,,Province,484,MEX,MX,ZAC,MX-ZAC,,,,,-102.58,22.77,1666426
 MY,Malaysia,,,,Country,458,MYS,MY,MY,MY,,MY,,,101.98,4.21,32365998
 MZ,Mozambique,,,,Country,508,MOZ,MZ,MZ,MZ,,MZ,,,35.53,-18.67,31255435
 NA,Namibia,,,,Country,516,NAM,NA,NA,NA,,NA,,,18.49,-22.96,2540916
@@ -836,6 +1059,7 @@ NL,Netherlands,,,,Country,528,NLD,NL,NL,NL,,NL,,,5.29,52.13,17134873
 NLAW,Netherlands,Aruba,,,Province,528,NLD,NL,AW,NL-AW,,,,,-69.97,12.52,106766
 NLBQ,Netherlands,"Bonaire, Sint Eustatius and Saba",,,Province,528,NLD,NL,BQ,NL-BQ,,,,,-68.24,12.18,26221
 NLCW,Netherlands,Curaçao,,,Province,528,NLD,NL,CW,NL-CW,,,,,-68.99,12.17,164100
+NLNL,Netherlands,Netherlands,,,Province,528,NLD,NL,NL,NL,,,,,5.29,52.13,
 NLSX,Netherlands,Sint Maarten,,,Province,528,NLD,NL,SX,NL-SX,,,,,-63.05,18.04,42882
 NO,Norway,,,,Country,578,NOR,NO,NO,NO,,NO,,,8.47,60.47,5421242
 NP,Nepal,,,,Country,524,NPL,NP,NP,NP,,NP,,,84.25,28.17,29136808
@@ -843,9 +1067,41 @@ NZ,New Zealand,,,,Country,554,NZL,NZ,NZ,NZ,,NZ,,,174.89,-40.9,4822233
 OM,Oman,,,,Country,512,OMN,OM,OM,OM,,OM,,,55.92,21.51,5106622
 PA,Panama,,,,Country,591,PAN,PA,PA,PA,,PA,,,-80.78,8.54,4314768
 PE,Peru,,,,Country,604,PER,PE,PE,PE,,PE,,,-75.02,-9.19,32971846
+PEAMA,Peru,Amazonas,,,Province,604,PER,PE,AMA,PE-AMA,,,,,-78.05,-5.08,426800
+PEANC,Peru,Ancash,,,Province,604,PER,PE,ANC,PE-ANC,,,,,-77.67,-9.41,1180600
+PEAPU,Peru,Apurimac,,,Province,604,PER,PE,APU,PE-APU,,,,,-72.98,-14.03,430700
+PEARE,Peru,Arequipa,,,Province,604,PER,PE,ARE,PE-ARE,,,,,-72.48,-15.84,1497400
+PEAYA,Peru,Ayacucho,,,Province,604,PER,PE,AYA,PE-AYA,,,,,-74.08,-14.09,668200
+PECAJ,Peru,Cajamarca,,,Province,604,PER,PE,CAJ,PE-CAJ,,,,,-78.75,-6.43,1453700
+PECAL,Peru,Callao,,,Province,604,PER,PE,CAL,PE-CAL,,,,,-77.14,-11.95,1129900
+PECUS,Peru,Cusco,,,Province,604,PER,PE,CUS,PE-CUS,,,,,-72.15,-13.19,1357100
+PEHUC,Peru,Huanuco,,,Province,604,PER,PE,HUC,PE-HUC,,,,,-76.04,-9.42,760300
+PEHUV,Peru,Huancavelica,,,Province,604,PER,PE,HUV,PE-HUV,,,,,-75,-13.02,365300
+PEICA,Peru,Ica,,,Province,604,PER,PE,ICA,PE-ICA,,,,,-75.57,-14.24,975200
+PEJUN,Peru,Junin,,,Province,604,PER,PE,JUN,PE-JUN,,,,,-74.88,-11.54,1361500
+PELAL,Peru,La Libertad,,,Province,604,PER,PE,LAL,PE-LAL,,,,,-78.37,-7.92,2016800
+PELAM,Peru,Lambayeque,,,Province,604,PER,PE,LAM,PE-LAM,,,,,-79.82,-6.35,1310800
+PELIM,Peru,Lima,,,Province,604,PER,PE,LIM,PE-LIM,,,,,-76.6,-11.77,10628500
+PELOR,Peru,Loreto,,,Province,604,PER,PE,LOR,PE-LOR,,,,,-74.42,-4.12,1027600
+PEMDD,Peru,Madre de Dios,,,Province,604,PER,PE,MDD,PE-MDD,,,,,-70.53,-11.97,173800
+PEMOQ,Peru,Moquegua,,,Province,604,PER,PE,MOQ,PE-MOQ,,,,,-70.84,-16.86,192700
+PEPAS,Peru,Pasco,,,Province,604,PER,PE,PAS,PE-PAS,,,,,-75.31,-10.4,271900
+PEPIU,Peru,Piura,,,Province,604,PER,PE,PIU,PE-PIU,,,,,-80.34,-5.13,2048000
+PEPUN,Peru,Puno,,,Province,604,PER,PE,PUN,PE-PUN,,,,,-69.92,-15,1238000
+PESAM,Peru,San Martin,,,Province,604,PER,PE,SAM,PE-SAM,,,,,-76.73,-7.04,899600
+PETAC,Peru,Tacna,,,Province,604,PER,PE,TAC,PE-TAC,,,,,-70.28,-17.64,371000
+PETUM,Peru,Tumbes,,,Province,604,PER,PE,TUM,PE-TUM,,,,,-80.55,-3.86,251500
+PEUCA,Peru,Ucayali,,,Province,604,PER,PE,UCA,PE-UCA,,,,,-73.44,-9.62,589100
 PG,Papua New Guinea,,,,Country,598,PNG,PG,PG,PG,,PG,,,143.96,-6.31,8947027
 PH,Philippines,,,,Country,608,PHL,PH,PH,PH,,PH,,,121.77,12.88,109581085
 PK,Pakistan,,,,Country,586,PAK,PK,PK,PK,,PK,,,69.35,30.38,220892331
+PKBA,Pakistan,Balochistan,,,Province,586,PAK,PK,BA,PK-BA,,,,,65.9,28.33,12344408
+PKGB,Pakistan,Gilgit-Baltistan,,,Province,586,PAK,PK,GB,PK-GB,,,,,74.98,35.79,1013584
+PKIS,Pakistan,Islamabad,,,Province,586,PAK,PK,IS,PK-IS,,,,,73.12,33.67,2006572
+PKJK,Pakistan,Azad Kashmir,,,Province,586,PAK,PK,JK,PK-JK,,,,,73.95,34.03,4045366
+PKKP,Pakistan,Khyber Pakhtunkhwa,,,Province,586,PAK,PK,KP,PK-KP,,,,,72.09,34.49,30523371
+PKPB,Pakistan,Punjab,,,Province,586,PAK,PK,PB,PK-PB,,,,,72.14,30.81,110012442
+PKSD,Pakistan,Sindh,,,Province,586,PAK,PK,SD,PK-SD,,,,,68.78,26.01,47886051
 PL,Poland,,,,Country,616,POL,PL,PL,PL,,PL,,,19.15,51.92,37846605
 PS,Palestine,,,,Country,275,PSE,PS,PS,PS,,PS,,,35.23,31.95,5101416
 PT,Portugal,,,,Country,620,PRT,PT,PT,PT,,PT,,,-8.22,39.4,10196707
@@ -854,11 +1110,115 @@ QA,Qatar,,,,Country,634,QAT,QA,QA,QA,,QA,,,51.18,25.35,2881060
 RO,Romania,,,,Country,642,ROU,RO,RO,RO,,RO,,,24.97,45.94,19237682
 RS,Serbia,,,,Country,688,SRB,RS,RS,RS,,RS,,,21.01,44.02,8737370
 RU,Russia,,,,Country,643,RUS,RU,RU,RU,,RU,,,105.32,61.52,145934460
+RUAD,Russia,Adygea Republic,,,Province,643,RUS,RU,AD,RU-AD,,,,,40.15,44.69,453376
+RUAL,Russia,Altai Republic,,,Province,643,RUS,RU,AL,RU-AL,,,,,86.86,50.71,218063
+RUALT,Russia,Altai Krai,,,Province,643,RUS,RU,ALT,RU-ALT,,,,,82.69,52.69,2350080
+RUAMU,Russia,Amur Oblast,,,Province,643,RUS,RU,AMU,RU-AMU,,,,,128.44,52.8,798424
+RUARK,Russia,Arkhangelsk Oblast,,,Province,643,RUS,RU,ARK,RU-ARK,,,,,43.12,63.56,1155028
+RUAST,Russia,Astrakhan Oblast,,,Province,643,RUS,RU,AST,RU-AST,,,,,47.61,47.19,1017514
+RUBA,Russia,Bashkortostan Republic,,,Province,643,RUS,RU,BA,RU-BA,,,,,57.14,54.86,4063293
+RUBEL,Russia,Belgorod Oblast,,,Province,643,RUS,RU,BEL,RU-BEL,,,,,37.58,50.71,1549876
+RUBRY,Russia,Bryansk Oblast,,,Province,643,RUS,RU,BRY,RU-BRY,,,,,33.42,52.89,1210982
+RUBU,Russia,Buryatia Republic,,,Province,643,RUS,RU,BU,RU-BU,,,,,109.49,52.72,984511
+RUCE,Russia,Chechen Republic,,,Province,643,RUS,RU,CE,RU-CE,,,,,45.7,43.4,1436981
+RUCHE,Russia,Chelyabinsk Oblast,,,Province,643,RUS,RU,CHE,RU-CHE,,,,,61.19,54.42,3493036
+RUCHU,Russia,Chukotka Autonomous Okrug,,,Province,643,RUS,RU,CHU,RU-CHU,,,,,169.49,66,49348
+RUCU,Russia,Chuvashia Republic,,,Province,643,RUS,RU,CU,RU-CU,,,,,47.08,55.43,1231117
+RUDA,Russia,Dagestan Republic,,,Province,643,RUS,RU,DA,RU-DA,,,,,47.13,43.06,3063885
+RUIN,Russia,Karelia Republic,,,Province,643,RUS,RU,IN,RU-IN,,,,,33.49,62.62,622484
+RUIRK,Russia,Irkutsk Oblast,,,Province,643,RUS,RU,IRK,RU-IRK,,,,,104.72,56.64,2404195
+RUIVA,Russia,Ivanovo Oblast,,,Province,643,RUS,RU,IVA,RU-IVA,,,,,41.44,56.92,1014646
+RUKAM,Russia,Kamchatka Krai,,,Province,643,RUS,RU,KAM,RU-KAM,,,,,160.04,57.19,315557
+RUKB,Russia,Kabardino-Balkarian Republic,,,Province,643,RUS,RU,KB,RU-KB,,,,,43.6,43.48,865828
+RUKC,Russia,Karachay-Cherkess Republic,,,Province,643,RUS,RU,KC,RU-KC,,,,,41.73,43.74,466305
+RUKDA,Russia,Krasnoyarsk Krai,,,Province,643,RUS,RU,KDA,RU-KDA,,,,,97.1,63.32,2876497
+RUKEM,Russia,Kemerovo Oblast,,,Province,643,RUS,RU,KEM,RU-KEM,,,,,87.34,54.53,2694877
+RUKGD,Russia,Kaliningrad Oblast,,,Province,643,RUS,RU,KGD,RU-KGD,,,,,21.15,54.73,994599
+RUKGN,Russia,Kurgan Oblast,,,Province,643,RUS,RU,KGN,RU-KGN,,,,,64.56,55.77,845537
+RUKHA,Russia,Khabarovsk Krai,,,Province,643,RUS,RU,KHA,RU-KHA,,,,,136.12,51.63,1328302
+RUKHM,Russia,Khanty-Mansi Autonomous Okrug,,,Province,643,RUS,RU,KHM,RU-KHM,,,,,69.1,61.03,1532243
+RUKIR,Russia,Kirov Oblast,,,Province,643,RUS,RU,KIR,RU-KIR,,,,,49.41,57.97,1283238
+RUKK,Russia,Khakassia Republic,,,Province,643,RUS,RU,KK,RU-KK,,,,,91.44,53.72,537513
+RUKL,Russia,Kalmykia Republic,,,Province,643,RUS,RU,KL,RU-KL,,,,,45.33,46.23,275413
+RUKLU,Russia,Kaluga Oblast,,,Province,643,RUS,RU,KLU,RU-KLU,,,,,35.53,54.44,1012056
+RUKO,Russia,Komi Republic,,,Province,643,RUS,RU,KO,RU-KO,,,,,54.33,63.99,840873
+RUKOS,Russia,Kostroma Oblast,,,Province,643,RUS,RU,KOS,RU-KOS,,,,,44.25,58.42,643324
+RUKR,Russia,Ingushetia Republic,,,Province,643,RUS,RU,KR,RU-KR,,,,,45.02,43.12,488043
+RUKRS,Russia,Kursk Oblast,,,Province,643,RUS,RU,KRS,RU-KRS,,,,,36.49,51.66,1115237
+RUKYA,Russia,Krasnodar Krai,,,Province,643,RUS,RU,KYA,RU-KYA,,,,,39.03,45.77,5603420
+RULEN,Russia,Leningrad Oblast,,,Province,643,RUS,RU,LEN,RU-LEN,,,,,32.39,60.19,1813816
+RULIP,Russia,Lipetsk Oblast,,,Province,643,RUS,RU,LIP,RU-LIP,,,,,39.11,52.69,1150201
+RUMAG,Russia,Magadan Oblast,,,Province,643,RUS,RU,MAG,RU-MAG,,,,,153.99,62.49,144091
+RUME,Russia,Mari El Republic,,,Province,643,RUS,RU,ME,RU-ME,,,,,47.88,56.58,682333
+RUMO,Russia,Mordovia Republic,,,Province,643,RUS,RU,MO,RU-MO,,,,,44.47,54.44,805056
+RUMOS,Russia,Moscow Oblast,,,Province,643,RUS,RU,MOS,RU-MOS,,,,,38.04,55.5,7503385
+RUMOW,Russia,Moscow,,,Province,643,RUS,RU,MOW,RU-MOW,,,,,37.62,55.75,12506468
+RUMUR,Russia,Murmansk Oblast,,,Province,643,RUS,RU,MUR,RU-MUR,,,,,34,68,753557
+RUNEN,Russia,Nenets Autonomous Okrug,,,Province,643,RUS,RU,NEN,RU-NEN,,,,,57.17,68.28,43997
+RUNGR,Russia,Novgorod Oblast,,,Province,643,RUS,RU,NGR,RU-NGR,,,,,32.52,58.28,606476
+RUNIZ,Russia,Nizhny Novgorod Oblast,,,Province,643,RUS,RU,NIZ,RU-NIZ,,,,,44.09,55.47,3234752
+RUNVS,Russia,Novosibirsk Oblast,,,Province,643,RUS,RU,NVS,RU-NVS,,,,,79.48,54.97,2788849
+RUOMS,Russia,Omsk Oblast,,,Province,643,RUS,RU,OMS,RU-OMS,,,,,73.51,56.09,1960081
+RUORE,Russia,Orenburg Oblast,,,Province,643,RUS,RU,ORE,RU-ORE,,,,,54.73,52.03,1977720
+RUORL,Russia,Orel Oblast,,,Province,643,RUS,RU,ORL,RU-ORL,,,,,36.07,52.97,747247
+RUPER,Russia,Perm Krai,,,Province,643,RUS,RU,PER,RU-PER,,,,,56.32,58.6,2623122
+RUPNZ,Russia,Penza Oblast,,,Province,643,RUS,RU,PNZ,RU-PNZ,,,,,44.79,53.17,1331655
+RUPRI,Russia,Primorsky Krai,,,Province,643,RUS,RU,PRI,RU-PRI,,,,,134.73,45.08,1913037
+RUPSK,Russia,Pskov Oblast,,,Province,643,RUS,RU,PSK,RU-PSK,,,,,28.86,57.54,636546
+RUROS,Russia,Rostov Oblast,,,Province,643,RUS,RU,ROS,RU-ROS,,,,,40.8,47.62,4220452
+RURYA,Russia,Ryazan Oblast,,,Province,643,RUS,RU,RYA,RU-RYA,,,,,40.57,54.42,1121474
+RUSA,Russia,Sakha (Yakutiya) Republic,,,Province,643,RUS,RU,SA,RU-SA,,,,,129.64,66.94,964330
+RUSAK,Russia,Sakhalin Oblast,,,Province,643,RUS,RU,SAK,RU-SAK,,,,,143.45,49.72,490181
+RUSAM,Russia,Samara Oblast,,,Province,643,RUS,RU,SAM,RU-SAM,,,,,50.89,53.21,3193514
+RUSAR,Russia,Saratov Oblast,,,Province,643,RUS,RU,SAR,RU-SAR,,,,,46.86,51.65,2462950
+RUSE,Russia,North Ossetia - Alania Republic,,,Province,643,RUS,RU,SE,RU-SE,,,,,44.63,42.79,701765
+RUSMO,Russia,Smolensk Oblast,,,Province,643,RUS,RU,SMO,RU-SMO,,,,,33.02,55.03,949348
+RUSPE,Russia,Saint Petersburg,,,Province,643,RUS,RU,SPE,RU-SPE,,,,,30.16,59.96,5351935
+RUSTA,Russia,Stavropol Krai,,,Province,643,RUS,RU,STA,RU-STA,,,,,43.44,44.86,2800674
+RUSVE,Russia,Sverdlovsk Oblast,,,Province,643,RUS,RU,SVE,RU-SVE,,,,,61.8,58.64,4325256
+RUTA,Russia,Tatarstan Republic,,,Province,643,RUS,RU,TA,RU-TA,,,,,52.43,55.76,3894284
+RUTAM,Russia,Tambov Oblast,,,Province,643,RUS,RU,TAM,RU-TAM,,,,,41.36,52.9,1033552
+RUTOM,Russia,Tomsk Oblast,,,Province,643,RUS,RU,TOM,RU-TOM,,,,,82.05,58.61,1078280
+RUTUL,Russia,Tula Oblast,,,Province,643,RUS,RU,TUL,RU-TUL,,,,,37.37,53.96,1491855
+RUTVE,Russia,Tver Oblast,,,Province,643,RUS,RU,TVE,RU-TVE,,,,,35.17,57.11,1283873
+RUTY,Russia,Tyva Republic,,,Province,643,RUS,RU,TY,RU-TY,,,,,93.86,51.4,321722
+RUTYU,Russia,Tyumen Oblast,,,Province,643,RUS,RU,TYU,RU-TYU,,,,,70.37,58.82,3692400
+RUUD,Russia,Udmurt Republic,,,Province,643,RUS,RU,UD,RU-UD,,,,,52.7,57.2,1513044
+RUULY,Russia,Ulyanovsk Oblast,,,Province,643,RUS,RU,ULY,RU-ULY,,,,,47.23,54.15,1246618
+RUVGG,Russia,Volgograd Oblast,,,Province,643,RUS,RU,VGG,RU-VGG,,,,,44.29,49.6,2521276
+RUVLA,Russia,Vladimir Oblast,,,Province,643,RUS,RU,VLA,RU-VLA,,,,,40.66,56.05,1378337
+RUVLG,Russia,Vologda Oblast,,,Province,643,RUS,RU,VLG,RU-VLG,,,,,43.12,60.04,1176689
+RUVOR,Russia,Voronezh Oblast,,,Province,643,RUS,RU,VOR,RU-VOR,,,,,40.15,50.98,2333768
+RUYAN,Russia,Yamalo-Nenets Autonomous Okrug,,,Province,643,RUS,RU,YAN,RU-YAN,,,,,74.34,67.15,538547
+RUYAR,Russia,Yaroslavl Oblast,,,Province,643,RUS,RU,YAR,RU-YAR,,,,,39,57.78,1265684
+RUYEV,Russia,Jewish Autonomous Okrug,,,Province,643,RUS,RU,YEV,RU-YEV,,,,,132.66,48.58,162014
+RUZAB,Russia,Zabaykalsky Krai,,,Province,643,RUS,RU,ZAB,RU-ZAB,,,,,115.96,52.25,1072806
 RW,Rwanda,,,,Country,646,RWA,RW,RW,RW,,RW,,,29.87,-1.94,12952209
 SA,Saudi Arabia,,,,Country,682,SAU,SA,SA,SA,,SA,,,45.08,23.89,34813867
 SC,Seychelles,,,,Country,690,SYC,SC,SC,SC,,SC,,,55.49,-4.68,98340
 SD,Sudan,,,,Country,729,SDN,SD,SD,SD,,SD,,,30.22,12.86,43849269
 SE,Sweden,,,,Country,752,SWE,SE,SE,SE,,SE,,,18.64,60.13,10099270
+SEAB,Sweden,Stockholm,,,Province,752,SWE,SE,AB,SE-AB,,,,,18.14,59.6,2377081
+SEAC,Sweden,Vasterbotten,,,Province,752,SWE,SE,AC,SE-AC,,,,,16.52,65.33,271736
+SEBD,Sweden,Norrbotten,,,Province,752,SWE,SE,BD,SE-BD,,,,,20.4,66.83,250093
+SEC,Sweden,Uppsala,,,Province,752,SWE,SE,C,SE-C,,,,,17.27,60.01,383713
+SED,Sweden,Sormland,,,Province,752,SWE,SE,D,SE-D,,,,,16.75,59.03,297540
+SEE,Sweden,Ostergotland,,,Province,752,SWE,SE,E,SE-E,,,,,15.52,58.35,465495
+SEF,Sweden,Jonkoping,,,Province,752,SWE,SE,F,SE-F,,,,,14.34,57.37,363599
+SEG,Sweden,Kronoberg,,,Province,752,SWE,SE,G,SE-G,,,,,14.41,56.72,201469
+SEH,Sweden,Kalmar,,,Province,752,SWE,SE,H,SE-H,,,,,16.18,57.24,245446
+SEI,Sweden,Gotland,,,Province,752,SWE,SE,I,SE-I,,,,,18.49,57.47,59686
+SEK,Sweden,Blekinge,,,Province,752,SWE,SE,K,SE-K,,,,,15.02,56.28,159606
+SEM,Sweden,Skane,,,Province,752,SWE,SE,M,SE-M,,,,,13.6,55.99,1377827
+SEN,Sweden,Halland,,,Province,752,SWE,SE,N,SE-N,,,,,12.8,56.9,333848
+SEO,Sweden,Vastra Gotaland,,,Province,752,SWE,SE,O,SE-O,,,,,13.06,58.25,1725881
+SES,Sweden,Varmland,,,Province,752,SWE,SE,S,SE-S,,,,,13.24,59.73,282414
+SET,Sweden,Orebro,,,Province,752,SWE,SE,T,SE-T,,,,,15.01,59.53,304805
+SEU,Sweden,Vastmanland,,,Province,752,SWE,SE,U,SE-U,,,,,16.22,59.67,275845
+SEW,Sweden,Dalarna,,,Province,752,SWE,SE,W,SE-W,,,,,14.67,61.09,287966
+SEX,Sweden,Gavleborg,,,Province,752,SWE,SE,X,SE-X,,,,,16.15,61.3,287382
+SEY,Sweden,Vasternorrland,,,Province,752,SWE,SE,Y,SE-Y,,,,,17.73,63.43,245347
+SEZ,Sweden,Jamtland,,,Province,752,SWE,SE,Z,SE-Z,,,,,14.96,63.17,130810
 SG,Singapore,,,,Country,702,SGP,SG,SG,SG,,SG,,,103.83,1.28,5850343
 SI,Slovenia,,,,Country,705,SVN,SI,SI,SI,,SI,,,15,46.15,2078932
 SK,Slovakia,,,,Country,703,SVK,SK,SK,SK,,SK,,,19.7,48.67,5459643
@@ -883,6 +1243,33 @@ TT,Trinidad and Tobago,,,,Country,780,TTO,TT,TT,TT,,TT,,,-61.22,10.69,1399491
 TW,Taiwan,,,,Country,158,TWN,TW,TW,TW,,TW,,,121,23.7,23816775
 TZ,Tanzania,,,,Country,834,TZA,TZ,TZ,TZ,,TZ,,,34.89,-6.37,59734213
 UA,Ukraine,,,,Country,804,UKR,UA,UA,UA,,UA,,,31.17,48.38,43733759
+UA05,Ukraine,Vinnytsia Oblast,,,Province,804,UKR,UA,05,UA-05,,,,,28.47,49.23,1560394
+UA07,Ukraine,Volyn Oblast,,,Province,804,UKR,UA,07,UA-07,,,,,25.33,50.75,1035330
+UA09,Ukraine,Luhansk Oblast,,,Province,804,UKR,UA,09,UA-09,,,,,39.31,48.57,2151833
+UA12,Ukraine,Dnipropetrovsk Oblast,,,Province,804,UKR,UA,12,UA-12,,,,,35.05,48.46,3206477
+UA14,Ukraine,Donetsk Oblast,,,Province,804,UKR,UA,14,UA-14,,,,,37.8,48.02,4165901
+UA18,Ukraine,Zhytomyr Oblast,,,Province,804,UKR,UA,18,UA-18,,,,,28.66,50.25,1220193
+UA21,Ukraine,Zakarpattia Oblast,,,Province,804,UKR,UA,21,UA-21,,,,,22.29,48.62,1256802
+UA23,Ukraine,Zaporizhia Oblast,,,Province,804,UKR,UA,23,UA-23,,,,,35.14,47.84,1705836
+UA26,Ukraine,Ivano-Frankivsk Oblast,,,Province,804,UKR,UA,26,UA-26,,,,,24.71,48.92,1373252
+UA30,Ukraine,Kiev,,,Province,804,UKR,UA,30,UA-30,,,,,30.52,50.45,2950800
+UA32,Ukraine,Kiev Oblast,,,Province,804,UKR,UA,32,UA-32,,,,,30.77,50.05,1767940
+UA35,Ukraine,Kirovohrad Oblast,,,Province,804,UKR,UA,35,UA-35,,,,,32.26,48.51,945549
+UA40,Ukraine,Sevastopol,,,Province,804,UKR,UA,40,UA-40,,,,,33.52,44.61,443211
+UA43,Ukraine,Crimea Republic,,,Province,804,UKR,UA,43,UA-43,,,,,34.2,45.28,1913731
+UA46,Ukraine,Lviv Oblast,,,Province,804,UKR,UA,46,UA-46,,,,,24.03,49.84,2522021
+UA48,Ukraine,Mykolaiv Oblast,,,Province,804,UKR,UA,48,UA-48,,,,,31.99,46.98,2522021
+UA51,Ukraine,Odessa Oblast,,,Province,804,UKR,UA,51,UA-51,,,,,30.73,46.48,2380308
+UA53,Ukraine,Poltava Oblast,,,Province,804,UKR,UA,53,UA-53,,,,,34.55,49.59,1400439
+UA56,Ukraine,Rivne Oblast,,,Province,804,UKR,UA,56,UA-56,,,,,26.25,50.62,1157301
+UA59,Ukraine,Sumy Oblast,,,Province,804,UKR,UA,59,UA-59,,,,,34.8,50.91,1081418
+UA61,Ukraine,Ternopil Oblast,,,Province,804,UKR,UA,61,UA-61,,,,,25.59,49.55,1045879
+UA63,Ukraine,Kharkiv Oblast,,,Province,804,UKR,UA,63,UA-63,,,,,36.23,49.99,2675598
+UA65,Ukraine,Kherson Oblast,,,Province,804,UKR,UA,65,UA-65,,,,,32.62,46.64,1037640
+UA68,Ukraine,Khmelnytskyi Oblast,,,Province,804,UKR,UA,68,UA-68,,,,,26.99,49.42,1264705
+UA71,Ukraine,Cherkasy Oblast,,,Province,804,UKR,UA,71,UA-71,,,,,32.06,49.44,1206351
+UA74,Ukraine,Chernihiv Oblast,,,Province,804,UKR,UA,74,UA-74,,,,,31.29,51.5,1005745
+UA77,Ukraine,Chernivtsi Oblast,,,Province,804,UKR,UA,77,UA-77,,,,,25.94,48.29,904374
 UG,Uganda,,,,Country,800,UGA,UG,UG,UG,,UG,,,32.29,1.37,45741000
 US,United States,,,,Country,840,USA,US,US,US,,US,,,-100,40,329466283
 US01,United States,Alabama,,,State,840,USA,US,AL,US-AL,01,,,,-86.9,32.32,4903185

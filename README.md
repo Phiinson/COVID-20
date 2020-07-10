@@ -20,6 +20,8 @@ This is an all-in-one unified COVID-19 dataset to fulfil the following objective
 
 <img src="https://pages.jh.edu/~hbadr1/files/COVID-19_ID.svg#6" title="Geospatial ID for the Unified COVID-19 Dataset" alt="COVID-19 ID" style="display: block; margin: auto;" />
 
+Note that COVID-19 data for some European countries from Johns Hopkins University (JHU) Center for Systems Science and Engineering (CSSE) are reported in the global daily reports at province level, which will be replaced by higher-resolution data at NUTS 0-3 levels.
+
 ## Lookup Table
 
 |     Column         |    Type    |              Description            |
