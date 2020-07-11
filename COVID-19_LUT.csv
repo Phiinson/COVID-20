@@ -227,7 +227,7 @@ DE147,Germany,Baden-Württemberg,Tübingen,Bodenseekreis,NUTS3,276,DEU,DE,BW,DE-
 DE148,Germany,Baden-Württemberg,Tübingen,Ravensburg,NUTS3,276,DEU,DE,BW,DE-BW,,DE148,08436,,9.78,47.83,284285
 DE149,Germany,Baden-Württemberg,Tübingen,Sigmaringen,NUTS3,276,DEU,DE,BW,DE-BW,,DE149,08437,,9.24,48.04,130873
 DE2,Germany,Bayern,,,NUTS1,276,DEU,DE,BY,DE-BY,,DE2,,,11.5,48.79,13076721
-DE21,Germany,Bayern,Oberbayern,,NUTS2,276,DEU,DE,BY,DE-BY,,DE21,,,11.52,48.07,4942326
+DE21,Germany,Bayern,Oberbayern,,NUTS2,276,DEU,DE,BY,DE-BY,,DE21,,,11.55,48.08,4686163
 DE211,Germany,Bayern,Oberbayern,"Ingolstadt, Kreisfreie Stadt",NUTS3,276,DEU,DE,BY,DE-BY,,DE211,09161,,11.4,48.76,136981
 DE212,Germany,Bayern,Oberbayern,"München, Kreisfreie Stadt",NUTS3,276,DEU,DE,BY,DE-BY,,DE212,09162,,11.55,48.15,1471508
 DE213,Germany,Bayern,Oberbayern,"Rosenheim, Kreisfreie Stadt",NUTS3,276,DEU,DE,BY,DE-BY,,DE213,09163,,12.11,47.85,63324
@@ -3110,6 +3110,7 @@ US35027,United States,New Mexico,Lincoln,,County,840,USA,US,NM,US-NM,35027,,,,-1
 US35028,United States,New Mexico,Los Alamos,,County,840,USA,US,NM,US-NM,35028,,,,-106.31,35.87,19369
 US35029,United States,New Mexico,Luna,,County,840,USA,US,NM,US-NM,35029,,,,-107.75,32.18,23709
 US35031,United States,New Mexico,McKinley,,County,840,USA,US,NM,US-NM,35031,,,,-108.26,35.58,71367
+US35033,United States,New Mexico,Mora,,County,840,USA,US,NM,US-NM,35033,,,,-104.95,36.01,4521
 US35035,United States,New Mexico,Otero,,County,840,USA,US,NM,US-NM,35035,,,,-105.74,32.61,67490
 US35037,United States,New Mexico,Quay,,County,840,USA,US,NM,US-NM,35037,,,,-103.55,35.1,8253
 US35039,United States,New Mexico,Rio Arriba,,County,840,USA,US,NM,US-NM,35039,,,,-106.69,36.51,38921
@@ -3679,6 +3680,7 @@ US40121,United States,Oklahoma,Pittsburg,,County,840,USA,US,OK,US-OK,40121,,,,-9
 US40123,United States,Oklahoma,Pontotoc,,County,840,USA,US,OK,US-OK,40123,,,,-96.68,34.73,38284
 US40125,United States,Oklahoma,Pottawatomie,,County,840,USA,US,OK,US-OK,40125,,,,-96.95,35.21,72592
 US40127,United States,Oklahoma,Pushmataha,,County,840,USA,US,OK,US-OK,40127,,,,-95.38,34.42,11096
+US40129,United States,Oklahoma,Roger Mills,,County,840,USA,US,OK,US-OK,40129,,,,-99.7,35.69,3583
 US40131,United States,Oklahoma,Rogers,,County,840,USA,US,OK,US-OK,40131,,,,-95.6,36.37,92459
 US40133,United States,Oklahoma,Seminole,,County,840,USA,US,OK,US-OK,40133,,,,-96.62,35.16,24258
 US40135,United States,Oklahoma,Sequoyah,,County,840,USA,US,OK,US-OK,40135,,,,-94.75,35.49,41569
@@ -4092,6 +4094,7 @@ US48147,United States,Texas,Fannin,,County,840,USA,US,TX,US-TX,48147,,,,-96.11,3
 US48149,United States,Texas,Fayette,,County,840,USA,US,TX,US-TX,48149,,,,-96.92,29.88,25346
 US48151,United States,Texas,Fisher,,County,840,USA,US,TX,US-TX,48151,,,,-100.4,32.74,3830
 US48153,United States,Texas,Floyd,,County,840,USA,US,TX,US-TX,48153,,,,-101.3,34.07,5712
+US48155,United States,Texas,Foard,,County,840,USA,US,TX,US-TX,48155,,,,-99.78,33.97,1155
 US48157,United States,Texas,Fort Bend,,County,840,USA,US,TX,US-TX,48157,,,,-95.77,29.53,811688
 US48159,United States,Texas,Franklin,,County,840,USA,US,TX,US-TX,48159,,,,-95.22,33.18,10725
 US48161,United States,Texas,Freestone,,County,840,USA,US,TX,US-TX,48161,,,,-96.15,31.7,19717
