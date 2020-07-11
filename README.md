@@ -26,21 +26,21 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 
 |     Column         |    Type    |              Description            |
 |:------------------:|:----------:|:------------------------------------|
-| **ID**             | Charachter | Geospatial ID, unique identifier (described above) |
-| **Admin0**         | Charachter | Standard name of administrative level 0 (countries) |
-| **Admin1**         | Charachter | Standard name of administrative level 1 (e.g., provinces, states, groups of regions) |
-| **Admin2**         | Charachter | Standard name of administrative level 2 (e.g., counties and regions) |
-| **Admin3**         | Charachter | Standard name of administrative level 3 (e.g., districts and ZTCA) |
-| **Level**          | Charachter | Geospatial level (e.g., Country, Province, State, County, District, and NUTS 0-3) |
-| **ISO1_3N**        | Charachter | ISO 3166-1 numeric code, 3-digit, administrative level 0 (countries) |
-| **ISO1_3C**        | Charachter | ISO 3166-1 alpha-3 code, 3-letter, administrative level 0 (countries) |
-| **ISO1_2C**        | Charachter | ISO 3166-1 alpha-2 code, 2-letter, administrative level 0 (countries) |
-| **ISO2**           | Charachter | ISO 3166-2 code, principal subdivisions (e.g., provinces and states) |
-| **ISO2_UID**       | Charachter | ISO 3166-2 code, principal subdivisions (e.g., provinces and states), full/unique ID |
-| **FIPS**           | Charachter | Federal Information Processing Standard (FIPS, United States) |
-| **NUTS**           | Charachter | Nomenclature of Territorial Units for Statistics (NUTS, Europe) |
-| **AGS**            | Charachter | Official municipality key / Amtlicher Gemeindeschlüssel (AGS, German regions only) |
-| **ZTCA**           | Charachter | ZIP Code Tabulation Area (ZCTA, United States) |
+| **ID**             | Character | Geospatial ID, unique identifier (described above) |
+| **Admin0**         | Character | Standard name of administrative level 0 (countries) |
+| **Admin1**         | Character | Standard name of administrative level 1 (e.g., provinces, states, groups of regions) |
+| **Admin2**         | Character | Standard name of administrative level 2 (e.g., counties and regions) |
+| **Admin3**         | Character | Standard name of administrative level 3 (e.g., districts and ZTCA) |
+| **Level**          | Character | Geospatial level (e.g., Country, Province, State, County, District, and NUTS 0-3) |
+| **ISO1_3N**        | Character | ISO 3166-1 numeric code, 3-digit, administrative level 0 (countries) |
+| **ISO1_3C**        | Character | ISO 3166-1 alpha-3 code, 3-letter, administrative level 0 (countries) |
+| **ISO1_2C**        | Character | ISO 3166-1 alpha-2 code, 2-letter, administrative level 0 (countries) |
+| **ISO2**           | Character | ISO 3166-2 code, principal subdivisions (e.g., provinces and states) |
+| **ISO2_UID**       | Character | ISO 3166-2 code, principal subdivisions (e.g., provinces and states), full/unique ID |
+| **FIPS**           | Character | Federal Information Processing Standard (FIPS, United States) |
+| **NUTS**           | Character | Nomenclature of Territorial Units for Statistics (NUTS, Europe) |
+| **AGS**            | Character | Official municipality key / Amtlicher Gemeindeschlüssel (AGS, German regions only) |
+| **ZTCA**           | Character | ZIP Code Tabulation Area (ZCTA, United States) |
 | **Longitude**      | Double     | Geospatial coordinate (centroid), east–west |
 | **Latitude**       | Double     | Geospatial coordinate (centroid), north–south |
 | **Population**     | Integer    | Total population of each geospatial unit |
@@ -49,14 +49,14 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 
 |     Column         |    Type    |              Description            |
 |:------------------:|:----------:|:------------------------------------|
-| **ID**             | Charachter | Geospatial ID, unique identifier (described above) |
+| **ID**             | Character | Geospatial ID, unique identifier (described above) |
 | **Date**           | Date       | Date of data record |
 | **Cases**          | Integer    | Number of cumulative cases |
 | **Cases_New**      | Integer    | Number of new daily cases |
-| **Type**           | Charachter | Type of the reported cases |
-| **Age**            | Charachter | Age group of the reported cases |
-| **Sex**            | Charachter | Sex/gender of the reported cases |
-| **Source**         | Charachter | Source of the data: CTP, JHU, NYC, NYT, DPC, RKI |
+| **Type**           | Character | Type of the reported cases |
+| **Age**            | Character | Age group of the reported cases |
+| **Sex**            | Character | Sex/gender of the reported cases |
+| **Source**         | Character | Source of the data: CTP, JHU, NYC, NYT, DPC, RKI |
 
 ## Case Types
 
