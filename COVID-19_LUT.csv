@@ -4659,6 +4659,85 @@ US60,United States,American Samoa,,,State,840,USA,US,AS,US-AS,60,,,,-170.13,-14.
 US66,United States,Guam,,,Territory,840,USA,US,GU,US-GU,66,,,,144.79,13.44,164229
 US69,United States,Northern Mariana Islands,,,Territory,840,USA,US,MP,US-MP,69,,,,145.67,15.1,55144
 US72,United States,Puerto Rico,,,Territory,840,USA,US,PR,US-PR,72,,,,-66.59,18.22,2933408
+US72001,United States,Puerto Rico,Adjuntas,,County,840,USA,US,PR,US-PR,72001,,,,-66.59,18.22,18181
+US72003,United States,Puerto Rico,Aguada,,County,840,USA,US,PR,US-PR,72003,,,,-66.59,18.22,38643
+US72005,United States,Puerto Rico,Aguadilla,,County,840,USA,US,PR,US-PR,72005,,,,-66.59,18.22,54166
+US72007,United States,Puerto Rico,Aguas Buenas,,County,840,USA,US,PR,US-PR,72007,,,,-66.59,18.22,26275
+US72009,United States,Puerto Rico,Aibonito,,County,840,USA,US,PR,US-PR,72009,,,,-66.59,18.22,23457
+US72011,United States,Puerto Rico,Anasco,,County,840,USA,US,PR,US-PR,72011,,,,-66.59,18.22,27368
+US72013,United States,Puerto Rico,Arecibo,,County,840,USA,US,PR,US-PR,72013,,,,-66.59,18.22,87242
+US72015,United States,Puerto Rico,Arroyo,,County,840,USA,US,PR,US-PR,72015,,,,-66.59,18.22,18111
+US72017,United States,Puerto Rico,Barceloneta,,County,840,USA,US,PR,US-PR,72017,,,,-66.59,18.22,24299
+US72019,United States,Puerto Rico,Barranquitas,,County,840,USA,US,PR,US-PR,72019,,,,-66.59,18.22,28755
+US72021,United States,Puerto Rico,Bayamon,,County,840,USA,US,PR,US-PR,72021,,,,-66.59,18.22,182955
+US72023,United States,Puerto Rico,Cabo Rojo,,County,840,USA,US,PR,US-PR,72023,,,,-66.59,18.22,49005
+US72025,United States,Puerto Rico,Caguas,,County,840,USA,US,PR,US-PR,72025,,,,-66.59,18.22,131363
+US72027,United States,Puerto Rico,Camuy,,County,840,USA,US,PR,US-PR,72027,,,,-66.59,18.22,32222
+US72029,United States,Puerto Rico,Canovanas,,County,840,USA,US,PR,US-PR,72029,,,,-66.59,18.22,46108
+US72031,United States,Puerto Rico,Carolina,,County,840,USA,US,PR,US-PR,72031,,,,-66.59,18.22,157453
+US72033,United States,Puerto Rico,Catano,,County,840,USA,US,PR,US-PR,72033,,,,-66.59,18.22,24888
+US72035,United States,Puerto Rico,Cayey,,County,840,USA,US,PR,US-PR,72035,,,,-66.59,18.22,44530
+US72037,United States,Puerto Rico,Ceiba,,County,840,USA,US,PR,US-PR,72037,,,,-66.59,18.22,11853
+US72039,United States,Puerto Rico,Ciales,,County,840,USA,US,PR,US-PR,72039,,,,-66.59,18.22,16912
+US72041,United States,Puerto Rico,Cidra,,County,840,USA,US,PR,US-PR,72041,,,,-66.59,18.22,40343
+US72043,United States,Puerto Rico,Coamo,,County,840,USA,US,PR,US-PR,72043,,,,-66.59,18.22,39265
+US72045,United States,Puerto Rico,Comerio,,County,840,USA,US,PR,US-PR,72045,,,,-66.59,18.22,19539
+US72047,United States,Puerto Rico,Corozal,,County,840,USA,US,PR,US-PR,72047,,,,-66.59,18.22,34165
+US72049,United States,Puerto Rico,Culebra,,County,840,USA,US,PR,US-PR,72049,,,,-66.59,18.22,1314
+US72051,United States,Puerto Rico,Dorado,,County,840,USA,US,PR,US-PR,72051,,,,-66.59,18.22,37208
+US72053,United States,Puerto Rico,Fajardo,,County,840,USA,US,PR,US-PR,72053,,,,-66.59,18.22,32001
+US72054,United States,Puerto Rico,Florida,,County,840,USA,US,PR,US-PR,72054,,,,-66.59,18.22,11910
+US72055,United States,Puerto Rico,Guanica,,County,840,USA,US,PR,US-PR,72055,,,,-66.59,18.22,16783
+US72057,United States,Puerto Rico,Guayama,,County,840,USA,US,PR,US-PR,72057,,,,-66.59,18.22,41706
+US72059,United States,Puerto Rico,Guayanilla,,County,840,USA,US,PR,US-PR,72059,,,,-66.59,18.22,19008
+US72061,United States,Puerto Rico,Guaynabo,,County,840,USA,US,PR,US-PR,72061,,,,-66.59,18.22,88663
+US72063,United States,Puerto Rico,Gurabo,,County,840,USA,US,PR,US-PR,72063,,,,-66.59,18.22,46894
+US72065,United States,Puerto Rico,Hatillo,,County,840,USA,US,PR,US-PR,72065,,,,-66.59,18.22,40390
+US72067,United States,Puerto Rico,Hormigueros,,County,840,USA,US,PR,US-PR,72067,,,,-66.59,18.22,16180
+US72069,United States,Puerto Rico,Humacao,,County,840,USA,US,PR,US-PR,72069,,,,-66.59,18.22,53466
+US72071,United States,Puerto Rico,Isabela,,County,840,USA,US,PR,US-PR,72071,,,,-66.59,18.22,42420
+US72073,United States,Puerto Rico,Jayuya,,County,840,USA,US,PR,US-PR,72073,,,,-66.59,18.22,14906
+US72075,United States,Puerto Rico,Juana Diaz,,County,840,USA,US,PR,US-PR,72075,,,,-66.59,18.22,46960
+US72077,United States,Puerto Rico,Juncos,,County,840,USA,US,PR,US-PR,72077,,,,-66.59,18.22,39128
+US72079,United States,Puerto Rico,Lajas,,County,840,USA,US,PR,US-PR,72079,,,,-66.59,18.22,23315
+US72081,United States,Puerto Rico,Lares,,County,840,USA,US,PR,US-PR,72081,,,,-66.59,18.22,26451
+US72083,United States,Puerto Rico,Las Marias,,County,840,USA,US,PR,US-PR,72083,,,,-66.59,18.22,8599
+US72085,United States,Puerto Rico,Las Piedras,,County,840,USA,US,PR,US-PR,72085,,,,-66.59,18.22,37768
+US72087,United States,Puerto Rico,Loiza,,County,840,USA,US,PR,US-PR,72087,,,,-66.59,18.22,26463
+US72089,United States,Puerto Rico,Luquillo,,County,840,USA,US,PR,US-PR,72089,,,,-66.59,18.22,18547
+US72091,United States,Puerto Rico,Manati,,County,840,USA,US,PR,US-PR,72091,,,,-66.59,18.22,39692
+US72093,United States,Puerto Rico,Maricao,,County,840,USA,US,PR,US-PR,72093,,,,-66.59,18.22,6202
+US72095,United States,Puerto Rico,Maunabo,,County,840,USA,US,PR,US-PR,72095,,,,-66.59,18.22,11023
+US72097,United States,Puerto Rico,Mayaguez,,County,840,USA,US,PR,US-PR,72097,,,,-66.59,18.22,77255
+US72099,United States,Puerto Rico,Moca,,County,840,USA,US,PR,US-PR,72099,,,,-66.59,18.22,36872
+US72101,United States,Puerto Rico,Morovis,,County,840,USA,US,PR,US-PR,72101,,,,-66.59,18.22,31320
+US72103,United States,Puerto Rico,Naguabo,,County,840,USA,US,PR,US-PR,72103,,,,-66.59,18.22,26266
+US72105,United States,Puerto Rico,Naranjito,,County,840,USA,US,PR,US-PR,72105,,,,-66.59,18.22,28557
+US72107,United States,Puerto Rico,Orocovis,,County,840,USA,US,PR,US-PR,72107,,,,-66.59,18.22,21407
+US72109,United States,Puerto Rico,Patillas,,County,840,USA,US,PR,US-PR,72109,,,,-66.59,18.22,17334
+US72111,United States,Puerto Rico,Penuelas,,County,840,USA,US,PR,US-PR,72111,,,,-66.59,18.22,20984
+US72113,United States,Puerto Rico,Ponce,,County,840,USA,US,PR,US-PR,72113,,,,-66.59,18.22,143926
+US72115,United States,Puerto Rico,Quebradillas,,County,840,USA,US,PR,US-PR,72115,,,,-66.59,18.22,24036
+US72117,United States,Puerto Rico,Rincon,,County,840,USA,US,PR,US-PR,72117,,,,-66.59,18.22,14269
+US72119,United States,Puerto Rico,Rio Grande,,County,840,USA,US,PR,US-PR,72119,,,,-66.59,18.22,50550
+US72121,United States,Puerto Rico,Sabana Grande,,County,840,USA,US,PR,US-PR,72121,,,,-66.59,18.22,23054
+US72123,United States,Puerto Rico,Salinas,,County,840,USA,US,PR,US-PR,72123,,,,-66.59,18.22,28633
+US72125,United States,Puerto Rico,San German,,County,840,USA,US,PR,US-PR,72125,,,,-66.59,18.22,32114
+US72127,United States,Puerto Rico,San Juan,,County,840,USA,US,PR,US-PR,72127,,,,-66.59,18.22,344606
+US72129,United States,Puerto Rico,San Lorenzo,,County,840,USA,US,PR,US-PR,72129,,,,-66.59,18.22,37873
+US72131,United States,Puerto Rico,San Sebastian,,County,840,USA,US,PR,US-PR,72131,,,,-66.59,18.22,37964
+US72133,United States,Puerto Rico,Santa Isabel,,County,840,USA,US,PR,US-PR,72133,,,,-66.59,18.22,22066
+US72135,United States,Puerto Rico,Toa Alta,,County,840,USA,US,PR,US-PR,72135,,,,-66.59,18.22,73405
+US72137,United States,Puerto Rico,Toa Baja,,County,840,USA,US,PR,US-PR,72137,,,,-66.59,18.22,79726
+US72139,United States,Puerto Rico,Trujillo Alto,,County,840,USA,US,PR,US-PR,72139,,,,-66.59,18.22,67780
+US72141,United States,Puerto Rico,Utuado,,County,840,USA,US,PR,US-PR,72141,,,,-66.59,18.22,29402
+US72143,United States,Puerto Rico,Vega Alta,,County,840,USA,US,PR,US-PR,72143,,,,-66.59,18.22,37724
+US72145,United States,Puerto Rico,Vega Baja,,County,840,USA,US,PR,US-PR,72145,,,,-66.59,18.22,53371
+US72147,United States,Puerto Rico,Vieques,,County,840,USA,US,PR,US-PR,72147,,,,-66.59,18.22,8771
+US72149,United States,Puerto Rico,Villalba,,County,840,USA,US,PR,US-PR,72149,,,,-66.59,18.22,22993
+US72151,United States,Puerto Rico,Yabucoa,,County,840,USA,US,PR,US-PR,72151,,,,-66.59,18.22,34149
+US72153,United States,Puerto Rico,Yauco,,County,840,USA,US,PR,US-PR,72153,,,,-66.59,18.22,36439
+US72900,United States,Puerto Rico,Unassigned,,County,840,USA,US,PR,US-PR,72900,,,,,,
 US78,United States,Virgin Islands,,,Territory,840,USA,US,VI,US-VI,78,,,,-64.9,18.34,107268
 US80008,United States,Colorado,Out of CO,,County,840,USA,US,CO,US-CO,80008,,,,,,
 US80013,United States,Georgia,Out of GA,,County,840,USA,US,GA,US-GA,80013,,,,,,
