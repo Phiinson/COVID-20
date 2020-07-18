@@ -1059,8 +1059,21 @@ NL,Netherlands,,,,Country,528,NLD,NL,NL,NL,,NL,,,5.29,52.13,17134873
 NLAW,Netherlands,Aruba,,,Province,528,NLD,NL,AW,NL-AW,,,,,-69.97,12.52,106766
 NLBQ,Netherlands,"Bonaire, Sint Eustatius and Saba",,,Province,528,NLD,NL,BQ,NL-BQ,,,,,-68.24,12.18,26221
 NLCW,Netherlands,Curaçao,,,Province,528,NLD,NL,CW,NL-CW,,,,,-68.99,12.17,164100
+NLDR,Netherlands,Drenthe,,,Province,528,NLD,NL,DR,NL-DR,,,,,6.62,52.86,493682
+NLFL,Netherlands,Flevoland,,,Province,528,NLD,NL,FL,NL-FL,,,,,5.52,52.55,423021
+NLFR,Netherlands,Friesland,,,Province,528,NLD,NL,FR,NL-FR,,,,,5.79,53.09,649957
+NLGE,Netherlands,Gelderland,,,Province,528,NLD,NL,GE,NL-GE,,,,,5.94,52.06,2085952
+NLGR,Netherlands,Groningen,,,Province,528,NLD,NL,GR,NL-GR,,,,,6.74,53.22,585866
+NLLI,Netherlands,Limburg,,,Province,528,NLD,NL,LI,NL-LI,,,,,5.93,51.21,1117201
+NLNB,Netherlands,Noord-Brabant,,,Province,528,NLD,NL,NB,NL-NB,,,,,5.18,51.56,2562955
+NLNH,Netherlands,Noord-Holland,,,Province,528,NLD,NL,NH,NL-NH,,,,,4.92,52.6,2879527
 NLNL,Netherlands,Netherlands,,,Province,528,NLD,NL,NL,NL,,,,,5.29,52.13,
+NLOV,Netherlands,Overijssel,,,Province,528,NLD,NL,OV,NL-OV,,,,,6.44,52.44,1162406
 NLSX,Netherlands,Sint Maarten,,,Province,528,NLD,NL,SX,NL-SX,,,,,-63.05,18.04,42882
+NLUT,Netherlands,Utrecht,,,Province,528,NLD,NL,UT,NL-UT,,,,,5.16,52.08,1354834
+NLZE,Netherlands,Zeeland,,,Province,528,NLD,NL,ZE,NL-ZE,,,,,3.86,51.48,383488
+NLZH,Netherlands,Zuid-Holland,,,Province,528,NLD,NL,ZH,NL-ZH,,,,,4.46,51.94,3708696
+NLZZ,Netherlands,Unassigned,,,Province,528,NLD,NL,ZZ,NL-ZZ,,,,,,,
 NO,Norway,,,,Country,578,NOR,NO,NO,NO,,NO,,,8.47,60.47,5421242
 NP,Nepal,,,,Country,524,NPL,NP,NP,NP,,NP,,,84.25,28.17,29136808
 NZ,New Zealand,,,,Country,554,NZL,NZ,NZ,NZ,,NZ,,,174.89,-40.9,4822233
@@ -1540,6 +1553,7 @@ US08025,United States,Colorado,Crowley,,County,840,USA,US,CO,US-CO,08025,,,,-103
 US08027,United States,Colorado,Custer,,County,840,USA,US,CO,US-CO,08027,,,,-105.37,38.11,5068
 US08029,United States,Colorado,Delta,,County,840,USA,US,CO,US-CO,08029,,,,-107.86,38.86,31162
 US08031,United States,Colorado,Denver,,County,840,USA,US,CO,US-CO,08031,,,,-104.87,39.76,727211
+US08033,United States,Colorado,Dolores,,County,840,USA,US,CO,US-CO,08033,,,,-108.52,37.75,2055
 US08035,United States,Colorado,Douglas,,County,840,USA,US,CO,US-CO,08035,,,,-104.93,39.33,351154
 US08037,United States,Colorado,Eagle,,County,840,USA,US,CO,US-CO,08037,,,,-106.69,39.63,55127
 US08039,United States,Colorado,Elbert,,County,840,USA,US,CO,US-CO,08039,,,,-104.14,39.29,26729
@@ -2987,6 +3001,7 @@ US31049,United States,Nebraska,Deuel,,County,840,USA,US,NE,US-NE,31049,,,,-102.3
 US31051,United States,Nebraska,Dixon,,County,840,USA,US,NE,US-NE,31051,,,,-96.87,42.49,5636
 US31053,United States,Nebraska,Dodge,,County,840,USA,US,NE,US-NE,31053,,,,-96.66,41.58,36565
 US31055,United States,Nebraska,Douglas,,County,840,USA,US,NE,US-NE,31055,,,,-96.15,41.3,571327
+US31057,United States,Nebraska,Dundy,,County,840,USA,US,NE,US-NE,31057,,,,-101.69,40.18,1693
 US31059,United States,Nebraska,Fillmore,,County,840,USA,US,NE,US-NE,31059,,,,-97.6,40.52,5462
 US31061,United States,Nebraska,Franklin,,County,840,USA,US,NE,US-NE,31061,,,,-98.95,40.18,2979
 US31063,United States,Nebraska,Frontier,,County,840,USA,US,NE,US-NE,31063,,,,-100.39,40.53,2627
