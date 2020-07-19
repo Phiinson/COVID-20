@@ -1105,6 +1105,7 @@ PESAM,Peru,San Martin,,,Province,604,PER,PE,SAM,PE-SAM,,,,,-76.73,-7.04,899600
 PETAC,Peru,Tacna,,,Province,604,PER,PE,TAC,PE-TAC,,,,,-70.28,-17.64,371000
 PETUM,Peru,Tumbes,,,Province,604,PER,PE,TUM,PE-TUM,,,,,-80.55,-3.86,251500
 PEUCA,Peru,Ucayali,,,Province,604,PER,PE,UCA,PE-UCA,,,,,-73.44,-9.62,589100
+PEZZ,Peru,Unassigned,,,Province,604,PER,PE,ZZ,PE-ZZ,,,,,,,
 PG,Papua New Guinea,,,,Country,598,PNG,PG,PG,PG,,PG,,,143.96,-6.31,8947027
 PH,Philippines,,,,Country,608,PHL,PH,PH,PH,,PH,,,121.77,12.88,109581085
 PK,Pakistan,,,,Country,586,PAK,PK,PK,PK,,PK,,,69.35,30.38,220892331
@@ -4259,6 +4260,7 @@ US48425,United States,Texas,Somervell,,County,840,USA,US,TX,US-TX,48425,,,,-97.7
 US48427,United States,Texas,Starr,,County,840,USA,US,TX,US-TX,48427,,,,-98.74,26.56,64633
 US48429,United States,Texas,Stephens,,County,840,USA,US,TX,US-TX,48429,,,,-98.84,32.74,9366
 US48431,United States,Texas,Sterling,,County,840,USA,US,TX,US-TX,48431,,,,-101.05,31.83,1291
+US48433,United States,Texas,Stonewall,,County,840,USA,US,TX,US-TX,48433,,,,-100.25,33.18,1350
 US48435,United States,Texas,Sutton,,County,840,USA,US,TX,US-TX,48435,,,,-100.54,30.5,3776
 US48437,United States,Texas,Swisher,,County,840,USA,US,TX,US-TX,48437,,,,-101.73,34.53,7397
 US48439,United States,Texas,Tarrant,,County,840,USA,US,TX,US-TX,48439,,,,-97.29,32.77,2102515
@@ -4736,7 +4738,7 @@ US72089,United States,Puerto Rico,Luquillo,,Municipality,840,USA,US,PR,US-PR,720
 US72091,United States,Puerto Rico,Manati,,Municipality,840,USA,US,PR,US-PR,72091,,,,-66.49,18.42,44113
 US72093,United States,Puerto Rico,Maricao,,Municipality,840,USA,US,PR,US-PR,72093,,,,-66.94,18.17,6276
 US72095,United States,Puerto Rico,Maunabo,,Municipality,840,USA,US,PR,US-PR,72095,,,,-65.92,18.02,12225
-US72097,United States,Puerto Rico,Mayaguez,,Municipality,840,USA,US,PR,US-PR,72097,,,,-67.34,18.18,89080
+US72097,United States,Puerto Rico,Mayaguez,,Municipality,840,USA,US,PR,US-PR,72097,,,,-67.15,18.2,89080
 US72099,United States,Puerto Rico,Moca,,Municipality,840,USA,US,PR,US-PR,72099,,,,-67.08,18.38,40109
 US72101,United States,Puerto Rico,Morovis,,Municipality,840,USA,US,PR,US-PR,72101,,,,-66.42,18.32,32610
 US72103,United States,Puerto Rico,Naguabo,,Municipality,840,USA,US,PR,US-PR,72103,,,,-65.75,18.23,26720
@@ -4765,8 +4767,12 @@ US72147,United States,Puerto Rico,Vieques,,Municipality,840,USA,US,PR,US-PR,7214
 US72149,United States,Puerto Rico,Villalba,,Municipality,840,USA,US,PR,US-PR,72149,,,,-66.47,18.13,26073
 US72151,United States,Puerto Rico,Yabucoa,,Municipality,840,USA,US,PR,US-PR,72151,,,,-65.9,18.07,37941
 US72153,United States,Puerto Rico,Yauco,,Municipality,840,USA,US,PR,US-PR,72153,,,,-66.86,18.08,42043
+US72888,United States,Puerto Rico,Out of PR,,Municipality,840,USA,US,PR,US-PR,72888,,,,-66.59,18.22,
 US72900,United States,Puerto Rico,Unassigned,,Municipality,840,USA,US,PR,US-PR,72900,,,,,,
 US78,United States,Virgin Islands,,,Territory,840,USA,US,VI,US-VI,78,,,,-64.9,18.34,107268
+US78010,United States,Virgin Islands,St. Croix,,Island,840,USA,US,VI,US-VI,78010,,,,,,
+US78020,United States,Virgin Islands,St. John,,Island,840,USA,US,VI,US-VI,78020,,,,,,
+US78030,United States,Virgin Islands,St. Thomas,,Island,840,USA,US,VI,US-VI,78030,,,,,,
 US78900,United States,Virgin Islands,Unassigned,,Island,840,USA,US,VI,US-VI,78900,,,,,,
 US80008,United States,Colorado,Out of CO,,County,840,USA,US,CO,US-CO,80008,,,,,,
 US80013,United States,Georgia,Out of GA,,County,840,USA,US,GA,US-GA,80013,,,,,,
