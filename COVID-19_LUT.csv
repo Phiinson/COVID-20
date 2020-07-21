@@ -41,7 +41,7 @@ BRDF,Brazil,Distrito Federal,,,Province,076,BRA,BR,DF,BR-DF,,,,,-47.86,-15.80,30
 BRES,Brazil,Espirito Santo,,,Province,076,BRA,BR,ES,BR-ES,,,,,-40.31,-19.18,4018650
 BRGO,Brazil,Goias,,,Province,076,BRA,BR,GO,BR-GO,,,,,-49.84,-15.83,7018354
 BRMA,Brazil,Maranhao,,,Province,076,BRA,BR,MA,BR-MA,,,,,-45.27,-4.96,7075181
-BRMG,Brazil,Minas Gerais,,,Province,076,BRA,BR,MG,BR-MG,,,,,-44.56,-18.51,21168791
+BRMG,Brazil,Minas Gerais,,,Province,076,BRA,BR,MG,BR-MG,,,,,-44.55,-18.51,21168791
 BRMS,Brazil,Mato Grosso do Sul,,,Province,076,BRA,BR,MS,BR-MS,,,,,-54.79,-20.77,2778986
 BRMT,Brazil,Mato Grosso,,,Province,076,BRA,BR,MT,BR-MT,,,,,-56.92,-12.68,3484466
 BRPA,Brazil,Para,,,Province,076,BRA,BR,PA,BR-PA,,,,,-54.93,-2.00,8602865
@@ -119,7 +119,7 @@ CNHK,China,Hong Kong,,,Province,156,CHN,CN,HK,CN-HK,,,,,114.20,22.30,7496988
 CNHL,China,Heilongjiang,,,Province,156,CHN,CN,HL,CN-HL,,,,,127.76,47.86,37730000
 CNHN,China,Hunan,,,Province,156,CHN,CN,HN,CN-HN,,,,,111.71,27.61,68990000
 CNJL,China,Jilin,,,Province,156,CHN,CN,JL,CN-JL,,,,,126.19,43.67,27040000
-CNJS,China,Jiangsu,,,Province,156,CHN,CN,JS,CN-JS,,,,,119.46,32.97,80510000
+CNJS,China,Jiangsu,,,Province,156,CHN,CN,JS,CN-JS,,,,,119.45,32.97,80510000
 CNJX,China,Jiangxi,,,Province,156,CHN,CN,JX,CN-JX,,,,,115.72,27.61,46480000
 CNLN,China,Liaoning,,,Province,156,CHN,CN,LN,CN-LN,,,,,122.61,41.30,43590000
 CNMO,China,Macau,,,Province,156,CHN,CN,MO,CN-MO,,,,,113.55,22.17,649342
@@ -1220,7 +1220,7 @@ SED,Sweden,Sormland,,,Province,752,SWE,SE,D,SE-D,,,,,16.75,59.03,297540
 SEE,Sweden,Ostergotland,,,Province,752,SWE,SE,E,SE-E,,,,,15.52,58.35,465495
 SEF,Sweden,Jonkoping,,,Province,752,SWE,SE,F,SE-F,,,,,14.34,57.37,363599
 SEG,Sweden,Kronoberg,,,Province,752,SWE,SE,G,SE-G,,,,,14.41,56.72,201469
-SEH,Sweden,Kalmar,,,Province,752,SWE,SE,H,SE-H,,,,,16.18,57.24,245446
+SEH,Sweden,Kalmar,,,Province,752,SWE,SE,H,SE-H,,,,,16.18,57.23,245446
 SEI,Sweden,Gotland,,,Province,752,SWE,SE,I,SE-I,,,,,18.49,57.47,59686
 SEK,Sweden,Blekinge,,,Province,752,SWE,SE,K,SE-K,,,,,15.02,56.28,159606
 SEM,Sweden,Skane,,,Province,752,SWE,SE,M,SE-M,,,,,13.60,55.99,1377827
