@@ -782,6 +782,7 @@ ITC1X,NUTS3,380,ITA,IT,21,IT-21,,ITC1X,,,,,,Italy,Northwest Italy,Piemonte,Unass
 ITC1Z,NUTS3,380,ITA,IT,21,IT-21,,ITC1Z,,,,,,Italy,Northwest Italy,Piemonte,Out of Region/Province
 ITC2,NUTS2,380,ITA,IT,23,IT-23,,ITC2,,,7.32,45.74,125666,Italy,Northwest Italy,Valle d'Aosta,
 ITC20,NUTS3,380,ITA,IT,23,IT-23,,ITC20,,,7.32,45.74,125666,Italy,Northwest Italy,Valle d'Aosta,Aosta
+ITC2Z,NUTS3,380,ITA,IT,23,IT-23,,ITC2Z,,,,,,Italy,Northwest Italy,Valle d'Aosta,Out of Region/Province
 ITC3,NUTS2,380,ITA,IT,42,IT-42,,ITC3,,,8.93,44.41,1550640,Italy,Northwest Italy,Liguria,
 ITC31,NUTS3,380,ITA,IT,42,IT-42,,ITC31,,,8.03,43.89,213840,Italy,Northwest Italy,Liguria,Imperia
 ITC32,NUTS3,380,ITA,IT,42,IT-42,,ITC32,,,8.48,44.31,276064,Italy,Northwest Italy,Liguria,Savona
@@ -2993,6 +2994,7 @@ US30900,County,840,USA,US,MT,US-MT,30900,,,,,,,United States,Montana,Unassigned,
 US31,State,840,USA,US,NE,US-NE,31,,,,-98.27,41.13,1934408,United States,Nebraska,,
 US31001,County,840,USA,US,NE,US-NE,31001,,,,-98.50,40.52,31363,United States,Nebraska,Adams,
 US31003,County,840,USA,US,NE,US-NE,31003,,,,-98.07,42.18,6298,United States,Nebraska,Antelope,
+US31005,County,840,USA,US,NE,US-NE,31005,,,,-101.70,41.57,463,United States,Nebraska,Arthur,
 US31007,County,840,USA,US,NE,US-NE,31007,,,,-103.71,41.55,745,United States,Nebraska,Banner,
 US31011,County,840,USA,US,NE,US-NE,31011,,,,-98.07,41.71,5192,United States,Nebraska,Boone,
 US31013,County,840,USA,US,NE,US-NE,31013,,,,-103.09,42.22,10783,United States,Nebraska,Box Butte,
@@ -4485,6 +4487,7 @@ US51678,County,840,USA,US,VA,US-VA,51678,,,,-79.44,37.78,7446,United States,Virg
 US51680,County,840,USA,US,VA,US-VA,51680,,,,-79.20,37.40,82168,United States,Virginia,Lynchburg,
 US51683,County,840,USA,US,VA,US-VA,51683,,,,-77.49,38.75,41085,United States,Virginia,Manassas,
 US51685,County,840,USA,US,VA,US-VA,51685,,,,-77.44,38.77,17478,United States,Virginia,Manassas Park,
+US51690,County,840,USA,US,VA,US-VA,51690,,,,,,13101,United States,Virginia,Martinsville City,
 US51690,County,840,USA,US,VA,US-VA,51690,,,,-79.86,36.68,12554,United States,Virginia,Martinsville,
 US51700,County,840,USA,US,VA,US-VA,51700,,,,-76.52,37.08,179225,United States,Virginia,Newport News,
 US51710,County,840,USA,US,VA,US-VA,51710,,,,-76.26,36.90,242742,United States,Virginia,Norfolk,
