@@ -825,6 +825,7 @@ ITF33,NUTS3,380,ITA,IT,72,IT-72,,ITF33,,,14.25,40.84,3084890,Italy,South Italy,C
 ITF34,NUTS3,380,ITA,IT,72,IT-72,,ITF34,,,14.80,40.91,418306,Italy,South Italy,Campania,Avellino
 ITF35,NUTS3,380,ITA,IT,72,IT-72,,ITF35,,,14.76,40.68,1098513,Italy,South Italy,Campania,Salerno
 ITF3X,NUTS3,380,ITA,IT,72,IT-72,,ITF3X,,,,,,Italy,South Italy,Campania,Unassigned
+ITF3Z,NUTS3,380,ITA,IT,72,IT-72,,ITF3Z,,,,,,Italy,South Italy,Campania,Out of Region/Province
 ITF4,NUTS2,380,ITA,IT,75,IT-75,,ITF4,,,16.87,41.13,4029053,Italy,South Italy,Puglia,
 ITF43,NUTS3,380,ITA,IT,75,IT-75,,ITF43,,,17.23,40.47,576756,Italy,South Italy,Puglia,Taranto
 ITF44,NUTS3,380,ITA,IT,75,IT-75,,ITF44,,,17.95,40.64,392975,Italy,South Italy,Puglia,Brindisi
@@ -2303,6 +2304,7 @@ US20191,County,840,USA,US,KS,US-KS,20191,,,,-97.48,37.24,22836,United States,Kan
 US20193,County,840,USA,US,KS,US-KS,20193,,,,-101.06,39.35,7777,United States,Kansas,Thomas,
 US20195,County,840,USA,US,KS,US-KS,20195,,,,-99.87,38.91,2803,United States,Kansas,Trego,
 US20197,County,840,USA,US,KS,US-KS,20197,,,,-96.20,38.95,6931,United States,Kansas,Wabaunsee,
+US20199,County,840,USA,US,KS,US-KS,20199,,,,-101.76,38.92,1518,United States,Kansas,Wallace,
 US20201,County,840,USA,US,KS,US-KS,20201,,,,-97.09,39.78,5406,United States,Kansas,Washington,
 US20203,County,840,USA,US,KS,US-KS,20203,,,,-101.35,38.48,2119,United States,Kansas,Wichita,
 US20205,County,840,USA,US,KS,US-KS,20205,,,,-95.74,37.56,8525,United States,Kansas,Wilson,
