@@ -45,7 +45,7 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 | **Latitude**       | Double     | Geospatial coordinate (centroid), north–south |
 | **Population**     | Integer    | Total population of each geospatial unit |
 
-## Data Structure
+## COVID-19 Data Structure
 
 |     Column         |    Type    |              Description            |
 |:------------------:|:----------:|:------------------------------------|
@@ -56,7 +56,30 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 | **Type**           | Character  | Type of the reported cases |
 | **Age**            | Character  | Age group of the reported cases |
 | **Sex**            | Character  | Sex/gender of the reported cases |
-| **Source**         | Character  | Source of the data: CTP, JHU, NYC, NYT, DPC, RKI |
+| **Source**         | Character  | Source of the data: [JHU](https://github.com/CSSEGISandData/COVID-19), [CTP](https://covidtracking.com), [NYC](https://github.com/nychealth/coronavirus-data), [NYT](https://github.com/nytimes/covid-19-data), [DPC](https://github.com/pcm-dpc/COVID-19), [RKI](https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0) |
+
+## Hydromet Data Structure
+
+|     Column         |    Type    |   Unit   |              Description            |
+|:------------------:|:----------:|:--------:|:------------------------------------|
+| **ID**             | Character  |          | Geospatial ID, unique identifier (described above) |
+| **Date**           | Date       |          | Date of data record |
+| **Source**         | Character  |          | Source of the data: [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5), [NLDAS](https://ldas.gsfc.nasa.gov/nldas) |
+| **T**              | Double     |   °C     | Average daily near-surface air temperature |
+| **Tmax**           | Double     |   °C     | Maximum daily near-surface air temperature |
+| **Tmin**           | Double     |   °C     | Minimum daily near-surface air temperature |
+| **Td**             | Double     |   °C     | Average daily near-surface dew point temperature |
+| **Tdd**            | Double     |   °C     | Average daily near-surface dew point depression |
+| **RH**             | Double     |    %     | Average daily near-surface relative humidity |
+| **SH**             | Double     |  kg/kg   | Average daily near-surface specific humidity |
+| **SP**             | Double     |   Pa     | Surface pressure |
+| **SR**             | Double     | J/m<sup>2</sup> | Surface solar radiation (downwards) |
+| **SM**             | Double     | m of equivalent water | Volumetric soil water layer / soil moisture content |
+| **P**              | Double     |  mm/day  | Total daily precipitation |
+| **LH**             | Double     | J/m<sup>2</sup> | Surface latent heat flux |
+| **PE**             | Double     |    m     | Potential evaporation / potential latent heat flux |
+| **U**              | Double     |    m/s   | 10-m above ground Zonal wind speed |
+| **V**              | Double     |    m/s   | 10-m above ground Meridional wind speed |
 
 ## Case Types
 
