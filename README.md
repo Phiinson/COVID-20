@@ -64,22 +64,22 @@ Note that COVID-19 data for some European countries from Johns Hopkins Universit
 |:------------------:|:----------:|:--------:|:------------------------------------|
 | **ID**             | Character  |          | Geospatial ID, unique identifier (described above) |
 | **Date**           | Date       |          | Date of data record |
+| **T**              | Double     |   °C     | Daily average near-surface air temperature |
+| **Tmax**           | Double     |   °C     | Daily maximum near-surface air temperature |
+| **Tmin**           | Double     |   °C     | Daily minimum near-surface air temperature |
+| **Td**             | Double     |   °C     | Daily average near-surface dew point temperature |
+| **Tdd**            | Double     |   °C     | Daily average near-surface dew point depression |
+| **RH**             | Double     |    %     | Daily average near-surface relative humidity |
+| **SH**             | Double     |  kg/kg   | Daily average near-surface specific humidity |
+| **SM**             | Double     | m of equivalent water | Daily average volumetric soil water layer / soil moisture content |
+| **SP**             | Double     |   Pa     | Daily average surface pressure |
+| **SR**             | Double     | J/m<sup>2</sup> | Daily average surface solar radiation (downwards) |
+| **LH**             | Double     | J/m<sup>2</sup> | Daily average surface latent heat flux |
+| **PE**             | Double     |    m     | Daily average potential evaporation / potential latent heat flux |
+| **P**              | Double     |  mm/day  | Daily total precipitation |
+| **U**              | Double     |    m/s   | Daily average 10-m above ground Zonal wind speed |
+| **V**              | Double     |    m/s   | Daily average 10-m above ground Meridional wind speed |
 | **Source**         | Character  |          | Source of the data: [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5), [NLDAS](https://ldas.gsfc.nasa.gov/nldas) |
-| **T**              | Double     |   °C     | Average daily near-surface air temperature |
-| **Tmax**           | Double     |   °C     | Maximum daily near-surface air temperature |
-| **Tmin**           | Double     |   °C     | Minimum daily near-surface air temperature |
-| **Td**             | Double     |   °C     | Average daily near-surface dew point temperature |
-| **Tdd**            | Double     |   °C     | Average daily near-surface dew point depression |
-| **RH**             | Double     |    %     | Average daily near-surface relative humidity |
-| **SH**             | Double     |  kg/kg   | Average daily near-surface specific humidity |
-| **SP**             | Double     |   Pa     | Surface pressure |
-| **SR**             | Double     | J/m<sup>2</sup> | Surface solar radiation (downwards) |
-| **SM**             | Double     | m of equivalent water | Volumetric soil water layer / soil moisture content |
-| **P**              | Double     |  mm/day  | Total daily precipitation |
-| **LH**             | Double     | J/m<sup>2</sup> | Surface latent heat flux |
-| **PE**             | Double     |    m     | Potential evaporation / potential latent heat flux |
-| **U**              | Double     |    m/s   | 10-m above ground Zonal wind speed |
-| **V**              | Double     |    m/s   | 10-m above ground Meridional wind speed |
 
 ## Case Types
 
